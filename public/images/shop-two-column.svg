@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6" height="11" viewBox="0 0 6 11">
+  <defs>
+    <clipPath id="clip-two-column">
+      <rect width="6" height="11"/>
+    </clipPath>
+  </defs>
+  <g id="two-column" clip-path="url(#clip-two-column)">
+    <g id="_02" data-name="02" transform="translate(-0.984 -1)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="2" height="10.999" transform="translate(0.984 1)" fill="#0c1623"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="2" height="10.999" transform="translate(4.984 1)" fill="#0c1623"/>
+    </g>
+  </g>
+</svg>

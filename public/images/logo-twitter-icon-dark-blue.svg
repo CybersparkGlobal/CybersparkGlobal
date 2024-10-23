@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="414" viewBox="0 0 420 414">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="405.279" height="330"/>
+    </clipPath>
+    <clipPath id="clip-logo-twitter-icon-dark-blue">
+      <rect width="420" height="414"/>
+    </clipPath>
+  </defs>
+  <g id="logo-twitter-icon-dark-blue" clip-path="url(#clip-logo-twitter-icon-dark-blue)">
+    <g id="twitter-icon" transform="translate(7 42)" clip-path="url(#clip-path)">
+      <g id="twitter-svgrepo-com" transform="translate(1.746 1.613)">
+        <path id="Path_1" data-name="Path 1" d="M60.38,386.1A234.151,234.151,0,0,0,186.2,422.537c129.987,0,235.357-105.383,235.357-235.358q0-4.868-.193-9.678c4.7-3.7,33.78-27.007,40.908-41.99,0,0-23.614,9.813-46.725,12.125-.046,0-.1.01-.148.01a1.069,1.069,0,0,0,.125-.079c2.13-1.423,31.9-21.69,35.932-45.837a286.705,286.705,0,0,1-40.09,16.714c-3.872,1.286-7.924,2.551-12.1,3.723a82.585,82.585,0,0,0-140.734,75.119c-6.375-.263-103.459-5.7-169.505-85.686,0,0-39.473,53.887,23.523,109.3,0,0-19.15-.763-35.671-10.634,0,0-6.068,65.283,65.273,81.975,0,0-14.038,5.317-36.433,1.526,0,0,12.523,52.748,75.906,57.678,0,0-50.12,45.277-121.268,34.653Z" transform="translate(-60.353 -96.021)" fill="#1e242f"/>
+      </g>
+    </g>
+  </g>
+</svg>

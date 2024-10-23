@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="24" viewBox="0 0 28 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.045" y1="0.208" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b4fe2"/>
+      <stop offset="1" stop-color="#152bca"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.125" x2="0.104" y2="0.812" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#152bca"/>
+      <stop offset="1" stop-color="#3b4fe2"/>
+    </linearGradient>
+  </defs>
+  <g id="Browser_Shield" data-name="Browser Shield" transform="translate(-2 -4)">
+    <rect id="Rectangle_60" data-name="Rectangle 60" width="28" height="24" rx="4" transform="translate(2 4)" fill="#ebebeb"/>
+    <path id="Path_396" data-name="Path 396" d="M30,8v2H2V8A4,4,0,0,1,6,4H26A4,4,0,0,1,30,8Z" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="1" cy="1" r="1" transform="translate(12 6)" fill="#4684d2"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="1" cy="1" r="1" transform="translate(9 6)" fill="#4684d2"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="1" cy="1" r="1" transform="translate(6 6)" fill="#4684d2"/>
+    <path id="Path_397" data-name="Path 397" d="M21,15c-3.24,0-4.08-1.41-4.11-1.45A1,1,0,0,0,16,13h0a1,1,0,0,0-.87.52s-.66,1.1-2.92,1.4A9.12,9.12,0,0,1,11,15a1,1,0,0,0-1,1v1.94a7,7,0,0,0,4.4,6.5l1.229.49a1,1,0,0,0,.74,0l1.23-.49a7,7,0,0,0,4.4-6.5V16A1,1,0,0,0,21,15Z" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

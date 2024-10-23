@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="2" height="2" rx="0.5" transform="translate(8 8)" fill="#343e3a"/>
+  </g>
+</svg>

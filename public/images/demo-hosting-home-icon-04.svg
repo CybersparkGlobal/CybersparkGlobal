@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="22" viewBox="0 0 28 22">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.167" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b4fe2"/>
+      <stop offset="1" stop-color="#152bca"/>
+    </linearGradient>
+  </defs>
+  <g id="Email_Notice" data-name="Email Notice" transform="translate(-2 -5)">
+    <path id="Path_412" data-name="Path 412" d="M21,5H5A3,3,0,0,0,2,8V19a3,3,0,0,0,3,3H23a1,1,0,0,0,1-1V8A3,3,0,0,0,21,5Z" fill="#ebebeb"/>
+    <path id="Path_413" data-name="Path 413" d="M13,14a1,1,0,0,1-.45-.11l-6-3a1,1,0,1,1,.9-1.78L13,11.88l5.55-2.77a1,1,0,1,1,.9,1.78l-6,3A1,1,0,0,1,13,14Z" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="7" cy="7" r="7" transform="translate(16 13)" fill="url(#linear-gradient)"/>
+    <path id="Path_414" data-name="Path 414" d="M23,21a1,1,0,0,1-1-1V17a1,1,0,0,1,2,0v3A1,1,0,0,1,23,21Z" fill="#3d8cf2"/>
+    <path id="Path_415" data-name="Path 415" d="M23,24a1,1,0,1,1,1-1A1,1,0,0,1,23,24Z" fill="#3d8cf2"/>
+  </g>
+</svg>

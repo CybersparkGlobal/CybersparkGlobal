@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="21" viewBox="0 0 32 21">
+  <defs>
+    <clipPath id="clip-american_express">
+      <rect width="32" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="american_express" data-name="american express" clip-path="url(#clip-american_express)">
+    <g id="E-Com" transform="translate(-4 -9.5)">
+      <g id="Amex_3_">
+        <g id="Amex">
+          <g id="Group_1" data-name="Group 1">
+            <path id="Path_1" data-name="Path 1" d="M34,9.5H6a2.006,2.006,0,0,0-2,2v17a2.006,2.006,0,0,0,2,2H34a2.006,2.006,0,0,0,2-2v-17A2.006,2.006,0,0,0,34,9.5Z" fill="#0b7fc3" fill-rule="evenodd"/>
+          </g>
+        </g>
+        <g id="Amex_1_">
+          <g id="Group_2" data-name="Group 2">
+            <path id="Path_2" data-name="Path 2" d="M10.7,20.3h1.6l-.8-2ZM33,16.5H28.9l-1,1.1L27,16.5H18.3l-.8,1.8-.8-1.8H13.2v.8l-.4-.8h-3l-2.9,7h3.5l.4-1.1h1l.4,1.1h3.9v-.8l.3.8h2l.3-.9v.9h8l1-1.1.9,1.1h4.1L30.1,20Zm-12.1,6H19.8V18.6l-1.7,3.9h-1l-1.7-3.9v3.9H13.1l-.4-1.1H10.3l-.4,1.1H8.6l2.1-5h1.7l1.9,4.7V17.5h1.9l1.5,3.4,1.4-3.4H21v5Zm9.9,0H29.3L28,20.8l-1.5,1.7H22v-5h4.6L28,19.1l1.5-1.6h1.4L28.7,20Zm-7.7-4v.9h2.5v1H23.1v1h2.8l1.3-1.5L26,18.5Z" fill="#fff" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

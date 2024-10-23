@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="47" viewBox="0 0 45 47">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="45" height="47"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="_15" data-name="15" transform="translate(-1999.468 -823.6)">
+      <path id="_Path_" data-name="&lt;Path&gt;" d="M2011.1,852.547A9.113,9.113,0,0,1,2017,848.11c5.07-1.2,5.894-1.584,7.8-6.845a12.665,12.665,0,0,1,7.415-7.605l2.725,3.3q-4.975,1.965-4.5,4.69a33,33,0,0,1,4.5,6.655c.856,2,.475,6.972-.76,9.126-1.2,2.155-1.584,11.186-3.644,12.771-2.092,1.616-4.056.856-8.841,0-6.591-1.775-14.957-7.986-13.531-17.461.475-3.391,4.215-12.073,3.581-15.971q-.38-2.25-3.581-6.211l2.82-2.155,2.947,4.056" transform="translate(0 -2.254)" fill="none" stroke="#16c1cc" stroke-linecap="square" stroke-width="2"/>
+      <path id="_Path_2" data-name="&lt;Path&gt;" d="M2038.583,839.518c-1.933-.6-4.215-1.87-4.722-4.627q-.951-5.007,2.535-5.831l-.1-3.961h2.916v3.3a.609.609,0,0,0,.76.57,2.731,2.731,0,0,1,1.584.063.873.873,0,0,0,.982-.38l1.458-2.5,2.155,1.68-1.141,2.155a1.009,1.009,0,0,0,.349,1.331c.634.412,1.394.951,1.458,1.268" transform="translate(-17.531)" fill="none" stroke="#16c1cc" stroke-linecap="square" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

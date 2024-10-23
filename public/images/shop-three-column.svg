@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="11" viewBox="0 0 10 11">
+  <defs>
+    <clipPath id="clip-three-column">
+      <rect width="10" height="11"/>
+    </clipPath>
+  </defs>
+  <g id="three-column" clip-path="url(#clip-three-column)">
+    <g id="_3" data-name="3" transform="translate(-0.984 -1)">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="2" height="10.999" transform="translate(0.984 1)" fill="#0c1623"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="2" height="10.999" transform="translate(4.992 1)" fill="#0c1623"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="2" height="10.999" transform="translate(8.984 1)" fill="#0c1623"/>
+    </g>
+  </g>
+</svg>

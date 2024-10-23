@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="64" viewBox="0 0 102 64">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_2" data-name="Path 2" d="M14,28.8A4.8,4.8,0,0,1,18.781,24h92.438A4.8,4.8,0,0,1,116,28.8V83.2a4.8,4.8,0,0,1-4.781,4.8H18.781A4.8,4.8,0,0,1,14,83.2Z" transform="translate(-14 -24)" fill="#000d3b"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="21.6" height="35.3"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_4" data-name="Path 4" d="M69.9,58.189a22.445,22.445,0,0,1,8.6-17.67A22.463,22.463,0,1,0,64.6,80.677a22.662,22.662,0,0,0,13.9-4.819,22.3,22.3,0,0,1-8.6-17.67" transform="translate(-42.2 -35.7)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_6" data-name="Path 6" d="M114.7,58.189A22.408,22.408,0,0,1,92.3,80.677a22.662,22.662,0,0,1-13.9-4.819,22.452,22.452,0,0,0,0-35.339,22.415,22.415,0,0,1,36.3,17.67" transform="translate(-78.4 -35.7)"/>
+    </clipPath>
+    <clipPath id="clip-mastercard">
+      <rect width="102" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="mastercard" clip-path="url(#clip-mastercard)">
+    <rect width="102" height="64" fill="#fff"/>
+    <g id="Group_20" data-name="Group 20" transform="translate(-312.342 -284.189)">
+      <g id="_1933703_charge_credit_card_debit_mastercard_payment_icon" data-name="1933703_charge_credit card_debit_mastercard_payment_icon" transform="translate(312.342 284.189)">
+        <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+          <g id="Group_1" data-name="Group 1">
+            <path id="SVGID_1_" d="M14,28.8A4.8,4.8,0,0,1,18.781,24h92.438A4.8,4.8,0,0,1,116,28.8V83.2a4.8,4.8,0,0,1-4.781,4.8H18.781A4.8,4.8,0,0,1,14,83.2Z" transform="translate(-14 -24)" fill="#000d3b"/>
+          </g>
+          <g id="Group_3" data-name="Group 3">
+            <g id="Group_2" data-name="Group 2" clip-path="url(#clip-path)">
+              <path id="Path_1" data-name="Path 1" d="M14,28.8A4.8,4.8,0,0,1,18.781,24h92.438A4.8,4.8,0,0,1,116,28.8V83.2a4.8,4.8,0,0,1-4.781,4.8H18.781A4.8,4.8,0,0,1,14,83.2Z" transform="translate(-14 -24)" fill="#000d3b" stroke="#000d3b" stroke-miterlimit="10" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(40.2 14.4)">
+          <g id="Group_9" data-name="Group 9">
+            <g id="Group_8" data-name="Group 8" clip-path="url(#clip-path-2)">
+              <rect id="Rectangle_2" data-name="Rectangle 2" width="31.6" height="45.3" transform="translate(-5 -5)" fill="#ff5f00"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_13" data-name="Group 13" transform="translate(14.858 9.511)">
+          <g id="Group_12" data-name="Group 12">
+            <g id="Group_11" data-name="Group 11" clip-path="url(#clip-path-3)">
+              <rect id="Rectangle_4" data-name="Rectangle 4" width="46.3" height="55.117" transform="translate(-5.1 -5.02)" fill="#eb001b"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_19" data-name="Group 19" transform="translate(50.942 9.511)">
+          <g id="Group_18" data-name="Group 18">
+            <g id="Group_17" data-name="Group 17" clip-path="url(#clip-path-4)">
+              <rect id="Rectangle_6" data-name="Rectangle 6" width="46.3" height="55.117" transform="translate(-5 -5.02)" fill="#f79e1b"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

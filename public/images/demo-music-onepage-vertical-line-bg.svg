@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="325" height="10" viewBox="0 0 325 10">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="325" height="10" transform="translate(324 1801)"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" transform="translate(0 -1801)" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="1" height="5000" transform="translate(324 900.466)" fill="#fff" opacity=".05"/>
+  </g>
+</svg>

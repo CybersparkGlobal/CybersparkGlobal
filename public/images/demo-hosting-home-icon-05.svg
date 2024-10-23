@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.94" height="20.084" viewBox="0 0 23.94 20.084">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.167" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b4fe2"/>
+      <stop offset="1" stop-color="#152bca"/>
+    </linearGradient>
+  </defs>
+  <g id="Cloud_Lock" data-name="Cloud Lock" transform="translate(-4.06 -5.916)">
+    <path id="Path_402" data-name="Path 402" d="M21.5,9a6.48,6.48,0,0,0-2.5.52A6,6,0,0,0,7.5,12a2.18,2.18,0,0,0,0,.25A5,5,0,0,0,9,22H21.5a6.5,6.5,0,1,0,0-13Z" fill="#ebebeb"/>
+    <path id="Path_403" data-name="Path 403" d="M18,18H14a1,1,0,0,1-1-1V16a3,3,0,0,1,6,0v1A1,1,0,0,1,18,18Zm-3-2h2a1,1,0,0,0-2,0Z" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_62" data-name="Rectangle 62" width="10" height="10" rx="3" transform="translate(11 16)" fill="url(#linear-gradient)"/>
+    <path id="Path_404" data-name="Path 404" d="M16,23a2,2,0,1,1,2-2A2,2,0,0,1,16,23Zm0-2Zm0,0Zm0,0Zm0,0Zm0,0Zm0,0Zm0,0Zm0,0Z" fill="#338dff"/>
+  </g>
+</svg>

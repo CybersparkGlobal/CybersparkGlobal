@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.167" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b4fe2"/>
+      <stop offset="1" stop-color="#152bca"/>
+    </linearGradient>
+  </defs>
+  <g id="Server_Lock" data-name="Server Lock" transform="translate(-2 -2)">
+    <path id="Path_405" data-name="Path 405" d="M27,2H5A3,3,0,0,0,2,5V9a1,1,0,0,0,1,1H29a1,1,0,0,0,1-1V5A3,3,0,0,0,27,2Z" fill="#ebebeb"/>
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="28" height="8" rx="1" transform="translate(2 12)" fill="#ebebeb"/>
+    <path id="Path_406" data-name="Path 406" d="M25,22H3a1,1,0,0,0-1,1v4a3,3,0,0,0,3,3H25a1,1,0,0,0,1-1V23A1,1,0,0,0,25,22Z" fill="#ebebeb"/>
+    <path id="Path_407" data-name="Path 407" d="M11,17H7a1,1,0,0,1,0-2h4a1,1,0,0,1,0,2Z" fill="url(#linear-gradient)"/>
+    <path id="Path_408" data-name="Path 408" d="M11,7H7A1,1,0,0,1,7,5h4a1,1,0,0,1,0,2Z" fill="url(#linear-gradient)"/>
+    <path id="Path_409" data-name="Path 409" d="M11,27H7a1,1,0,0,1,0-2h4a1,1,0,0,1,0,2Z" fill="url(#linear-gradient)"/>
+    <path id="Path_410" data-name="Path 410" d="M26,18H20a1,1,0,0,1-1-1V15a4,4,0,0,1,8,0v2A1,1,0,0,1,26,18Zm-5-2h4V15a2,2,0,0,0-4,0Z" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="14" height="14" rx="3" transform="translate(16 16)" fill="url(#linear-gradient)"/>
+    <path id="Path_411" data-name="Path 411" d="M25,22a2,2,0,1,0-3,1.72V25a1,1,0,0,0,2,0V23.72A2,2,0,0,0,25,22Z" fill="#3d8cf2"/>
+  </g>
+</svg>

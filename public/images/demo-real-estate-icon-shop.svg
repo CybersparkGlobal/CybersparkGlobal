@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_13" data-name="Group 13" transform="translate(-34.5 -228)">
+    <path id="Rectangle_11" data-name="Rectangle 11" d="M0,0H9A0,0,0,0,1,9,0V2A3,3,0,0,1,6,5H3A3,3,0,0,1,0,2V0A0,0,0,0,1,0,0Z" transform="translate(72.5 244)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Rectangle_12" data-name="Rectangle 12" d="M0,0H10a0,0,0,0,1,0,0V2A3,3,0,0,1,7,5H3A3,3,0,0,1,0,2V0A0,0,0,0,1,0,0Z" transform="translate(53.5 244)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Rectangle_13" data-name="Rectangle 13" d="M0,0H9A0,0,0,0,1,9,0V2A3,3,0,0,1,6,5H3A3,3,0,0,1,0,2V0A0,0,0,0,1,0,0Z" transform="translate(63.5 244)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Rectangle_14" data-name="Rectangle 14" d="M0,0H9A0,0,0,0,1,9,0V2A3,3,0,0,1,6,5H3A3,3,0,0,1,0,2V0A0,0,0,0,1,0,0Z" transform="translate(44.5 244)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Rectangle_15" data-name="Rectangle 15" d="M0,0H9A0,0,0,0,1,9,0V2A3,3,0,0,1,6,5H3A3,3,0,0,1,0,2V0A0,0,0,0,1,0,0Z" transform="translate(35.5 244)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_40" data-name="Path 40" d="M81.5,244h-46l8-7h30Z" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_78" data-name="Line 78" x1="5" y1="7" transform="translate(67.5 237)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_79" data-name="Line 79" x1="2" y1="7" transform="translate(61.5 237)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_80" data-name="Line 80" y1="7" x2="2" transform="translate(53.5 237)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_81" data-name="Line 81" y1="7" x2="5" transform="translate(44.5 237)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_82" data-name="Line 82" y2="26" transform="translate(77.5 249)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_83" data-name="Line 83" y2="26" transform="translate(39.5 249)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_84" data-name="Line 84" x2="48" transform="translate(34.5 275)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="30" height="8" transform="translate(43.5 229)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="10" height="20" transform="translate(53.5 255)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="9" height="14" transform="translate(63.5 255)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="9" height="14" transform="translate(44.5 255)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_85" data-name="Line 85" y1="2" transform="translate(60.5 266)" fill="none" stroke="#262b35" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
