@@ -1,7 +1,7 @@
 @extends('layouts.frontend.app')
 @section('content')
     <!-- start section -->
-    <section class="top-space-margin border-radius-6px lg-border-radius-0px py-0" data-parallax-background-ratio="0.5" style="background-image: url(https://via.placeholder.com/1920x1200)">
+    <section class="top-space-margin border-radius-6px lg-border-radius-0px py-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('/images/demo-corporate-customer-blog-bg.jpg') }})">
         <div class="opacity-light bg-dark-gray"></div>
         <div class="container-fluid z-index-1 position-relative">
             <div class="row">

@@ -1,6 +1,8 @@
 @extends('layouts.frontend.app')
 @section('content')
-    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url(https://via.placeholder.com/1920x1080)">
+
+
+    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('images/demo-corporate-about-title-bg.jpg') }})">
         <div class="opacity-extra-medium bg-blue-whale"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -111,13 +113,13 @@
             <div class="row justify-content-center align-items-center mb-3">
                 <div class="col-xl-5 col-lg-6 md-mb-14 sm-mb-18 xs-mb-23 position-relative" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="w-75 sm-w-80" data-animation-delay="200" data-shadow-animation="true" data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)">
-                        <img src="https://via.placeholder.com/600x710" alt="" class="border-radius-6px w-100">
+                        <img src="{{ asset('images/demo-corporate-about-img-01.jpg') }}" alt="" class="border-radius-6px w-100">
                         <div class="position-absolute top-30px z-index-8 left-minus-90px lg-left-minus-25px sm-left-minus-0px lg-w-30">
-                            <img src="images/demo-corporate-about-01.png" alt="" />
+                            <img src="{{ asset('images/demo-corporate-about-01.png') }}" alt="" />
                         </div>
                     </div>
                     <div class="w-55 overflow-hidden position-absolute right-15px xs-w-55 bottom-minus-50px" data-shadow-animation="true" data-animation-delay="100" data-bottom-top="transform: translateY(20px)" data-top-bottom="transform: translateY(-20px)">
-                        <img src="https://via.placeholder.com/600x633" alt="" class="border-radius-6px box-shadow-quadruple-large w-100" />
+                        <img src="{{ asset('/images/demo-corporate-about-img-02.jpg') }}" alt="" class="border-radius-6px box-shadow-quadruple-large w-100" />
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-lg-start" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 150, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -155,7 +157,7 @@
                 </div>
             </div>
         </div>
-        <img src="https://via.placeholder.com/655x590" class="position-absolute bottom-minus-50px right-minus-50px z-index-minus-1" data-bottom-top="transform: rotate(0deg) translateY(0)" data-top-bottom="transform:rotate(-15deg) translateY(0)" alt=""/>
+        <img src="{{ asset('/images/demo-corporate-about-bg-01.png') }}" class="position-absolute bottom-minus-50px right-minus-50px z-index-minus-1" data-bottom-top="transform: rotate(0deg) translateY(0)" data-top-bottom="transform:rotate(-15deg) translateY(0)" alt=""/>
     </section>
     <!-- end section -->
     <!-- start section -->
@@ -168,16 +170,46 @@
             </div>
             <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <!-- start team member item -->
+
                 <div class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="https://via.placeholder.com/600x755" alt="" />
+                        <img src="{{ asset('/images/helal.webp') }}" alt="" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">Jeremy dupont</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">Director</span>
+                                <span class="team-member-name fw-500 text-white d-block">Helal Ahmed</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">CEO</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.twitter.com/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-twitter icon-small"></i></a>
+                                <a href="https://www.facebook.com/Helalfb" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col team-style-08 border-radius-6px md-mb-30px">
+                    <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
+                        <img src="{{ asset('/images/aktar.webp') }}" alt="" />
+                        <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
+                            <div class="w-100">
+                                <span class="team-member-name fw-500 text-white d-block">Md Aktarozzaman</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">Web Developer</span>
+                            </div>
+                            <div class="social-icon d-flex flex-column flex-shrink-1">
+                                <a href="https://www.facebook.com/Helalfb" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col team-style-08 border-radius-6px md-mb-30px">
+                    <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
+                        <img src="{{ asset('/images/') }}" alt="" />
+                        <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
+                            <div class="w-100">
+                                <span class="team-member-name fw-500 text-white d-block">T Jubear Araf</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">Social Media Manager</span>
+                            </div>
+                            <div class="social-icon d-flex flex-column flex-shrink-1">
+                                <a href="https://www.facebook.com/tjubeararaf" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
                             </div>
                         </figcaption>
                     </figure>
@@ -186,7 +218,7 @@
                 <!-- start team member item -->
                 <div class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="https://via.placeholder.com/600x755" alt="" />
+                        <img src="" alt="" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Jessica dover</span>

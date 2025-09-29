@@ -92,7 +92,7 @@
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[25,25,10,10]" data-paddingleft="[0,0,0,0]"
                                      style="word-break: initial;">
-                                    <i class="bi bi-award pe-5px icon-small"></i>On demand live support
+                                    <i class="bi bi-award pe-5px icon-small"></i>Experience tech magic
                                 </div>
                                 <!-- end subtitle layer -->
                                 <!-- start title layer -->
@@ -115,7 +115,7 @@
                                      data-paddingbottom="[33,28,35,25]" data-paddingleft="[0,0,0,0]"
                                      style="word-break: initial; text-shadow: #0b1236 3px 3px 15px;">
 {{--                                    {{ $banner->title }}--}}
-                                    Start your online business today
+                                    Instant Solutions, Lasting Impact
                                 </div>
                                 <!-- end title layer -->
                                 <!-- start text layer -->
@@ -137,8 +137,8 @@
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[36,36,60,40]" data-paddingleft="[0,0,0,0]">
 {{--                                    {!! $banner->description !!}  --}}
-                                    We're a fully dedicated corporate service agency collaborating with brands
-                                    all over the world.
+                                    We're a fully dedicated tech service agency collaborating with brands all over the world
+       
                                 </div>
                                 <!-- end text layer -->
                                 <!-- start button layer -->
@@ -308,7 +308,7 @@
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[33,28,35,25]" data-paddingleft="[0,0,0,0]"
                                      style="word-break: initial; text-shadow: #0b1236 3px 3px 15px;">
-                                    Start your online business today
+                                    Start your online business now
                                 </div>
                                 <!-- end title layer -->
                                 <!-- start text layer -->
@@ -329,8 +329,8 @@
                                      data-textAlign="['center','center','center','center']"
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[36,36,60,40]" data-paddingleft="[0,0,0,0]">
-                                    We're a fully dedicated corporate service agency collaborating with brands
-                                    all over the world.
+                                    With our experiences and right strategies, you can reach a global audience, minimize overhead costs, and build a flexible income stream.
+                                    
                                 </div>
                                 <!-- end text layer -->
                                 <!-- start button layer -->
@@ -477,7 +477,7 @@
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[25,25,10,10]" data-paddingleft="[0,0,0,0]"
                                      style="word-break: initial;">
-                                    <i class="bi bi-award pe-5px icon-small"></i>On demand live support
+                                    <i class="bi bi-award pe-5px icon-small"></i>From Code to Conversion
                                 </div>
                                 <!-- end subtitle layer -->
                                 <!-- start title layer -->
@@ -499,7 +499,7 @@
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[33,28,35,25]" data-paddingleft="[0,0,0,0]"
                                      style="word-break: initial; text-shadow: #0b1236 3px 3px 15px;">
-                                    Delivering creative digital products
+                                    We Build, Rank and Support
                                 </div>
                                 <!-- end title layer -->
                                 <!-- start text layer -->
@@ -520,8 +520,8 @@
                                      data-textAlign="['center','center','center','center']"
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[36,36,60,40]" data-paddingleft="[0,0,0,0]">
-                                    We're a fully dedicated corporate service agency collaborating with brands
-                                    all over the world.
+                                    From development to ranking and beyond, we power your digital business with flawless development, smart SEO, and dedicated support to drive lasting growth.
+                                    
                                 </div>
                                 <!-- end text layer -->
                                 <!-- start button layer -->

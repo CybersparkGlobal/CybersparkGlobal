@@ -70,7 +70,7 @@
             </div>
             <!-- end divider -->
             <!-- start copyright -->
-            <div class="col-lg-5 pt-35px pb-35px md-pt-0 order-2 order-lg-1 text-center text-lg-start last-paragraph-no-margin"><p>&copy; 2024 Crafto is Proudly Powered by <a href="https://www.cybersparkglobal.com/" target="_blank" class="text-dark-gray fw-600 text-decoration-line-bottom">CyberSparkGlobal</a></p></div>
+            <div class="col-lg-5 pt-35px pb-35px md-pt-0 order-2 order-lg-1 text-center text-lg-start last-paragraph-no-margin"><p>&copy; 2025 Crafto is Proudly Powered by <a href="https://www.cybersparkglobal.com/" target="_blank" class="text-dark-gray fw-600 text-decoration-line-bottom">CyberSparkGlobal</a></p></div>
             <!-- end copyright -->
             <!-- start footer menu -->
             <div class="col-lg-7 pt-35px pb-35px md-pt-25px md-pb-5px order-1 order-lg-2 text-center text-lg-end">

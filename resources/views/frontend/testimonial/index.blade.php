@@ -1,7 +1,7 @@
 @extends('layouts.frontend.app')
 @section('content')
     <!-- start page title -->
-    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url(https://via.placeholder.com/1920x1100)">
+    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('images/demo-corporate-customer-stories-bg.jpg') }})">
         <div class="opacity-extra-medium bg-blue-whale"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -25,7 +25,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 md-mb-60px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <figure class="position-relative m-0 text-center text-md-center">
-                        <img src="https://via.placeholder.com/560x560" alt="">
+                        <img src="{{ asset('/images/demo-corporate-customer-stories-01.jpg') }}" alt="">
                         <figcaption class="position-absolute bg-white right-0px left-0px m-auto border-radius-6px p-25px xs-p-10px box-shadow-double-large bottom-minus-20px w-350px xs-w-290px text-start last-paragraph-no-margin">
                             <div class="row align-items-center justify-content-center text-dark-gray">
                                 <div class="col-4 col-sm-5 pe-25px text-end border-end border-color-extra-medium-gray xs-pe-15px">
@@ -63,52 +63,52 @@
                     <div class="swiper-wrapper marquee-slide">
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-walmart-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-walmart-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-netflix-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-netflix-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-invision-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-invision-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-yahoo-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-yahoo-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-amazon-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-amazon-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-walmart-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-walmart-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-netflix-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-netflix-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-invision-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-invision-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-yahoo-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-yahoo-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="images/logo-amazon-dark-blue.svg" alt="" /></a>
+                            <a href="#"><img src="{{ asset('images/logo-amazon-dark-blue.svg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
                     </div>
@@ -125,13 +125,13 @@
                     <div class="swiper rounded-circle" data-slider-options='{ "slidesPerView": 1, "loop": true, "autoplay": { "delay": 1000, "disableOnInteraction": false },  "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "fade" }'>
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <img class="border-radius-50 w-100" src="https://via.placeholder.com/200x200" alt=""/>
+                                <img class="border-radius-50 w-100" src="{{ asset('images/demo-corporate-services-07.jpg') }}" alt=""/>
                             </div>
                             <div class="swiper-slide">
-                                <img class="border-radius-50 w-100" src="https://via.placeholder.com/200x200" alt=""/>
+                                <img class="border-radius-50 w-100" src="{{asset('images/demo-corporate-services-09.jpg')}}" alt=""/>
                             </div>
                             <div class="swiper-slide">
-                                <img class="border-radius-50 w-100" src="https://via.placeholder.com/200x200" alt=""/>
+                                <img class="border-radius-50 w-100" src="{{ asset('images/demo-corporate-services-07.jpg') }}" alt=""/>
                             </div>
                         </div>
                     </div>
@@ -159,7 +159,7 @@
                             <div class="swiper-slide review-style-07">
                                 <div class="d-flex justify-content-center h-100 flex-column border-radius-6px p-12 bg-white box-shadow-extra-large xl-p-10">
                                     <div class="mb-20px">
-                                        <img src="https://via.placeholder.com/148x148" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
+                                        <img src="{{ asset('/images/avtar-24.jpg') }}" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
                                         <div class="d-inline-block align-middle">
                                             <div class="text-dark-gray fs-18 fw-600">Alex sanchez</div>
                                             <div class="lh-24 fs-16">Google design</div>
@@ -182,7 +182,7 @@
                             <div class="swiper-slide review-style-07">
                                 <div class="d-flex justify-content-center h-100 flex-column border-radius-6px p-12 bg-white box-shadow-extra-large xl-p-10">
                                     <div class="mb-20px">
-                                        <img src="https://via.placeholder.com/148x148" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
+                                        <img src="{{ asset('/images/avtar-27.jpg') }}" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
                                         <div class="d-inline-block align-middle">
                                             <div class="text-dark-gray fs-18 fw-600">Matthew taylor</div>
                                             <div class="lh-24 fs-16">Microsoft word</div>
@@ -205,7 +205,7 @@
                             <div class="swiper-slide review-style-07">
                                 <div class="d-flex justify-content-center h-100 flex-column border-radius-6px p-12 bg-white box-shadow-extra-large xl-p-10">
                                     <div class="mb-20px">
-                                        <img src="https://via.placeholder.com/148x148" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
+                                        <img src="{{ asset('/images/avtar-24.jpg') }}" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
                                         <div class="d-inline-block align-middle">
                                             <div class="text-dark-gray fs-18 fw-600">Leonel mooney</div>
                                             <div class="lh-24 fs-16">Apple store</div>
@@ -228,7 +228,7 @@
                             <div class="swiper-slide review-style-07">
                                 <div class="d-flex justify-content-center h-100 flex-column border-radius-6px p-12 bg-white box-shadow-extra-large xl-p-10">
                                     <div class="mb-20px">
-                                        <img src="https://via.placeholder.com/200x200" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
+                                        <img src="{{ asset('/images/avtar-25.jpg') }}" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
                                         <div class="d-inline-block align-middle">
                                             <div class="text-dark-gray fs-18 fw-600">Jacob kalling</div>
                                             <div class="lh-24 fs-16">System design</div>
@@ -251,7 +251,7 @@
                             <div class="swiper-slide review-style-07">
                                 <div class="d-flex justify-content-center h-100 flex-column border-radius-6px p-12 bg-white box-shadow-extra-large xl-p-10">
                                     <div class="mb-20px">
-                                        <img src="https://via.placeholder.com/148x148" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
+                                        <img src="{{ asset('/images/avtar-24.jpg') }}" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
                                         <div class="d-inline-block align-middle">
                                             <div class="text-dark-gray fs-18 fw-600">Matthew taylor</div>
                                             <div class="lh-24 fs-16">Microsoft word</div>
@@ -274,7 +274,7 @@
                             <div class="swiper-slide review-style-07">
                                 <div class="d-flex justify-content-center h-100 flex-column border-radius-6px p-12 bg-white box-shadow-extra-large xl-p-10">
                                     <div class="mb-20px">
-                                        <img src="https://via.placeholder.com/148x148" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
+                                        <img src="{{ asset('/images/avtar-29.jpg') }}" class="rounded-circle w-90px lg-w-65px me-15px" alt="">
                                         <div class="d-inline-block align-middle">
                                             <div class="text-dark-gray fs-18 fw-600">Leonel mooney</div>
                                             <div class="lh-24 fs-16">Apple store</div>

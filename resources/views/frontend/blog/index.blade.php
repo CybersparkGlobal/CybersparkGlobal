@@ -1,6 +1,7 @@
 @extends('layouts.frontend.app')
 @section('content')
-    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url(https://via.placeholder.com/1920x1100)">
+
+    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('/images/demo-corporate-customer-blog-bg.jpg') }})">
         <div class="opacity-extra-medium bg-blue-whale"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -30,7 +31,7 @@
                         <li class="grid-item">
                             <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="https://via.placeholder.com/600x430" alt="" /></a>
+                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="{{ asset('images/demo-corporate-blog-01.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html" class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Agency</a>
                                     </div>
@@ -55,7 +56,7 @@
                         <li class="grid-item">
                             <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="https://via.placeholder.com/600x430" alt="" /></a>
+                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="{{ asset('images/demo-corporate-blog-02.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html" class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Luxurious</a>
                                     </div>
@@ -80,7 +81,7 @@
                         <li class="grid-item">
                             <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="https://via.placeholder.com/600x430" alt="" /></a>
+                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="{{ asset('images/demo-corporate-blog-03.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html" class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Business</a>
                                     </div>
@@ -105,7 +106,7 @@
                         <li class="grid-item">
                             <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="https://via.placeholder.com/600x430" alt="" /></a>
+                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="{{ asset('images/demo-corporate-blog-04.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html" class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Lifestyle</a>
                                     </div>
@@ -130,7 +131,7 @@
                         <li class="grid-item">
                             <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="https://via.placeholder.com/600x430" alt="" /></a>
+                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="{{ asset('images/demo-corporate-blog-05.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html" class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Adventure</a>
                                     </div>
@@ -155,7 +156,7 @@
                         <li class="grid-item">
                             <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="https://via.placeholder.com/600x430" alt="" /></a>
+                                    <a href="{{ route('single_blog') }}" class="d-block"><img src="{{ asset('images/demo-corporate-blog-06.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html" class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Business</a>
                                     </div>

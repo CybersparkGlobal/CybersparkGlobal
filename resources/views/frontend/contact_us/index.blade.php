@@ -1,7 +1,7 @@
 @extends('layouts.frontend.app')
 @section('content')
     <!-- start page title -->
-    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url(https://via.placeholder.com/1920x1100)">
+    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('images/demo-corporate-blog-01.jpg') }})">
         <div class="opacity-extra-medium bg-blue-whale"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -70,9 +70,9 @@
     </section>
     <!-- end section -->
     <!-- start section -->
-    <section class="position-relative one-half-screen sm-small-screen overflow-hidden border border-radius-top-lr lg-border-radius-0px" data-parallax-background-ratio="0.5" style="background-image: url(https://via.placeholder.com/1920x1100)">
+    <section class="position-relative one-half-screen sm-small-screen overflow-hidden border border-radius-top-lr lg-border-radius-0px" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('images/demo-corporate-contact-parallax-img.jpg') }})">
         <div class="opacity-light bg-dark-gray"></div>
-        <div class="fs-225 ls-minus-10px alt-font text-gradient-orange-sky-blue fw-600 position-absolute left-minus-25px bottom-minus-50px sm-ls-minus-5px sm-bottom-minus-20px sm-fs-200 xs-left-minus-10px xs-fs-130">contact</div>
+        <div class="fs-225 ls-minus-10px alt-font text-gradient-orange-sky-blue fw-600 position-absolute  sm-ls-minus-5px sm-bottom-minus-20px sm-fs-200 xs-left-minus-10px xs-fs-130">contact</div>
     </section>
     <!-- end section -->
     <!-- start section -->
@@ -80,7 +80,7 @@
         <div class="container-fluid overlap-section p-0">
             <div class="row g-0 justify-content-end overlap-section-one-fourth">
                 <div class="col-md-6">
-                    <div id="map" class="map" data-map-options='{ "lat": -37.805688, "lng": 144.962312, "style": "Silver", "marker": { "type": "HTML", "color": "#3e31cb" }, "popup": { "defaultOpen": true, "html": "<div class=infowindow><strong class=\"mb-3 d-inline-block alt-font\">Crafto Corporate</strong><p class=\"alt-font\">16122 Collins street, Melbourne, Australia</p></div><div class=\"google-maps-link alt-font\"> <a aria-label=\"View larger map\" target=\"_blank\" jstcache=\"31\" href=\"https://maps.google.com/maps?ll=-37.805688,144.962312&amp;z=17&amp;t=m&amp;hl=en-US&amp;gl=IN&amp;mapclient=embed&amp;cid=13153204942596594449\" jsaction=\"mouseup:placeCard.largerMap\">VIEW LARGER MAP</a></div>" } }'></div>
+                    <div id="map" class="map" data-map-options='{ "lat": -37.805688, "lng": 144.962312, "style": "Silver", "marker": { "type": "HTML", "color": "#3e31cb" }, "popup": { "defaultOpen": true, "html": "<div class=infowindow><strong class=\"mb-3 d-inline-block alt-font\">Crafto Corporate</strong><p class=\"alt-font\">16122 Collins street, Melbourne, Australia</p></div><div class=\"google-maps-link alt-font\"> <a aria-label=\"View larger map\" target=\"_blank\" jstcache=\"31\" href=\"https://maps.app.goo.gl/wy569xr4QoAeuYRW6" jsaction=\"mouseup:placeCard.largerMap\">VIEW LARGER MAP</a></div>" } }'></div>
                 </div>
             </div>
         </div>

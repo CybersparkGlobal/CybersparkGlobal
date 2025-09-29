@@ -70,8 +70,8 @@
                 </div>
                 <div class="col-lg-6 ps-6 text-center text-lg-start lg-ps-15px" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Creative approach</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Powerful agency for corporate business.</h3>
-                    <p class="w-80 xl-w-90 lg-w-100 mb-40px sm-mb-25px">We strive to develop real-world web solutions that are ideal for small to large projects with bespoke project requirements. We create compelling web designs, which are the right-fit for your target groups and also deliver optimized.</p>
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Powerful Agency for Digital Business.</h3>
+                    <p class="w-80 xl-w-90 lg-w-100 mb-40px sm-mb-25px">We research your niche to build great and solid service experiences that convert! We create compelling web designs, which are the right-fit for your target groups and also deliver optimized.</p>
                     <a href="demo-corporate-about.html" class="btn btn-large btn-dark-gray btn-hover-animation-switch btn-box-shadow btn-rounded me-25px xs-me-0">
                                 <span>
                                     <span class="btn-text">Read about us</span>
@@ -126,10 +126,10 @@
             <div class="row align-items-center mb-6 sm-mb-9 text-center text-lg-start">
                 <div class="col-lg-5 md-mb-20px">
                     <span class="ps-25px pe-25px mb-10px text-uppercase text-white fs-13 lh-42px fw-600 border-radius-100px bg-gradient-blue-whale-transparent d-inline-block">Creative approach</span>
-                    <h3 class="text-white fw-700 mb-0 ls-minus-1px">Corporate services</h3>
+                    <h3 class="text-white fw-700 mb-0 ls-minus-1px">Exclusive services</h3>
                 </div>
                 <div class="col-lg-5 last-paragraph-no-margin md-mb-20px">
-                    <p class="w-85 md-w-100">We strive to develop real-world web solutions that are ideal for small to large projects with bespoke your custom project requirements.</p>
+                    <p class="w-85 md-w-100">We strive to develop real world web solutions that are ideal for small to large projects with bespoke your custom project requirements.</p>
                 </div>
                 <div class="col-lg-2 d-flex justify-content-center justify-content-lg-end">
                     <!-- start slider navigation -->
@@ -159,8 +159,8 @@
                                                 <i class="line-icon-Medal-2 text-white icon-extra-large"></i>
                                             </div>
                                             <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">Business planning</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Innovative solutions</span>
+                                                <span class="text-white fw-600 fs-20">Web Designing and Development</span>
+                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Build and decorate your web identity with raw coded magic spell</span>
                                                 <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                 <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                             </div>
@@ -185,8 +185,8 @@
                                                 <i class="line-icon-Archery-2 text-white icon-extra-large"></i>
                                             </div>
                                             <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">Market research</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Competitors research</span>
+                                                <span class="text-white fw-600 fs-20">Optimal SEO Services</span>
+                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px"> Confirm your position with modern days SEO includes AEO, GEO. Increase sale and clicks </span>
                                                 <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                 <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                             </div>
@@ -211,8 +211,8 @@
                                                 <i class="line-icon-Financial text-white icon-extra-large"></i>
                                             </div>
                                             <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">Business consulting</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Targeted growth</span>
+                                                <span class="text-white fw-600 fs-20">Optimized Content Writing</span>
+                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Let your brand speak with professional tone. Impact your audience with our powerful quality contents</span>
                                                 <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                 <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                             </div>
@@ -236,8 +236,8 @@
                                                 <i class="line-icon-Money-Bag text-white icon-extra-large"></i>
                                             </div>
                                             <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">Audience analysis</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Competitors research</span>
+                                                <span class="text-white fw-600 fs-20">Audience Analysis</span>
+                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Competitors research and audience behaviour analysis</span>
                                                 <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                 <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                             </div>
@@ -261,8 +261,8 @@
                                                 <i class="line-icon-Medal-2 text-white icon-extra-large"></i>
                                             </div>
                                             <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">Business planning</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Innovative solutions</span>
+                                                <span class="text-white fw-600 fs-20">Social Media Management</span>
+                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Actively communicate and attached with your customers and attract latest audiences. Convert them with exclusive contents with our upgrated management</span>
                                                 <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                 <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                             </div>
@@ -287,8 +287,8 @@
                                                 <i class="line-icon-Archery-2 text-white icon-extra-large"></i>
                                             </div>
                                             <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">Market research</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Competitors research</span>
+                                                <span class="text-white fw-600 fs-20">UI/UX Designing</span>
+                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Our UI/UX design approach combines aesthetic appeal with intuitive functionality, making your digital platform both qualified and easy to use</span>
                                                 <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                 <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                             </div>
@@ -301,6 +301,7 @@
                                     <!-- end interactive banner item -->
                                 </div>
                                 <!-- end slider item -->
+                              
                                 <!-- start slider item -->
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
@@ -313,8 +314,8 @@
                                                 <i class="line-icon-Financial text-white icon-extra-large"></i>
                                             </div>
                                             <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">Business consulting</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Targeted growth</span>
+                                                <span class="text-white fw-600 fs-20">IOS and Android App Development</span>
+                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Expand your business reach with high performance, intuitive iOS and Android apps crafted to deliver an exceptional user experience and foster customer loyalty</span>
                                                 <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                 <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                             </div>
@@ -326,31 +327,7 @@
                                     <!-- end interactive banner item -->
                                 </div>
                                 <!-- end slider item -->
-                                <!-- start slider item -->
-                                <div class="swiper-slide">
-                                    <!-- start interactive banner item -->
-                                    <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/demo-corporate-slider-img-04.jpg') }}" alt="" />
-                                        <div class="opacity-very-light bg-slate-blue"></div>
-                                        <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
-                                            <div class="hover-label-icon position-relative z-index-9">
-                                                <div class="label bg-base-color fw-600 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 ls-05px">Modern</div>
-                                                <i class="line-icon-Money-Bag text-white icon-extra-large"></i>
-                                            </div>
-                                            <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">Audience analysis</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Competitors research</span>
-                                                <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
-                                                <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
-                                            </div>
-                                            <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9"></div>
-                                            <div class="box-overlay bg-gradient-base-color-transparent"></div>
-                                            <a href="{{ route('services.index') }}" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
-                                        </div>
-                                    </div>
-                                    <!-- end interactive banner item -->
-                                </div>
-                                <!-- end slider item -->
+                                
                             </div>
                         </div>
                     </div>
@@ -371,7 +348,7 @@
             <div class="row align-items-center mb-7">
                 <div class="col-xxl-4 col-lg-5 md-mb-15 sm-mb-20 text-center text-lg-start">
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Simple process</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-2px mb-40px">Understand the business process.</h3>
+                    <h3 class="text-dark-gray fw-700 ls-minus-2px mb-40px">Let's chase your business goal.</h3>
                     <div class="row row-cols-1" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <!-- start process step item -->
                         <div class="col-12 process-step-style-05 position-relative hover-box">
@@ -384,8 +361,8 @@
                                     <span class="progress-step-separator bg-dark-gray opacity-1"></span>
                                 </div>
                                 <div class="process-content ps-30px last-paragraph-no-margin mb-30px">
-                                    <span class="d-block fw-700 text-dark-gray mb-5px fs-18">Start market research</span>
-                                    <p class="w-90 lg-w-100 lh-32">Lorem ipsum amet consectetur eiusmod tempor incididunt.</p>
+                                    <span class="d-block fw-700 text-dark-gray mb-5px fs-18">Discussion of your Needs</span>
+                                    <p class="w-90 lg-w-100 lh-32">We will understand your vision and explore your goal.</p>
                                 </div>
                             </div>
                         </div>
@@ -401,8 +378,8 @@
                                     <span class="progress-step-separator bg-dark-gray opacity-1"></span>
                                 </div>
                                 <div class="process-content ps-30px last-paragraph-no-margin mb-30px">
-                                    <span class="d-block fw-700 text-dark-gray mb-5px fs-18">Discussion of the idea</span>
-                                    <p class="w-90 lg-w-100 lh-32">Lorem ipsum amet consectetur eiusmod tempor incididunt.</p>
+                                    <span class="d-block fw-700 text-dark-gray mb-5px fs-18">Research and apply</span>
+                                    <p class="w-90 lg-w-100 lh-32">From development to conversation we apply the best.</p>
                                 </div>
                             </div>
                         </div>
@@ -417,8 +394,8 @@
                                     </div>
                                 </div>
                                 <div class="process-content ps-30px last-paragraph-no-margin">
-                                    <span class="d-block fw-700 text-dark-gray mb-5px fs-18">Production planning</span>
-                                    <p class="w-90 lg-w-100 lh-32">Lorem ipsum amet consectetur eiusmod tempor incididunt.</p>
+                                    <span class="d-block fw-700 text-dark-gray mb-5px fs-18">Convert, sell and gain</span>
+                                    <p class="w-90 lg-w-100 lh-32">Convert your audiences into real customers, reach your goal.</p>
                                 </div>
                             </div>
                         </div>
@@ -475,7 +452,7 @@
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-monday-dark-blue-01.svg" class="h-35px" alt=""></a>
-                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
+                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">CybersparkGlobal is always there when you need them. In today’s fast-paced business world, the ability to quickly adapt and test new ideas, as well as design websites for products and ads, is more crucial than ever. We needed a company that could keep up with our constant requests, often with tight deadlines, and they consistently deliver high-quality work on time. I’ve worked with several other web design companies, but none come close to CybersparkGlobal. They truly are the best in the business!</span>
                                         <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Herman miller, Monday</span>
                                     </div>
                                 </div>
@@ -489,7 +466,7 @@
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-loitech-dark-blue.svg" class="h-35px" alt=""></a>
-                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
+                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">I started working with CybersparkGlobal about a year ago, and honestly, I can’t imagine running my businesses without them now. They’ve become an essential part of our operations, offering amazing service at an affordable price. If you’re looking for web design, app development, modern SEO, or anything related to web services, I truly believe they’re the only choice you should make.</span>
                                         <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Leonel mooney, Logitech</span>
                                     </div>
                                 </div>
@@ -503,7 +480,7 @@
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-invision-dark-blue.svg" class="h-35px" alt=""></a>
-                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
+                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">I’ve been working with CybersparkGlobal for two years now, and they’ve consistently delivered exceptional work. The team is also incredibly easy to communicate with. Thank you!</span>
                                         <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Matthew taylor, invision</span>
                                     </div>
                                 </div>
@@ -635,8 +612,8 @@
                                     </div>
                                 </div>
                                 <div class="card-body p-12 lg-p-10">
-                                    <a href="demo-corporate-blog-single-clean.html" class="card-title mb-15px fw-700 fs-19 text-dark-gray d-inline-block w-90 md-w-100">Build up healthy habits and strong peaceful life.</a>
-                                    <p>Lorem ipsum dolor consectetur adipiscing eiusmod tempor...</p>
+                                    <a href="demo-corporate-blog-single-clean.html" class="card-title mb-15px fw-700 fs-19 text-dark-gray d-inline-block w-90 md-w-100">Why Laravel is the Best Framework for Modern Web Development?</a>
+                                    <p>It simplifies complex tasks like routing, authentication, and....</p>
                                     <div class="author d-flex justify-content-center align-items-center position-relative overflow-hidden fs-14 text-uppercase">
                                         <div class="me-auto">
                                             <span class="blog-date d-inline-block fw-700 text-dark-gray">30 August 2021</span>
@@ -663,8 +640,8 @@
                                     </div>
                                 </div>
                                 <div class="card-body p-12 lg-p-10">
-                                    <a href="demo-corporate-blog-single-clean.html" class="card-title mb-15px fw-700 fs-19 text-dark-gray d-inline-block w-90 md-w-100">How to bring the season into your great marketing.</a>
-                                    <p>Lorem ipsum dolor consectetur adipiscing eiusmod tempor...</p>
+                                    <a href="demo-corporate-blog-single-clean.html" class="card-title mb-15px fw-700 fs-19 text-dark-gray d-inline-block w-90 md-w-100">From Concept to Launch, The Ultimate iOS App Development!</a>
+                                    <p>It covers every step of the process, from brainstorming...</p>
                                     <div class="author d-flex justify-content-center align-items-center position-relative overflow-hidden fs-14 text-uppercase">
                                         <div class="me-auto">
                                             <span class="blog-date d-inline-block fw-700 text-dark-gray">28 August 2021</span>
@@ -689,8 +666,8 @@
                                     </div>
                                 </div>
                                 <div class="card-body p-12 lg-p-10">
-                                    <a href="demo-corporate-blog-single-clean.html" class="card-title mb-15px fw-700 fs-19 text-dark-gray d-inline-block w-90 md-w-100">Be the strong willed one the public relationship.</a>
-                                    <p>Lorem ipsum dolor consectetur adipiscing eiusmod tempor...</p>
+                                    <a href="demo-corporate-blog-single-clean.html" class="card-title mb-15px fw-700 fs-19 text-dark-gray d-inline-block w-90 md-w-100">The Role of User Intent in SEO Content Writing, That You Need to Know!</a>
+                                    <p>It explains how identifying whether a user is looking for information...</p>
                                     <div class="author d-flex justify-content-center align-items-center position-relative overflow-hidden fs-14 text-uppercase">
                                         <div class="me-auto">
                                             <span class="blog-date d-inline-block fw-700 text-dark-gray">26 August 2021</span>
