@@ -151,7 +151,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="https://via.placeholder.com/600x710" alt="" />
+                                        <img src="{{ asset('images/demo-corporate-slider-img-01.jpg') }}" alt="" />
                                         <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -177,7 +177,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="https://via.placeholder.com/600x710" alt="" />
+                                        <img src="{{ asset('images/demo-corporate-slider-img-02.jpg') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -203,7 +203,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="https://via.placeholder.com/600x710" alt="" />
+                                        <img src="{{ asset('images/demo-corporate-slider-img-03.jpg') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -228,7 +228,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="https://via.placeholder.com/600x710" alt="" />
+                                        <img src="{{ asset('images/demo-corporate-slider-img-04.jpg') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -253,7 +253,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="https://via.placeholder.com/600x710" alt="" />
+                                        <img src="{{ asset('images/demo-corporate-slider-img-01.jpg') }}" alt="" />
                                         <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -279,7 +279,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="https://via.placeholder.com/600x710" alt="" />
+                                        <img src="{{ asset('images/demo-corporate-slider-img-02.jpg') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -305,7 +305,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="https://via.placeholder.com/600x710" alt="" />
+                                        <img src="{{ asset('images/demo-corporate-slider-img-03.jpg') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -330,7 +330,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="https://via.placeholder.com/600x710" alt="" />
+                                        <img src="{{ asset('images/demo-corporate-slider-img-04.jpg') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -471,7 +471,7 @@
                             <div class="swiper-slide">
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="https://via.placeholder.com/270x245">
+                                        <img alt="" src="{{ asset('/images/demo-corporate-testimonials-01.png') }}">
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-monday-dark-blue-01.svg" class="h-35px" alt=""></a>
@@ -485,7 +485,7 @@
                             <div class="swiper-slide">
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="https://via.placeholder.com/270x245">
+                                        <img alt="" src="{{ asset('/images/demo-corporate-testimonials-02.png') }}">
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-loitech-dark-blue.svg" class="h-35px" alt=""></a>
@@ -499,7 +499,7 @@
                             <div class="swiper-slide">
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="https://via.placeholder.com/270x245">
+                                        <img alt="" src="{{ asset('/images/demo-corporate-testimonials-03.png') }}">
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-invision-dark-blue.svg" class="h-35px" alt=""></a>
@@ -584,7 +584,7 @@
         <div class="container">
             <div class="row justify-content-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col-12">
-                    <div class="border-radius-6px h-450px md-h-350px sm-h-400px d-flex flex-wrap align-items-center justify-content-center overflow-hidden cover-background box-shadow-quadruple-large pt-15" style="background-image: url('https://via.placeholder.com/1315x450')">
+                    <div class="border-radius-6px h-450px md-h-350px sm-h-400px d-flex flex-wrap align-items-center justify-content-center overflow-hidden cover-background box-shadow-quadruple-large pt-15" style="background-image: url('{{ asset('/images/demo-corporate-video-img.jpg') }}')">
                         <div class="opacity-full-dark bg-gradient-regal-blue-transparent"></div>
                         <div class="row justify-content-center m-0">
                             <div class="col-lg-7 col-md-8 z-index-1 text-center text-md-start sm-mb-20px">
@@ -629,7 +629,7 @@
                         <li class="grid-item">
                             <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="demo-corporate-blog-single-clean.html" class="d-block"><img src="https://via.placeholder.com/600x430" alt="" /></a>
+                                    <a href="demo-corporate-blog-single-clean.html" class="d-block"><img src="{{ asset('images/demo-corporate-blog-01.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html" class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Agency</a>
                                     </div>
@@ -656,7 +656,7 @@
                                 class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
                                     <a href="demo-corporate-blog-single-clean.html" class="d-block"><img
-                                            src="https://via.placeholder.com/600x430" alt="" /></a>
+                                            src="{{ asset('images/demo-corporate-blog-02.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html"
                                            class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Luxurious</a>
@@ -683,7 +683,7 @@
                             <div
                                 class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="demo-corporate-blog-single-clean.html" class="d-block"><img src="https://via.placeholder.com/600x430" alt="" /></a>
+                                    <a href="demo-corporate-blog-single-clean.html" class="d-block"><img src="{{ asset('images/demo-corporate-blog-03.jpg') }}" alt="" /></a>
                                     <div class="blog-categories">
                                         <a href="demo-corporate-blog.html" class="categories-btn bg-white text-dark-gray text-dark-gray-hover text-uppercase fw-700">Business</a>
                                     </div>
