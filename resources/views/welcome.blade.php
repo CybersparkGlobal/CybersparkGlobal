@@ -301,7 +301,7 @@
                                     <!-- end interactive banner item -->
                                 </div>
                                 <!-- end slider item -->
-                              
+
                                 <!-- start slider item -->
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
@@ -327,7 +327,7 @@
                                     <!-- end interactive banner item -->
                                 </div>
                                 <!-- end slider item -->
-                                
+
                             </div>
                         </div>
                     </div>
@@ -569,7 +569,7 @@
                                 </h3>
                             </div>
                             <div class="col-md-2 position-relative z-index-1 text-center sm-mb-20px">
-                                <a href="https://www.youtube.com/watch?v=cfXHhfNy7tU" class="position-relative d-inline-block text-center border border-2 border-color-white rounded-circle video-icon-box video-icon-large popup-youtube">
+                                <a href="https://www.youtube.com/watch?v=8qchy6fouRA" class="position-relative d-inline-block text-center border border-2 border-color-white rounded-circle video-icon-box video-icon-large popup-youtube">
                                             <span>
                                                 <span class="video-icon">
                                                     <i class="fa-solid fa-play fs-20 text-white"></i>

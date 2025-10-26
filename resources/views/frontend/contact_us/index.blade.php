@@ -84,6 +84,7 @@
                 </div>
             </div>
         </div>
+
         <div class="container-fluid overflow-hidden position-relative pt-6 sm-pt-40px">
             <img src="https://via.placeholder.com/605x580" class="position-absolute top-0 left-minus-300px z-index-minus-1" data-bottom-top="transform: rotate(0deg) translateY(0)" data-top-bottom="transform:rotate(-15deg) translateY(0)" alt=""/>
             <div class="row justify-content-center mb-2 sm-mb-3">
