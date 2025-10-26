@@ -26,10 +26,10 @@
             <div class="row align-items-end justify-content-center mb-5 md-mb-40px text-center text-md-start">
                 <div class="col-xl-5 col-lg-6 col-md-10 md-mb-20px text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">About company</span>
-                    <h3 class="text-dark-gray fw-700 mb-0 ls-minus-1px">Powerful agency for corporate business.</h3>
+                    <h3 class="text-dark-gray fw-700 mb-0 ls-minus-1px">We are your Business's Trust and Ally.<br> Ultimate contributor </h3>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-10 offset-xl-1 text-center text-lg-start last-paragraph-no-margin">
-                    <p class="w-90 xl-w-100" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>We strive to develop real-world web solutions that are ideal for small to large projects with bespoke project requirements. we compelling web, <span class="fw-600 text-dark-gray text-decoration-line-bottom">which are the right-fit for your target.</span></p>
+                    <p class="w-90 xl-w-100" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'> Cyberspark Global is an IT leader specializing in app and website development, helping businesses grow online. We provide customized digital strategies across industries like restaurant POS, pharmacy, optical services and school-university management, <span class="fw-600 text-dark-gray text-decoration-line-bottom">delivering innovative and cost effective solutions for your business success.</span></p>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
@@ -41,7 +41,7 @@
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block fs-19 fw-700 text-dark-gray mb-5px">Trusted company</span>
-                            <p>We deliver email marketing campaigns to audience.</p>
+                            <p>We achieve trust by behalf your satisfaction.</p>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block fs-19 fw-700 text-dark-gray mb-5px">Professional work</span>
-                            <p>We also help our clients with social media strategy.</p>
+                            <p>Top level strategy, advanced research is everything.</p>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block fs-19 fw-700 text-dark-gray mb-5px">Award winning</span>
-                            <p>We believe in challenges so we have made challenges.</p>
+                            <p>We believe in solution and we are the solution.</p>
                         </div>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block fs-19 fw-700 text-dark-gray mb-5px">Help any time</span>
-                            <p>We never fail for support for your business anywhere.</p>
+                            <p>We never fail for support for your business.</p>
                         </div>
                     </div>
                 </div>
@@ -99,7 +99,7 @@
                             <i class="bi bi-chat-text icon-extra-medium text-base-color"></i>
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin text-dark-gray text-uppercase fs-15 fw-700 ls-05px">
-                            Let's make something great work together. <a href="demo-corporate-contact.html" class="text-base-color text-decoration-line-bottom-medium border-1">Got a project in mind?</a>
+                            Let's make something great work together. <a href="https://cybersparkglobal.com/contact_us" class="text-base-color text-decoration-line-bottom-medium border-1">Got a project in mind?</a>
                         </div>
                     </div>
                 </div>
@@ -129,21 +129,21 @@
                             <div class="swiper-slide">
                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Company mission</span>
                                 <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">We help to business growth and solution.</h3>
-                                <p class="w-95 xl-w-100">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been industry's standard dummy text ever since the when an unknown adipiscing elit do eiusmod tempor incididunt ut labore printer took and scrambled it specimen book.</p>
+                                <p class="w-95 xl-w-100">We offer customized solutions that fuel business growth and open up new possibilities. With our expertise in web and app development, along with effective SEO strategies, we help your business succeed and reach its full potential in an ever-changing digital world.</p>
                             </div>
                             <!-- end text slider item -->
                             <!-- start text slider item -->
                             <div class="swiper-slide">
                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Company vision</span>
                                 <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">A business plan and performance ideas.</h3>
-                                <p class="w-95 xl-w-100">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been industry's standard dummy text ever since the when an unknown adipiscing elit do eiusmod tempor incididunt ut labore printer took and scrambled it specimen book.</p>
+                                <p class="w-95 xl-w-100">Creating a strategic business plan with performance driven ideas is essential for success in web and app development, enhanced by effective SEO solutions. We blend innovative technology with SEO tactics to boost your brand and accelerate growth.</p>
                             </div>
                             <!-- end text slider item -->
                             <!-- start text slider item -->
                             <div class="swiper-slide">
                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Company value</span>
-                                <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">Make the creative solutions for business.</h3>
-                                <p class="w-95 xl-w-100">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been industry's standard dummy text ever since the when an unknown adipiscing elit do eiusmod tempor incididunt ut labore printer took and scrambled it specimen book.</p>
+                                <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">Simplify and quicken business tasks.</h3>
+                                <p class="w-95 xl-w-100">We develop software solutions that simplify business tasks, making processes quicker and more efficient. Our tools help businesses speed up operations, enhancing productivity and saving time.</p>
                             </div>
                             <!-- end text slider item -->
                         </div>
@@ -272,7 +272,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-5 col-lg-6 text-center mb-1" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="text-dark-gray fw-700 fs-15 text-uppercase border-1 pb-5px border-bottom border-color-extra-medium-gray text-dark-gray">Join the 10,000+ companies using crafto</span>
+                    <span class="text-dark-gray fw-700 fs-15 text-uppercase border-1 pb-5px border-bottom border-color-extra-medium-gray text-dark-gray">Join 2,000+ users using our software</span>
                 </div>
             </div>
             <div class="row position-relative clients-style-08 mt-25px" data-anime='{ "translateX": [0, 0], "opacity": [0,1], "duration": 800, "delay":100, "staggervalue": 150, "easing": "easeOutQuad" }'>

@@ -7,10 +7,10 @@
                 <p class="lh-30 w-90 xl-w-100 mx-lg-auto mx-xl-0">Gearing your company through an innovative strategy.</p>
                 <div class="elements-social social-icon-style-02 mt-20px xs-mt-15px">
                     <ul class="medium-icon dark">
-                        <li class="my-0"><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                        <li class="my-0"><a class="dribbble" href="http://www.dribbble.com" target="_blank"><i class="fa-brands fa-dribbble"></i></a></li>
-                        <li class="my-0"><a class="twitter" href="http://www.twitter.com" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
-                        <li class="my-0"><a class="instagram" href="http://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                        <li class="my-0"><a class="facebook" href="https://www.facebook.com/Cybersparkglobal/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+                        <li class="my-0"><a class="linkedin" href="https://www.linkedin.com/in/helal-ahmed-53b562183/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+                        <li class="my-0"><a class="twitter" href="https://x.com/CybersparkG" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li class="my-0"><a class="youtube" href="https://www.youtube.com/channel/UCu5yUMUYLNpqsQOPvzsYJPw" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>

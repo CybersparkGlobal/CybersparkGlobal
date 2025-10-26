@@ -61,7 +61,7 @@
                 <div class="col-lg-6 col-md-9 position-relative md-mb-15 text-center text-lg-start"
                      data-anime='{ "el": "childs", "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 15, "easing": "easeOutQuad" }'>
                     <div class="absolute-middle-center z-index-9 counter-style-02 text-center">
-                        <span class="fs-160 fw-800 text-dark-gray ls-minus-10px xs-ls-minus-5px position-relative lg-fs-130 xs-fs-75">28<sub class="align-top fs-80 lg-fs-70 text-dark-gray position-relative top-minus-3px">+</sub></span>
+                        <span class="fs-160 fw-800 text-dark-gray ls-minus-10px xs-ls-minus-5px position-relative lg-fs-130 xs-fs-75">17<sub class="align-top fs-80 lg-fs-70 text-dark-gray position-relative top-minus-3px">+</sub></span>
                         <span class="d-block mx-auto fs-20 fw-500 lh-26 w-70 text-center text-dark-gray xs-w-100">Years working experience</span>
                     </div>
                     <img src="{{ asset('images/demo-corporate-03.png') }}" alt="">
@@ -69,23 +69,24 @@
                     <img src="{{ asset('images/demo-corporate-02.png') }}" class="position-absolute top-0px xl-top-minus-10px w-170px right-20px md-right-40px xs-w-40" data-bottom-top="transform: translateY(-50px)" data-top-bottom="transform: translateY(50px)" alt="">
                 </div>
                 <div class="col-lg-6 ps-6 text-center text-lg-start lg-ps-15px" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Creative approach</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Powerful Agency for Digital Business.</h3>
+                    <h1 class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block ">Cyber Spark Global</h1>
+                    <h2 class="text-dark-gray fw-700 ls-minus-1px">Powerful Agency for Digital Business.</h2>
                     <p class="w-80 xl-w-90 lg-w-100 mb-40px sm-mb-25px">We research your niche to build great and solid service experiences that convert! We create compelling web designs, which are the right-fit for your target groups and also deliver optimized.</p>
-                    <a href="demo-corporate-about.html" class="btn btn-large btn-dark-gray btn-hover-animation-switch btn-box-shadow btn-rounded me-25px xs-me-0">
+                    <a href="https://cybersparkglobal.com/about_us" class="btn btn-large btn-dark-gray btn-hover-animation-switch btn-box-shadow btn-rounded me-25px xs-me-0">
                                 <span>
                                     <span class="btn-text">Read about us</span>
                                     <span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span>
                                     <span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span>
+
                                 </span>
                     </a>
-                    <span class="text-dark-gray fw-700 ls-minus-05px d-block d-sm-inline-block sm-mt-15px"><a href="tel:1800222000"><i class="feather icon-feather-phone-call me-10px"></i>1 800 222 000</a></span>
+                    <span class="text-dark-gray fw-700 ls-minus-05px d-block d-sm-inline-block sm-mt-15px"><a href="tel:+880 1749-369514"><i class="feather icon-feather-phone-call me-10px"></i>01749-369514</a></span>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-4 row-cols-sm-2 justify-content-center counter-style-07 ps-3 pe-3" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <!-- start counter item -->
                 <div class="col text-center sm-mb-30px">
-                    <h2 class="vertical-counter d-inline-flex text-dark-gray fw-800 mb-0 ls-minus-3px position-relative z-index-0" data-to="4586">
+                    <h2 class="vertical-counter d-inline-flex text-dark-gray fw-800 mb-0 ls-minus-3px position-relative z-index-0" data-to="700">
                         <span class="text-highlight position-absolute bottom-9px w-100"><span class="bg-gradient-flamingo-amethyst-green h-10px opacity-2"></span></span>
                     </h2>
                     <span class="d-block fs-14 fw-700 text-uppercase text-dark-gray">Telephonic talk</span>
@@ -93,15 +94,15 @@
                 <!-- end counter item -->
                 <!-- start counter item -->
                 <div class="col text-center sm-mb-30px">
-                    <h2 class="vertical-counter d-inline-flex text-dark-gray fw-800 mb-0 ls-minus-3px position-relative z-index-0" data-to="583">
+                    <h2 class="vertical-counter d-inline-flex text-dark-gray fw-800 mb-0 ls-minus-3px position-relative z-index-0" data-to="521">
                         <span class="text-highlight position-absolute bottom-9px w-100"><span class="bg-gradient-flamingo-amethyst-green h-10px opacity-2"></span></span>
                     </h2>
-                    <span class="d-block fs-14 fw-700 text-uppercase text-dark-gray">Cases solved</span>
+                    <span class="d-block fs-14 fw-700 text-uppercase text-dark-gray">Project solved</span>
                 </div>
                 <!-- end counter item -->
                 <!-- start counter item -->
                 <div class="col text-center sm-mb-30px">
-                    <h2 class="vertical-counter d-inline-flex text-dark-gray fw-800 mb-0 ls-minus-3px position-relative z-index-0" data-to="6548">
+                    <h2 class="vertical-counter d-inline-flex text-dark-gray fw-800 mb-0 ls-minus-3px position-relative z-index-0" data-to="200">
                         <span class="text-highlight position-absolute bottom-9px w-100"><span class="bg-gradient-flamingo-amethyst-green h-10px opacity-2"></span></span>
                     </h2>
                     <span class="d-block fs-14 fw-700 text-uppercase text-dark-gray">Cofee cups</span>
@@ -109,7 +110,7 @@
                 <!-- end counter item -->
                 <!-- start counter item -->
                 <div class="col text-center">
-                    <h2 class="vertical-counter d-inline-flex text-dark-gray fw-800 mb-0 ls-minus-3px position-relative z-index-0" data-to="836">
+                    <h2 class="vertical-counter d-inline-flex text-dark-gray fw-800 mb-0 ls-minus-3px position-relative z-index-0" data-to="500">
                         <span class="text-highlight position-absolute bottom-9px w-100"><span class="bg-gradient-flamingo-amethyst-green h-10px opacity-2"></span></span>
                     </h2>
                     <span class="d-block fs-14 fw-700 text-uppercase text-dark-gray">Happy clients</span>
@@ -301,7 +302,7 @@
                                     <!-- end interactive banner item -->
                                 </div>
                                 <!-- end slider item -->
-
+                              
                                 <!-- start slider item -->
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
@@ -314,8 +315,8 @@
                                                 <i class="line-icon-Financial text-white icon-extra-large"></i>
                                             </div>
                                             <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
-                                                <span class="text-white fw-600 fs-20">IOS and Android App Development</span>
-                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Expand your business reach with high performance, intuitive iOS and Android apps crafted to deliver an exceptional user experience and foster customer loyalty</span>
+                                                <span class="text-white fw-600 fs-20">Software Development</span>
+                                                <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Expand your business reach with high performance, intuitive iOS, Android and custom software solutions crafted to deliver an exceptional user experience and foster customer loyalty.</span>
                                                 <a href="{{ route('services.index') }}" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                 <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                             </div>
@@ -327,7 +328,7 @@
                                     <!-- end interactive banner item -->
                                 </div>
                                 <!-- end slider item -->
-
+                                
                             </div>
                         </div>
                     </div>
@@ -336,7 +337,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <i class="bi bi-envelope text-white d-inline-block align-middle icon-extra-medium me-10px md-m-5px"></i>
-                    <div class="fs-18 text-white d-inline-block align-middle">Save your precious time and effort spent for finding a solution. <a href="demo-corporate-contact.html" class="text-white text-decoration-line-bottom">Contact us now</a></div>
+                    <div class="fs-18 text-white d-inline-block align-middle">Save your precious time and effort spent for finding a solution. <a href="https://cybersparkglobal.com/contact_us" class="text-white text-decoration-line-bottom">Contact us now</a></div>
                 </div>
             </div>
         </div>
@@ -424,7 +425,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 text-center align-items-center" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="bg-base-color fw-700 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 me-10px sm-m-5px d-inline-block align-middle">hurray</div>
-                    <div class="fs-18 fw-500 text-dark-gray d-inline-block align-middle">Let's make something great work together. <a href="demo-corporate-contact.html" class="text-dark-gray text-decoration-line-bottom fw-700">Got a project in mind?</a>
+                    <div class="fs-18 fw-500 text-dark-gray d-inline-block align-middle">Let's make something great work together. <a href="https://cybersparkglobal.com/services" class="text-dark-gray text-decoration-line-bottom fw-700">Got a project in mind?</a>
                     </div>
                 </div>
             </div>
@@ -579,7 +580,7 @@
                             </div>
                         </div>
                         <div class="w-100 text-center position-relative mt-auto pt-20px pb-25px ps-15px pe-15px border-top border-color-transparent-white-light">
-                            <div class="fs-14 text-uppercase text-white fw-600 ls-05px">Let's make something great work together. <a href="demo-corporate-contact.html" class="text-decoration-line-bottom text-white">Got a project in mind?</a></div>
+                            <div class="fs-14 text-uppercase text-white fw-600 ls-05px">Let's make something great work together. <a href="https://cybersparkglobal.com/testimonial" class="text-decoration-line-bottom text-white">Got a project in mind?</a></div>
                         </div>
                     </div>
                 </div>
@@ -687,7 +688,7 @@
             <div class="row mb-7 sm-mb-9" data-anime='{ "el": "childs", "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col text-center">
                     <div class="fs-26 sm-fs-22 sm-lh-30 fw-600 ls-minus-1px text-dark-gray d-inline-block align-middle me-20px md-m-10px md-mt-0">What do people say about our services?</div>
-                    <a href="https://www.trustpilot.com/" target="_blank"><img src="{{ asset('images/trastpilot-review.png') }}" class="d-inline-block align-middle" alt=""></a>
+                    <a href="https://cybersparkglobal.com/about_us" target="_blank"><img src="{{ asset('images/trastpilot-review.png') }}" class="d-inline-block align-middle" alt=""></a>
                 </div>
             </div>
         </div>

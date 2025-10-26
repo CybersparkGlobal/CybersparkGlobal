@@ -35,23 +35,24 @@
                 <div class="col md-mb-30px text-center text-sm-start">
                     <span class="alt-font fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100"><i class="feather icon-feather-map-pin d-inline-block icon-small me-10px"></i>Office location</span>
                     <div class="last-paragraph-no-margin">
-                        <p>16122 collins street,<br> Melbourne, Australia</p>
+                      <a href="https://www.google.com/maps/place/Cyberspark+Global/@22.8186038,89.5535084,785m/data=!3m1!1e3!4m12!1m5!8m4!1e1!2s107233019083693037884!3m1!1e1!3m5!1s0x39ff91a2dbbae23b:0x82c0108415dfda8c!8m2!3d22.8186038!4d89.5535084!16s%2Fg%2F11v3tpvg2r?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D"><p>3th floor, R-Amin trade center,<br>17 KDA Ave, Khulna 9100</p></a>  
+                     
                     </div>
                 </div>
                 <div class="col md-mb-30px text-center text-sm-start">
                     <span class="alt-font fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100"><i class="feather icon-feather-mail d-inline-block icon-small me-10px"></i>Send a message</span>
-                    <a href="mailto:info@yourdomain.com">info@yourdomain.com</a><br>
-                    <a href="mailto:sales@yourdomain.com">sales@yourdomain.com</a>
+                    <a href="mailto:cybersparkglobal@gmail.com">cybersparkglobal@gmail.com</a> <br>
+                    <a href="mailto:contact@cybersparkglobal.com">contact@cybersparkglobal.com</a>
                 </div>
                 <div class="col xs-mb-30px text-center text-sm-start">
                     <span class="alt-font fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100"><i class="feather icon-feather-phone d-inline-block icon-small me-10px"></i>Call us directly</span>
-                    <a href="tel:1800222000">1-800-222-000</a><br>
-                    <a href="tel:1800222002">1-800-222-002</a>
+                    <a href="tel:+880 1749-369514">+880 1749-369514</a><br>
+                    <a href="tel:+1 307-312-2095">+1 307-312-2095</a>
                 </div>
                 <div class="col text-center text-sm-start">
                     <span class="alt-font fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100"><i class="feather icon-feather-users d-inline-block icon-small me-10px"></i>Join our team</span>
-                    <a href="mailto:hire@yourdomain.com">hire@yourdomain.com</a><br>
-                    <a href="mailto:hr@yourdomain.com">hr@yourdomain.com</a>
+                    <a href="https://www.facebook.com/Cybersparkglobal/">@facebook</a><br>
+                    <a href="https://www.linkedin.com/in/helal-ahmed-53b562183/">@linkedin</a>
                 </div>
             </div>
             <div class="row justify-content-center g-0" data-anime='{ "el": "childs", "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 150, "easing": "easeOutQuad" }'>
@@ -61,7 +62,7 @@
                             <i class="bi bi-chat-text fs-24 icon-very-medium text-white"></i>
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin text-white text-uppercase fs-15 fw-600 ls-05px xs-lh-24">
-                            Let's make something great work together. <a href="demo-corporate-contact.html" class="text-white text-decoration-line-bottom-medium">Got a project in mind?</a>
+                            Let's make something great work together. <a href="https://cybersparkglobal.com/services" class="text-white text-decoration-line-bottom-medium">Got a project in mind?</a>
                         </div>
                     </div>
                 </div>
