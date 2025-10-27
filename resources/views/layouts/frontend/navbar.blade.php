@@ -4,9 +4,9 @@
         <div class="container-fluid">
             <div class="col-auto col-xl-3 col-lg-2 me-lg-0 me-auto">
                 <a class="navbar-brand" href="https://cybersparkglobal.com/">
-                    <img src="{{ asset('images/slider/cyber spark logo.png') }}" data-at2x="{{ asset('images/slider/cyber spark logo.png') }}" alt="Cyber Spark Official logo" class="default-logo">
-                    <img src="{{ asset('images/slider/cyber spark logo.png') }}" data-at2x="{{ asset('images/slider/cyber spark logo.png') }}" alt="Cyber Spark Official logo" class="alt-logo">
-                    <img src="{{ asset('images/slider/cyber spark logo.png') }}" data-at2x="{{ asset('images/slider/cyber spark logo.png') }}" alt="Cyber Spark Official logo" class="mobile-logo">
+                    <img src="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" data-at2x="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" alt="Cyber Spark Official logo" class="default-logo">
+                    <img src="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" data-at2x="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" alt="Cyber Spark Official logo" class="alt-logo">
+                    <img src="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" data-at2x="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" alt="Cyber Spark Official logo" class="mobile-logo">
                 </a>
             </div>
             <div class="col-auto col-xl-6 col-lg-8 menu-order position-static">
