@@ -13,7 +13,7 @@
                     data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10=""
                     data-description="">
                     <!-- slide's main background image -->
-                    <img src="https://craftohtml.themezaa.com/images/demo-corporate-main-slider-01.jpg" alt="Image"
+                    <img src="{{ asset('images/slider/Cyber 3 .webp') }}" alt="Cyber spark images"
                          data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                          class="rev-slidebg" data-no-retina>
                     <!-- start overlay layer -->
@@ -138,7 +138,7 @@
                                      data-paddingbottom="[36,36,60,40]" data-paddingleft="[0,0,0,0]">
 {{--                                    {!! $banner->description !!}  --}}
                                     We're a fully dedicated tech service agency collaborating with brands all over the world
-       
+
                                 </div>
                                 <!-- end text layer -->
                                 <!-- start button layer -->
@@ -207,7 +207,7 @@
                     data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10=""
                     data-description="">
                     <!-- slide's main background image -->
-                    <img src="https://craftohtml.themezaa.com/images/demo-corporate-main-slider-02.jpg" alt="Image"
+                    <img src="{{ asset('images/slider/Cyber 4.webp') }}" alt="Cyber spark images"
                          data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                          class="rev-slidebg" data-no-retina>
                     <!-- start overlay layer -->
@@ -330,7 +330,7 @@
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[36,36,60,40]" data-paddingleft="[0,0,0,0]">
                                     With our experiences and right strategies, you can reach a global audience, minimize overhead costs, and build a flexible income stream.
-                                    
+
                                 </div>
                                 <!-- end text layer -->
                                 <!-- start button layer -->
@@ -398,7 +398,7 @@
                     data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10=""
                     data-description="">
                     <!-- slide's main background image -->
-                    <img src="https://craftohtml.themezaa.com/images/demo-corporate-main-slider-03.jpg" alt="Image"
+                    <img src="{{ asset('images/slider/Cyber 6.webp') }}" alt="Cyber spark images"
                          data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                          class="rev-slidebg" data-no-retina>
                     <!-- start overlay layer -->
@@ -521,7 +521,7 @@
                                      data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[36,36,60,40]" data-paddingleft="[0,0,0,0]">
                                     From development to ranking and beyond, we power your digital business with flawless development, smart SEO, and dedicated support to drive lasting growth.
-                                    
+
                                 </div>
                                 <!-- end text layer -->
                                 <!-- start button layer -->
