@@ -3,7 +3,7 @@
         <div class="row justify-content-center pt-6 sm-pt-40px">
             <!-- start footer column -->
             <div class="col-6 col-xl-3 col-lg-12 col-sm-6 last-paragraph-no-margin text-xl-start text-lg-center order-sm-1 lg-mb-50px sm-mb-30px">
-                <a href="https://cybersparkglobal.com/" class="footer-logo mb-15px d-inline-block"><img src="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" data-at2x="{{ asset('images/slider/cyber spark logo.png') }}" alt="Cyber Spark Official footer logo "></a>
+                <a href="https://cybersparkglobal.com/" class="footer-logo mb-15px d-inline-block"><img src="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" data-at2x="{{ asset('images/slider/cyber spark global official logo 10 .webp') }}" alt="Cyber Spark Official footer logo "></a>
                 <p class="lh-30 w-90 xl-w-100 mx-lg-auto mx-xl-0">Gearing your company through an innovative strategy.</p>
                 <div class="elements-social social-icon-style-02 mt-20px xs-mt-15px">
                     <ul class="medium-icon dark">
