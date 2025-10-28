@@ -152,7 +152,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/demo-corporate-slider-img-01.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 1.webp') }}" alt="" />
                                         <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -178,7 +178,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/demo-corporate-slider-img-02.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 2.webp') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -204,7 +204,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/demo-corporate-slider-img-03.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 3.webp') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -229,7 +229,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/demo-corporate-slider-img-04.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 4.webp') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -254,7 +254,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/demo-corporate-slider-img-01.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 5.jpg') }}" alt="" />
                                         <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -280,7 +280,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/demo-corporate-slider-img-02.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 6.webp') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -302,12 +302,12 @@
                                     <!-- end interactive banner item -->
                                 </div>
                                 <!-- end slider item -->
-                              
+
                                 <!-- start slider item -->
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/demo-corporate-slider-img-03.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 7.jpg') }}" alt="" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -328,7 +328,7 @@
                                     <!-- end interactive banner item -->
                                 </div>
                                 <!-- end slider item -->
-                                
+
                             </div>
                         </div>
                     </div>
