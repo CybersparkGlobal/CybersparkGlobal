@@ -24,14 +24,14 @@
                             <a href="{{ route('services.index') }}" class="nav-link">Services</a>
                             <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Medal-2"></i>Business planning</a></li>
-                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Archery-2"></i>Market research</a></li>
-                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Financial"></i>Business consulting</a></li>
-                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Money-Bag"></i>Audience analysis</a></li>
+                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Medal-2"></i>Web Development</a></li>
+                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Archery-2"></i>Software Development</a></li>
+                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Financial"></i>UI/UX Designing</a></li>
+                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Money-Bag"></i>SEO and Marketing</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a href="{{ route('testimonial.index') }}" class="nav-link">Testimonials</a></li>
-{{--                        <li class="nav-item"><a href="demo-corporate-pricing.html" class="nav-link">Pricing</a></li>--}}
+                        {{--                        <li class="nav-item"><a href="demo-corporate-pricing.html" class="nav-link">Pricing</a></li>--}}
                         <li class="nav-item"><a href="{{ route('blog.index') }}" class="nav-link">Blog</a></li>
                         <li class="nav-item"><a href="{{ route('contact.index') }}" class="nav-link">Contact</a></li>
                     </ul>
@@ -47,7 +47,7 @@
                             <form id="search-form" role="search" method="get" class="search-form text-left" action="search-result.html">
                                 <div class="search-form-box">
                                     <h2 class="text-dark-gray text-center fw-600 mb-4 ls-minus-1px">What are you looking for?</h2>
-                                    <input class="search-input" id="search-form-input5e219ef164995" placeholder="Enter your keywords..." name="s" value="" type="text" autocomplete="off">
+                                    <input class="search-input" id="search-form-input5e219ef164995" placeholder="Search service or blog..." name="s" value="" type="text" autocomplete="off">
                                     <button type="submit" class="search-button">
                                         <i class="feather icon-feather-search" aria-hidden="true"></i>
                                     </button>
