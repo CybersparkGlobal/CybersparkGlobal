@@ -152,7 +152,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/slider/slider 1.webp') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 1.webp') }}" alt="Web Designing and Development image" />
                                         <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -178,7 +178,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/slider/slider 2.webp') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 2.webp') }}" alt="Optimal SEO Services" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -204,7 +204,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/slider/slider 3.webp') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 3.webp') }}" alt="Optimized Content Writing" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -229,7 +229,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/slider/slider 4.webp') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 4.webp') }}" alt="Audience Analysis" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -254,7 +254,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/slider/slider 5.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 5.jpg') }}" alt="Social Media Management" />
                                         <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -280,7 +280,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/slider/slider 6.webp') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 6.webp') }}" alt="UI/UX Designing" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -307,7 +307,7 @@
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                        <img src="{{ asset('images/slider/slider 7.jpg') }}" alt="" />
+                                        <img src="{{ asset('images/slider/slider 7.jpg') }}" alt="Software Development" />
                                         <div class="opacity-very-light bg-slate-blue"></div>
                                         <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
                                             <div class="hover-label-icon position-relative z-index-9">
@@ -449,12 +449,12 @@
                             <div class="swiper-slide">
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="{{ asset('/images/demo-corporate-testimonials-01.png') }}">
+                                        <img alt="" src="{{ asset('/images/slider/character 1.png') }}">
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-monday-dark-blue-01.svg" class="h-35px" alt=""></a>
                                         <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">CybersparkGlobal is always there when you need them. In today’s fast-paced business world, the ability to quickly adapt and test new ideas, as well as design websites for products and ads, is more crucial than ever. We needed a company that could keep up with our constant requests, often with tight deadlines, and they consistently deliver high-quality work on time. I’ve worked with several other web design companies, but none come close to CybersparkGlobal. They truly are the best in the business!</span>
-                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Herman miller, Monday</span>
+                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Miller Vinl, Monday</span>
                                     </div>
                                 </div>
                             </div>
@@ -463,12 +463,12 @@
                             <div class="swiper-slide">
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="{{ asset('/images/demo-corporate-testimonials-02.png') }}">
+                                        <img alt="" src="{{ asset('/images/slider/character 2.png') }}">
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-loitech-dark-blue.svg" class="h-35px" alt=""></a>
                                         <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">I started working with CybersparkGlobal about a year ago, and honestly, I can’t imagine running my businesses without them now. They’ve become an essential part of our operations, offering amazing service at an affordable price. If you’re looking for web design, app development, modern SEO, or anything related to web services, I truly believe they’re the only choice you should make.</span>
-                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Leonel mooney, Logitech</span>
+                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Altan Alp, Logitech</span>
                                     </div>
                                 </div>
                             </div>
@@ -477,12 +477,12 @@
                             <div class="swiper-slide">
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="{{ asset('/images/demo-corporate-testimonials-03.png') }}">
+                                        <img alt="" src="{{ asset('/images/slider/character 3.png') }}">
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-invision-dark-blue.svg" class="h-35px" alt=""></a>
                                         <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">I’ve been working with CybersparkGlobal for two years now, and they’ve consistently delivered exceptional work. The team is also incredibly easy to communicate with. Thank you!</span>
-                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Matthew taylor, invision</span>
+                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Himel andrio, invision</span>
                                     </div>
                                 </div>
                             </div>
@@ -562,7 +562,7 @@
         <div class="container">
             <div class="row justify-content-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col-12">
-                    <div class="border-radius-6px h-450px md-h-350px sm-h-400px d-flex flex-wrap align-items-center justify-content-center overflow-hidden cover-background box-shadow-quadruple-large pt-15" style="background-image: url('{{ asset('/images/demo-corporate-video-img.jpg') }}')">
+                    <div class="border-radius-6px h-450px md-h-350px sm-h-400px d-flex flex-wrap align-items-center justify-content-center overflow-hidden cover-background box-shadow-quadruple-large pt-15" style="background-image: url('{{ asset('/images/slider/video 1.jpg') }}')" alt=" cyber spark official image" >
                         <div class="opacity-full-dark bg-gradient-regal-blue-transparent"></div>
                         <div class="row justify-content-center m-0">
                             <div class="col-lg-7 col-md-8 z-index-1 text-center text-md-start sm-mb-20px">
