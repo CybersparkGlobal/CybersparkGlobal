@@ -2,7 +2,7 @@
 @section('content')
 
 
-    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('http://cybersparkglobal.test/images/slider/about%20us%20banner%20image%20helal%20ahhmed.jpg')}})">
+    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('https://cybersparkglobal.com/images/slider/about%20us%20banner%20image%20helal%20ahhmed.jpg')}})">
         <div class="opacity-extra-medium bg-blue-whale"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -173,25 +173,26 @@
 
                 <div class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/slider/Helal Ahmed@Co-Founder CEO.jpg') }}" alt="" />
+                        <img src="{{ asset('/images/slider/Farid Ahmed @CEO.jpg') }}" alt="farid ahmed image" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">Helal Ahmed</span>
+                                <span class="team-member-name fw-500 text-white d-block">Farid Ahmed</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block">CEO</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/Helalfb" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
+                                <a href="https://www.facebook.com/thefaridahmed" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
                             </div>
                         </figcaption>
                     </figure>
                 </div>
+                <!-- test -->
                 <div class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/slider/Aktarozzaman Shohag@Web Developer.jpg') }}" alt="" />
+                        <img src="{{ asset('/images/slider/Helal Ahmed@Co-Founder CEO.jpg') }}" alt="helal ahmed image" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">Md Aktarozzaman</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">  Web and software developer</span>
+                                <span class="team-member-name fw-500 text-white d-block">Helal Ahmed</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block"> Co-Founder </span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
                                 <a href="https://www.facebook.com/Helalfb" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
@@ -199,14 +200,48 @@
                         </figcaption>
                     </figure>
                 </div>
+                <!--test end-->
+
+                <!-- test -->
+                <div  class="col team-style-08 border-radius-6px md-mb-30px">
+                    <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
+                        <img src="{{ asset('/images/slider/Aktarozzaman Shohag@Web Developer.jpg') }}" alt="aktarozzaman image" />
+                        <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
+                            <div class="w-100">
+                                <span class="team-member-name fw-500 text-white d-block">Md Aktarozzaman</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block"> Senior web and software developer</span>
+                            </div>
+                            <div class="social-icon d-flex flex-column flex-shrink-1">
+                                <a href="https://www.facebook.com/ar.aktr" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!--test end-->
+
 
                 <div class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/slider/Jubair Khan Ariyan@web developer and SEO Expert .jpg') }}" alt="jubair khan" />
+                        <img src="{{ asset('/images/slider/Prosen Mondal.jpg') }}" alt="prosen mondal image" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">jubair Khan</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block"> SEO expert and junior developer</span>
+                                <span class="team-member-name fw-500 text-white d-block">Prosen Mondal</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">  Web and software developer</span>
+                            </div>
+                            <div class="social-icon d-flex flex-column flex-shrink-1">
+                                <a href="https://www.facebook.com/prosen.ray.242340" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                  <!--test-->
+                <div style="padding: 12px" class="col team-style-08 border-radius-6px md-mb-30px">
+                    <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
+                        <img src="{{ asset('/images/slider/Jubair Khan Ariyan@web developer and SEO Expert .jpg') }}" alt="jubair khan image live in Khulna" />
+                        <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
+                            <div class="w-100">
+                                <span class="team-member-name fw-500 text-white d-block">Ar jubair Khan</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block"> SEO expert and web developer</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
                                 <a href="https://www.facebook.com/jubair.khan.ariyan/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
@@ -214,55 +249,44 @@
                         </figcaption>
                     </figure>
                 </div>
-                <!-- end team member item -->
-                <!-- start team member item -->
-                <div class="col team-style-08 border-radius-6px md-mb-30px">
+                <!--text end-->
+
+                <!--test-->
+                <div style="padding: 12px" class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="" alt="" />
+                        <img src="{{ asset('/images/slider/Fahim Islam@Content Writer.jpg') }}" alt="fahim islam image" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">Jessica dover</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">Founder</span>
+                                <span class="team-member-name fw-500 text-white d-block">Fahim Islam</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block"> SEO expert and content writer</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.linkedin.com/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-linkedin-in icon-small"></i></a>
+                                <a href="https://www.facebook.com/fahimislam.nipun" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
                             </div>
                         </figcaption>
                     </figure>
                 </div>
-                <!-- end team member item -->
-                <!-- start team member item -->
-                <div class="col team-style-08 border-radius-6px xs-mb-30px">
+                <!--text end-->
+
+                <!--test-->
+                <div style="padding: 12px" class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="https://via.placeholder.com/600x755" alt="" />
+                        <img src="{{ asset('/images/slider/T Jubear Araf @ Social Media Manager and Marketing Specialist.jpg') }}" alt="T Jubear Araf image" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">Matthew taylor</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">Manager</span>
+                                <span class="team-member-name fw-500 text-white d-block">T Jubear Araf</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">Social media manager and marketing specialist</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.behance.net/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-behance icon-small"></i></a>
+                                <a href="https://www.facebook.com/tjubeararaf" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
                             </div>
                         </figcaption>
                     </figure>
                 </div>
+                <!--text end-->
+
                 <!-- end team member item -->
-                <!-- start team member item -->
-                <div class="col team-style-08 border-radius-6px">
-                    <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="https://via.placeholder.com/600x755" alt="" />
-                        <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
-                            <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">Johncy parker</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">Manager</span>
-                            </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook-f icon-small"></i></a>
-                            </div>
-                        </figcaption>
-                    </figure>
-                </div>
-                <!-- end team member item -->
+
             </div>
         </div>
     </section>
