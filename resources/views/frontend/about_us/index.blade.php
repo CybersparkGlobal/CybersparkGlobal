@@ -2,7 +2,7 @@
 @section('content')
 
 
-    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('images/demo-corporate-about-title-bg.jpg') }})">
+    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('http://cybersparkglobal.test/images/slider/about%20us%20banner%20image%20helal%20ahhmed.jpg')}})">
         <div class="opacity-extra-medium bg-blue-whale"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -173,7 +173,7 @@
 
                 <div class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/helal.webp') }}" alt="" />
+                        <img src="{{ asset('/images/slider/Helal Ahmed@Co-Founder CEO.jpg') }}" alt="" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Helal Ahmed</span>
@@ -187,11 +187,11 @@
                 </div>
                 <div class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/aktar.webp') }}" alt="" />
+                        <img src="{{ asset('/images/slider/Aktarozzaman Shohag@Web Developer.jpg') }}" alt="" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Md Aktarozzaman</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">Web Developer</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">  Web and software developer</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
                                 <a href="https://www.facebook.com/Helalfb" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
@@ -202,14 +202,14 @@
 
                 <div class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/') }}" alt="" />
+                        <img src="{{ asset('/images/slider/Jubair Khan Ariyan@web developer and SEO Expert .jpg') }}" alt="jubair khan" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">T Jubear Araf</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">Social Media Manager</span>
+                                <span class="team-member-name fw-500 text-white d-block">jubair Khan</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block"> SEO expert and junior developer</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/tjubeararaf" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
+                                <a href="https://www.facebook.com/jubair.khan.ariyan/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
                             </div>
                         </figcaption>
                     </figure>

@@ -688,7 +688,7 @@
             <div class="row mb-7 sm-mb-9" data-anime='{ "el": "childs", "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col text-center">
                     <div class="fs-26 sm-fs-22 sm-lh-30 fw-600 ls-minus-1px text-dark-gray d-inline-block align-middle me-20px md-m-10px md-mt-0">What do people say about our services?</div>
-                    <a href="https://www.google.com/search?sca_esv=6a64c5c2ce68276f&sxsrf=AE3TifOLH6Rh805m0MQrXienI5M4elKApA:1761734237507&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E-OC2mT7joiNIQHJyWTzSNn4i_crRDCTX_Ab9yXq36eCn9nJukuWX5y6pxSFzwcw2wZtmOur1aOEM1rx4qdY0xeqJEvTb93lKmo-9ZgzyaYXaxiB2Q%3D%3D&q=Cyberspark+Global+Reviews&sa=X&ved=2ahUKEwjv9ai7m8mQAxXAcWwGHZC-N0UQ0bkNegQIIhAE&biw=1536&bih=714&dpr=1.25" target="_blank"><img src="{{ asset('images/slider/Google Review 111.png') }}" class="d-inline-block align-middle" alt=""></a>
+                    <a href="https://www.google.com/search?sca_esv=6a64c5c2ce68276f&sxsrf=AE3TifOLH6Rh805m0MQrXienI5M4elKApA:1761734237507&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E-OC2mT7joiNIQHJyWTzSNn4i_crRDCTX_Ab9yXq36eCn9nJukuWX5y6pxSFzwcw2wZtmOur1aOEM1rx4qdY0xeqJEvTb93lKmo-9ZgzyaYXaxiB2Q%3D%3D&q=Cyberspark+Global+Reviews&sa=X&ved=2ahUKEwjv9ai7m8mQAxXAcWwGHZC-N0UQ0bkNegQIIhAE&biw=1536&bih=714&dpr=1.25" target="_blank"><img src="{{ asset('images/slider/Google Review 111.png') }}" class="d-inline-block align-middle" alt="google review image"></a>
                 </div>
             </div>
         </div>
