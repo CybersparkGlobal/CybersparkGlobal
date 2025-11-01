@@ -205,7 +205,7 @@
                 <!-- test -->
                 <div  class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/slider/Aktarozzaman Shohag@Web Developer.jpg') }}" alt="aktarozzaman image" />
+                        <img src="{{ asset('/images/slider/Aktarozzaman Shohag.jpg') }}" alt="aktarozzaman image" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Md Aktarozzaman</span>
@@ -254,7 +254,7 @@
                 <!--test-->
                 <div style="padding: 12px" class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/slider/Fahim Islam@Content Writer.jpg') }}" alt="fahim islam image" />
+                        <img src="{{ asset('/images/slider/Fahim islam.JPG') }}" alt="fahim islam image" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Fahim Islam</span>
