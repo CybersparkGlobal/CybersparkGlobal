@@ -31,9 +31,9 @@
                             <li class="pb-10px mb-10px border-bottom border-color-transparent-dark text-dark-gray"><a href="demo-corporate-services-details.html" class="text-dark-gray text-dark-gray-hover">Software Development</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
                             <li class="pb-10px mb-10px border-bottom border-color-transparent-dark"><a href="demo-corporate-services-details.html">UI/UX Designing</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
                             <li class="pb-10px mb-10px border-bottom border-color-transparent-dark"><a href="demo-corporate-services-details.html">SEO and Marketing</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
-                         
+
                             <li><a href="demo-corporate-services-details.html">Researching and Writing</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
-                          
+
                         </ul>
                     </div>
                     <div class="bg-dark-gray border-radius-6px ps-35px pb-25px pt-25px mb-25px">
