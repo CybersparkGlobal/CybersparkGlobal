@@ -52,7 +52,7 @@
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin">
                                 <span class="d-inline-block fw-700 text-dark-gray fs-19">Alexander Johnson</span>
-                                <span class="d-block fs-15 lh-24">Themezaa, Co founder</span>
+                                <span class="d-block fs-15 lh-24">Themezaa, Member</span>
                             </div>
                         </div>
                     </div>
@@ -137,10 +137,10 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-7 text-center text-sm-start">
-                    <h5 class="alt-font text-dark-gray lh-40 fw-500 ls-minus-1px mb-0 ms-10px lg-ms-0" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 500, "staggervalue": 300, "easing": "easeOutQuad" }'>Trusted by <span class="fw-800 text-base-color text-decoration-line-bottom-medium">25,000+</span> happy customers are using crafto.</h5>
+                    <h5 class="alt-font text-dark-gray lh-40 fw-500 ls-minus-1px mb-0 ms-10px lg-ms-0" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 500, "staggervalue": 300, "easing": "easeOutQuad" }'>Trusted by <span class="fw-800 text-base-color text-decoration-line-bottom-medium">500+</span> happy customers are using our softwares</h5>
                 </div>
                 <div class="col-xl-2 offset-xl-2 col-lg-3 offset-lg-1 col-sm-4 md-mt-35px text-center text-lg-start">
-                    <h2 class="alt-font text-dark-gray fw-800 ls-minus-3px mb-5px" data-anime='{ "el": "lines", "translateY": [15, 0], "opacity": [0,1], "delay": 300, "staggervalue": 100, "easing": "easeOutQuad" }'>200+</h2>
+                    <h2 class="alt-font text-dark-gray fw-800 ls-minus-3px mb-5px" data-anime='{ "el": "lines", "translateY": [15, 0], "opacity": [0,1], "delay": 300, "staggervalue": 100, "easing": "easeOutQuad" }'>10+</h2>
                     <span class="text-dark-gray fw-500 lh-24 d-inline-block w-90 lg-w-80 sm-w-100" data-anime='{ "el": "lines", "translateY": [15, 0], "opacity": [0,1], "delay": 400, "staggervalue": 100, "easing": "easeOutQuad" }'>Creative team to care for projects.</span>
                 </div>
                 <div class="col-lg-2 col-sm-4 ps-40px md-ps-15px md-mt-35px text-center text-lg-start">
@@ -299,7 +299,7 @@
             </div>
             <div class="row">
                 <div class="col text-center" data-anime='{ "translateX": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <div class="fs-24 fw-500 text-dark-gray d-inline-block align-middle ls-minus-1px me-20px lg-m-10px lg-mt-0">More than <span class="fw-700 text-decoration-line-bottom-medium">10000+</span> happy customers reviews on</div>
+                    <div class="fs-24 fw-500 text-dark-gray d-inline-block align-middle ls-minus-1px me-20px lg-m-10px lg-mt-0">More than <span class="fw-700 text-decoration-line-bottom-medium">400+</span> happy customers reviews on</div>
                     <a href="https://www.trustpilot.com/" target="_blank"><img src="https://via.placeholder.com/416x44" class="d-inline-block align-middle" alt=""></a>
                 </div>
             </div>
