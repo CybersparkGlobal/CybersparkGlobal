@@ -113,13 +113,13 @@
             <div class="row justify-content-center align-items-center mb-3">
                 <div class="col-xl-5 col-lg-6 md-mb-14 sm-mb-18 xs-mb-23 position-relative" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="w-75 sm-w-80" data-animation-delay="200" data-shadow-animation="true" data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)">
-                        <img src="{{ asset('images/demo-corporate-about-img-01.jpg') }}" alt="" class="border-radius-6px w-100">
+                        <img src="{{ asset('images/slider/Helal ahmed and Farid ahmed image.jpg') }}" alt="" class="border-radius-6px w-100">
                         <div class="position-absolute top-30px z-index-8 left-minus-90px lg-left-minus-25px sm-left-minus-0px lg-w-30">
-                            <img src="{{ asset('images/demo-corporate-about-01.png') }}" alt="" />
+                            <img src="{{ asset('images/demo-corporate-02.png') }}" alt="about us page image" />
                         </div>
                     </div>
                     <div class="w-55 overflow-hidden position-absolute right-15px xs-w-55 bottom-minus-50px" data-shadow-animation="true" data-animation-delay="100" data-bottom-top="transform: translateY(20px)" data-top-bottom="transform: translateY(-20px)">
-                        <img src="{{ asset('/images/demo-corporate-about-img-02.jpg') }}" alt="" class="border-radius-6px box-shadow-quadruple-large w-100" />
+                        <img src="{{ asset('/images/slider/about us page  set1.jpg') }}" alt="inside image of cyber spark office's meeting room " class="border-radius-6px box-shadow-quadruple-large w-100" />
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-lg-start" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 150, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -209,7 +209,7 @@
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Md Aktarozzaman</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block"> Senior web and software developer</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block"> Senior Web and Software Developer</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
                                 <a href="https://www.facebook.com/ar.aktr" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
@@ -226,7 +226,7 @@
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Prosen Mondal</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">  Web and software developer</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">  Web and Software Developer</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
                                 <a href="https://www.facebook.com/prosen.ray.242340" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
@@ -237,11 +237,11 @@
                   <!--test-->
                 <div style="padding: 12px" class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                        <img src="{{ asset('/images/slider/Jubair Khan Ariyan@web developer and SEO Expert .jpg') }}" alt="jubair khan image live in Khulna" />
+                        <img src="{{ asset('/images/slider/Jubair Khan Ariyan@web developer and SEO Expert .jpg') }}" alt="Ar jubair khan image live in Khulna" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Ar jubair Khan</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block"> SEO expert and web developer</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block"> SEO Specialist and Web Developer</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
                                 <a href="https://www.facebook.com/jubair.khan.ariyan/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
@@ -258,7 +258,7 @@
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Fahim Islam</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block"> SEO expert and content writer</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">Content Writer SEO Expert</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
                                 <a href="https://www.facebook.com/fahimislam.nipun" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
@@ -275,7 +275,7 @@
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">T Jubear Araf</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block">Social media manager and marketing specialist</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">Social Media Manager and Marketing Specialist</span>
                             </div>
                             <div class="social-icon d-flex flex-column flex-shrink-1">
                                 <a href="https://www.facebook.com/tjubeararaf" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
@@ -284,6 +284,26 @@
                     </figure>
                 </div>
                 <!--text end-->
+
+
+                <!--test-->
+                <div style="padding: 12px" class="col team-style-08 border-radius-6px md-mb-30px">
+                    <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
+                        <img src="{{ asset('/images/slider/Rubayet Raja UI UX Designer.jpg') }}" alt="Rubayet raja image" />
+                        <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
+                            <div class="w-100">
+                                <span class="team-member-name fw-500 text-white d-block">Rubayet Raja</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block">Senior UI/UX Designer</span>
+                            </div>
+                            <div class="social-icon d-flex flex-column flex-shrink-1">
+                                <a href="https://www.facebook.com/rh.raja.35" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!--text end-->
+
+
 
                 <!-- end team member item -->
 
