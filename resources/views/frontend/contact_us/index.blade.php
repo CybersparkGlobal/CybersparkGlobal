@@ -1,7 +1,7 @@
 @extends('layouts.frontend.app')
 @section('content')
     <!-- start page title -->
-    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('images/demo-corporate-blog-01.jpg') }})">
+    <section class="top-space-margin page-title-big-typography border-radius-6px lg-border-radius-0px p-0" data-parallax-background-ratio="0.5" style="background-image: url({{ asset('http://cybersparkglobal.test/images/slider/blog%20page%20image.png') }})">
         <div class="opacity-extra-medium bg-blue-whale"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -35,8 +35,8 @@
                 <div class="col md-mb-30px text-center text-sm-start">
                     <span class="alt-font fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100"><i class="feather icon-feather-map-pin d-inline-block icon-small me-10px"></i>Office location</span>
                     <div class="last-paragraph-no-margin">
-                      <a href="https://www.google.com/maps/place/Cyberspark+Global/@22.8186038,89.5535084,785m/data=!3m1!1e3!4m12!1m5!8m4!1e1!2s107233019083693037884!3m1!1e1!3m5!1s0x39ff91a2dbbae23b:0x82c0108415dfda8c!8m2!3d22.8186038!4d89.5535084!16s%2Fg%2F11v3tpvg2r?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D"><p>3th floor, R-Amin trade center,<br>17 KDA Ave, Khulna 9100</p></a>  
-                     
+                      <a href="https://www.google.com/maps/place/Cyberspark+Global/@22.8186038,89.5535084,785m/data=!3m1!1e3!4m12!1m5!8m4!1e1!2s107233019083693037884!3m1!1e1!3m5!1s0x39ff91a2dbbae23b:0x82c0108415dfda8c!8m2!3d22.8186038!4d89.5535084!16s%2Fg%2F11v3tpvg2r?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D"><p>3th floor, R-Amin trade center,<br>17 KDA Ave, Khulna 9100</p></a>
+
                     </div>
                 </div>
                 <div class="col md-mb-30px text-center text-sm-start">
