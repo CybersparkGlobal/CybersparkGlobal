@@ -113,7 +113,7 @@
             <div class="row justify-content-center align-items-center mb-3">
                 <div class="col-xl-5 col-lg-6 md-mb-14 sm-mb-18 xs-mb-23 position-relative" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="w-75 sm-w-80" data-animation-delay="200" data-shadow-animation="true" data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)">
-                        <img src="{{ asset('images/slider/Helal ahmed and Farid ahmed image.jpg') }}" alt="" class="border-radius-6px w-100">
+                        <img src="{{ asset('images/slider/blog page bannar image.jpg') }}" alt="" class="border-radius-6px w-100">
                         <div class="position-absolute top-30px z-index-8 left-minus-90px lg-left-minus-25px sm-left-minus-0px lg-w-30">
                             <img src="{{ asset('images/demo-corporate-02.png') }}" alt="about us page image" />
                         </div>
