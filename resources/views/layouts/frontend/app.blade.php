@@ -2,6 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
+    <!--tags-->
+    <meta name="google-site-verification" content="QEj2pCEY2DrHGGdbp00spLKoxo-RLji0ZJbnorCjdSw" />
+    <!--tags end-->
+
     <title>{{ env('APP_NAME') }}</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
