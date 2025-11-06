@@ -37,7 +37,7 @@
                 <div class="col custom-icon-with-text-style-02">
                     <div class="feature-box p-6 last-paragraph-no-margin overflow-hidden md-mb-20px">
                         <div class="feature-box-icon">
-                            <img class="custom-image-icon mb-20px" src="https://via.placeholder.com/60x60" alt="" />
+                            <img class="custom-image-icon mb-20px" src="https://cdn-icons-png.flaticon.com/128/5197/5197707.png" alt="" />
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block fs-19 fw-700 text-dark-gray mb-5px">Trusted company</span>
@@ -50,7 +50,7 @@
                 <div class="col custom-icon-with-text-style-02">
                     <div class="feature-box p-6 last-paragraph-no-margin overflow-hidden md-mb-20px">
                         <div class="feature-box-icon">
-                            <img class="custom-image-icon mb-20px" src="https://via.placeholder.com/60x60" alt="" />
+                            <img class="custom-image-icon mb-20px" src="https://cdn-icons-png.flaticon.com/128/16765/16765467.png" alt="" />
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block fs-19 fw-700 text-dark-gray mb-5px">Professional work</span>
@@ -63,7 +63,7 @@
                 <div class="col custom-icon-with-text-style-02">
                     <div class="feature-box p-6 last-paragraph-no-margin overflow-hidden xs-mb-20px">
                         <div class="feature-box-icon">
-                            <img class="custom-image-icon mb-20px" src="https://via.placeholder.com/60x60" alt="" />
+                            <img class="custom-image-icon mb-20px" src="https://cdn-icons-png.flaticon.com/128/17364/17364024.png" alt="" />
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block fs-19 fw-700 text-dark-gray mb-5px">Award winning</span>
@@ -76,7 +76,7 @@
                 <div class="col custom-icon-with-text-style-02">
                     <div class="feature-box p-6 last-paragraph-no-margin overflow-hidden">
                         <div class="feature-box-icon">
-                            <img class="custom-image-icon mb-20px" src="https://via.placeholder.com/60x60" alt="" />
+                            <img class="custom-image-icon mb-20px" src="https://cdn-icons-png.flaticon.com/128/1441/1441147.png" alt="" />
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block fs-19 fw-700 text-dark-gray mb-5px">Help any time</span>
