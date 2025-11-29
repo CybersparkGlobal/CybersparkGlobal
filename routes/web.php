@@ -37,6 +37,7 @@ Route::get('/testimonial',[\App\Http\Controllers\Frontend\TestimonialController:
 Route::get('/blog',[\App\Http\Controllers\Frontend\BlogController::class,'index' ])->name('blog.index');
 Route::get('/single_blog',[\App\Http\Controllers\Frontend\BlogController::class,'singleBlog' ])->name('single_blog');
 Route::get('/contact_us',[\App\Http\Controllers\Frontend\ContactController::class,'index' ])->name('contact.index');
+Route::get('/seo', [\App\Http\Controllers\Frontend\SeoController::class,'index'])->name('seo.index');
 
 Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['web', 'auth']], function (){
     \UniSharp\LaravelFilemanager\Lfm::routes();
