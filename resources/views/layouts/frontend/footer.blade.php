@@ -36,8 +36,8 @@
                             Hot
                         </div>
                     </li>
-                    <li><a href="http://cybersparkglobal.test/testimonial">Our clients</a></li>
-                    <li><a href="http://cybersparkglobal.test/contact_us">Contact us</a></li>
+                    <li><a href="https://cybersparkglobal.com/testimonial">Our clients</a></li>
+                    <li><a href="https://cybersparkglobal.com/contact_us">Contact us</a></li>
                 </ul>
             </div>
             <!-- end footer column -->
@@ -56,10 +56,10 @@
             <div class="col-6 col-xl-2 col-lg-3 col-sm-4 xs-mb-30px order-sm-5 order-lg-4">
                 <span class="fs-17 fw-600 d-block text-dark-gray mb-5px">Customer</span>
                 <ul>
-                    <li><a href="http://cybersparkglobal.test/contact_us">Client support</a></li>
-                    <li><a href="http://cybersparkglobal.test/contact_us">Help center</a></li>
-                    <li><a href="http://cybersparkglobal.test/contact_us">System status</a></li>
-                    <li><a href="http://cybersparkglobal.test/contact_us">Feedback</a></li>
+                    <li><a href="https://cybersparkglobal.com/contact_us">Client support</a></li>
+                    <li><a href="https://cybersparkglobal.com/contact_us">Help center</a></li>
+                    <li><a href="https://cybersparkglobal.com/contact_us">System status</a></li>
+                    <li><a href="https://cybersparkglobal.com/contact_us">Feedback</a></li>
                 </ul>
             </div>
             <!-- end footer column -->
