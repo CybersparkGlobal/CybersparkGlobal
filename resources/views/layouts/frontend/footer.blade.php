@@ -29,7 +29,7 @@
             <div class="col-6 col-xl-2 col-lg-3 col-sm-4 xs-mb-30px order-sm-3 order-lg-2">
                 <span class="fs-17 fw-600 d-block text-dark-gray mb-5px">Company</span>
                 <ul>
-                    <li><a href="http://cybersparkglobal.test/about_us">Who we are</a></li>
+                    <li><a href="https://cybersparkglobal.com/about_us">Who we are</a></li>
                     <li><a href="https://cybersparkglobal.com/services">Our services</a>
                         <div
                             class="bg-dark-gray fw-600 text-white lh-22 text-uppercase border-radius-30px ps-10px pe-10px fs-10 ms-10px d-inline-block align-middle">
