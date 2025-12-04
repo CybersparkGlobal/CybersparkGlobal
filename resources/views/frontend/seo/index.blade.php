@@ -398,9 +398,13 @@
 
 
 
-    <!-- START: Alternating Timeline — Flipped Image/Text Positions -->
+    <!-- START: Alternating Timeline Section -->
     <section class="seo-timeline" aria-label="SEO Services Timeline">
         <style>
+
+            /* -------------------------------
+               BASE LAYOUT (DESKTOP)
+            --------------------------------*/
             .seo-timeline {
                 padding:70px 20px;
                 --accent:#07b6d5;
@@ -408,12 +412,18 @@
                 max-width:1200px;
                 margin:0 auto;
                 font-family:Arial, Helvetica, sans-serif;
-                box-sizing:border-box;
-                background:#fff;
             }
 
-            .seo-timeline .timeline-title { text-align:center; margin-bottom:40px; color:var(--title); }
-            .seo-timeline .timeline-title h2 { margin:0; font-size:30px; font-weight:700; }
+            .seo-timeline .timeline-title {
+                text-align:center;
+                margin-bottom:40px;
+                color:var(--title);
+            }
+            .seo-timeline .timeline-title h2 {
+                margin:0;
+                font-size:30px;
+                font-weight:700;
+            }
 
             .seo-timeline .timeline-grid {
                 position:relative;
@@ -423,97 +433,199 @@
                 align-items:start;
             }
 
-            /* vertical dashed line (desktop) */
-            .seo-timeline .timeline-grid::before{
+            /* -- Vertical dashed line (desktop) -- */
+            .seo-timeline .timeline-grid::before {
                 content:"";
                 position:absolute;
                 left:50%;
                 top:0;
                 transform:translateX(-50%);
-                width:4px; height:100%;
-                background-image: linear-gradient(to bottom, var(--accent) 0, var(--accent) 8px, transparent 8px, transparent 16px);
+                width:4px;
+                height:100%;
+                background-image:linear-gradient(
+                    to bottom,
+                    var(--accent) 0,
+                    var(--accent) 8px,
+                    transparent 8px,
+                    transparent 16px
+                );
+                background-size:100% 24px;
                 background-repeat:repeat-y;
-                background-size: 100% 24px;
                 z-index:2;
             }
 
-            .seo-timeline .center-col { position:relative; display:flex; flex-direction:column; align-items:center; z-index:3; }
-            .seo-timeline .dot { width:18px; height:18px; border-radius:50%; background:#fff; border:6px solid var(--accent); box-shadow:0 6px 18px rgba(11,24,30,0.08); margin:24px 0; }
+            /* -- Dots (desktop only) -- */
+            .seo-timeline .center-col {
+                position:relative;
+                display:flex;
+                flex-direction:column;
+                align-items:center;
+                z-index:3;
+            }
+            .seo-timeline .dot {
+                width:18px;
+                height:18px;
+                border-radius:50%;
+                background:#fff;
+                border:6px solid var(--accent);
+                box-shadow:0 6px 18px rgba(11,24,30,0.1);
+                margin:24px 0;
+            }
 
-            .timeline-item { display:flex; gap:22px; padding:18px; align-items:center; }
+            /* -- Timeline Items -- */
+            .timeline-item {
+                display:flex;
+                gap:22px;
+                padding:18px;
+                align-items:center;
+            }
 
-            .timeline-item .thumb { width:300px; border-radius:12px; overflow:hidden; box-shadow:0 10px 30px rgba(0,0,0,0.08); }
-            .timeline-item .thumb img { width:100%; height:100%; display:block; object-fit:cover; }
+            .timeline-item .thumb {
+                width:230px;
+                border-radius:10px;
+                overflow:hidden;
+                box-shadow:0 8px 26px rgba(0,0,0,0.08);
+            }
+            .timeline-item .thumb img {
+                width:100%;
+                height:100%;
+                object-fit:cover;
+            }
 
-            .timeline-item .content { max-width:520px; }
-            .timeline-item h3 { font-size:22px; margin:0 0 10px; color:var(--title); }
-            .timeline-item p { font-size:15px; line-height:1.55; margin-bottom:12px; color:#55646b; }
-            .timeline-item .cta { color:var(--accent); font-size:15px; font-weight:700; text-decoration:none; display:inline-flex; gap:8px; align-items:center; }
-            .timeline-item .cta .arrow { width:30px; height:30px; border-radius:50%; background:var(--accent); color:#fff; display:flex; align-items:center; justify-content:center; }
+            .timeline-item .content {
+                max-width:520px;
+            }
+            .timeline-item h3 {
+                font-size:22px;
+                margin:0 0 10px;
+                color:var(--title);
+            }
+            .timeline-item p {
+                font-size:15px;
+                line-height:1.55;
+                margin-bottom:12px;
+            }
+            .timeline-item .cta {
+                color:var(--accent);
+                font-size:15px;
+                font-weight:700;
+                text-decoration:none;
+                display:inline-flex;
+                gap:8px;
+                align-items:center;
+            }
+            .timeline-item .cta .arrow {
+                width:30px;
+                height:30px;
+                border-radius:50%;
+                background:var(--accent);
+                color:#fff;
+                display:flex;
+                align-items:center;
+                justify-content:center;
+            }
 
-            /* Desktop layout helpers — we'll place the markup in appropriate columns so no extra rules are needed */
-            .col-left { grid-column:1 / 2; }
-            .col-center { grid-column:2 / 3; }
-            .col-right { grid-column:3 / 4; }
+            /* Desktop positioning */
+            .left-item { justify-content:flex-end; text-align:right; }
+            .left-item .content { text-align:right; }
+            .right-item { justify-content:flex-start; text-align:left; }
 
-            /* MOBILE: collapse to single column, dashed line on left, dot per item */
-            @media (max-width:900px){
-                .seo-timeline { padding:30px 12px; }
-                .seo-timeline .timeline-grid { grid-template-columns: 1fr; }
-                .seo-timeline .timeline-grid::before { left:20px; transform:none; height:100%; }
+            /* -------------------------------------
+                MOBILE FIX (PERFECT LIKE YOUR DEMO)
+            --------------------------------------*/
+            @media(max-width:900px){
+
+                /* Collapse to 1 column */
+                .seo-timeline .timeline-grid {
+                    grid-template-columns:1fr;
+                }
+
+                /* Move dashed line to far left */
+                .seo-timeline .timeline-grid::before {
+                    left:20px;
+                    transform:none;
+                    height:100%;
+                }
+
+                /* Remove desktop dots */
                 .seo-timeline .col-center { display:none; }
 
+                /* NEW: Perfect mobile layout */
                 .timeline-item {
                     flex-direction:row;
-                    padding:18px 0 32px 50px; /* space for line */
+                    padding:20px 0 34px 50px;    /* space for left line */
                     align-items:flex-start;
                     position:relative;
                 }
 
+                /* Dot for each item */
                 .timeline-item::before {
                     content:"";
                     position:absolute;
                     left:14px;
                     top:18px;
-                    width:12px; height:12px;
+                    width:12px;
+                    height:12px;
                     border-radius:50%;
                     background:var(--accent);
                     border:4px solid #fff;
-                    box-shadow:0 6px 14px rgba(0,0,0,0.08);
+                    box-shadow:0 6px 14px rgba(0,0,0,0.1);
                     z-index:5;
                 }
 
-                .timeline-item .thumb { width:92px; min-width:92px; height:92px; border-radius:8px; flex-shrink:0; }
-                .timeline-item .thumb img { object-fit:cover; height:100%; }
-                .timeline-item .content { padding-left:12px; max-width:calc(100% - 120px); text-align:left !important; }
+                /* Image smaller + always aligned right */
+                .timeline-item .thumb {
+                    width:95px;
+                    min-width:95px;
+                    height:95px;
+                    border-radius:8px;
+                    flex-shrink:0;
+                }
 
-                .timeline-item h3 { font-size:18px; margin-bottom:6px; }
-                .timeline-item p { font-size:14px; line-height:1.45; }
-                .timeline-item .cta { font-size:14px; }
+                /* Text area takes remaining width */
+                .timeline-item .content {
+                    padding-left:12px;
+                    text-align:left !important;
+                    max-width:calc(100% - 120px);
+                }
+
+                /* Smaller text for mobile */
+                .timeline-item h3 {
+                    font-size:18px;
+                    margin-bottom:6px;
+                }
+                .timeline-item p {
+                    font-size:14px;
+                    line-height:1.45;
+                    margin-bottom:10px;
+                }
+                .timeline-item .cta {
+                    font-size:14px;
+                }
+
+                /* Reset alignment */
+                .left-item,
+                .right-item {
+                    justify-content:flex-start;
+                    text-align:left;
+                }
             }
+
         </style>
 
-        <!-- Title -->
+        <!-- TITLE -->
         <div class="timeline-title">
             <h2>What we do for SEO</h2>
-            <p style="margin:8px 0 0;color:#5f6e73;font-size:14px;">Complete process — analysis, on-page, off-page and paid growth</p>
+            <p style="margin:8px 0 0;color:#5f6e73;font-size:14px;">
+                Complete process — analysis, on-page, off-page and paid growth
+            </p>
         </div>
 
         <div class="timeline-grid">
 
-            <!-- ROW 1: IMAGE LEFT (col-left) — TEXT RIGHT (col-right) -->
+            <!-- ITEM 1 -->
             <div class="col-left">
-                <div class="timeline-item">
-                    <div class="thumb" aria-hidden="true">
-                        <img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="Analyze image">
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-center center-col" aria-hidden="true"><div class="dot"></div></div>
-
-            <div class="col-right">
-                <div class="timeline-item">
+                <div class="timeline-item left-item">
                     <div class="content">
                         <h3>Analyze a web site</h3>
                         <p>We first analyze a website, then produce a step-by-step plan so the site communicates keywords more effectively to search engines and human visitors.</p>
@@ -521,52 +633,26 @@
                     </div>
                 </div>
             </div>
+            <div class="col-center center-col"><div class="dot"></div></div>
 
-            <!-- ROW 2: TEXT LEFT (col-left) — IMAGE RIGHT (col-right) -->
-            <div class="col-left">
-                <div class="timeline-item">
-                    <div class="content">
-                        <h3>On-Page & Off-Page Optimization</h3>
-                        <p>We follow proven on-page and off-page methods to improve the theme and signals that search engines evaluate for your targeted keywords.</p>
-                        <a class="cta" href="#optimization">Learn how <span class="arrow">→</span></a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-center center-col" aria-hidden="true"><div class="dot"></div></div>
-
+            <!-- ITEM 2 -->
             <div class="col-right">
-                <div class="timeline-item">
-                    <div class="thumb" aria-hidden="true">
-                        <img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="Optimization image">
-                    </div>
+                <div class="timeline-item right-item">
+                    <div class="thumb"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg"></div>
                 </div>
             </div>
 
-            <!-- ROW 3: IMAGE LEFT — TEXT RIGHT -->
+            <!-- ITEM 3 -->
             <div class="col-left">
-                <div class="timeline-item">
-                    <div class="thumb" aria-hidden="true">
-                        <img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="More than SEO image">
-                    </div>
+                <div class="timeline-item left-item">
+                    <div class="thumb"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg"></div>
                 </div>
             </div>
+            <div class="col-center center-col"><div class="dot"></div></div>
 
-            <div class="col-center center-col" aria-hidden="true"><div class="dot"></div></div>
-
+            <!-- ITEM 4 -->
             <div class="col-right">
-                <div class="timeline-item">
-                    <div class="content">
-                        <h3>More Than Just SEO</h3>
-                        <p>SEO is only a piece of the puzzle — we also help with conversion, UX and long-term content plans so traffic turns into customers.</p>
-                        <a class="cta" href="#more">Get a quote <span class="arrow">→</span></a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- ROW 4: TEXT LEFT — IMAGE RIGHT -->
-            <div class="col-left">
-                <div class="timeline-item">
+                <div class="timeline-item right-item">
                     <div class="content">
                         <h3>SEO Paid Advertisements</h3>
                         <p>Paid search and social advertising accelerate visibility. We combine paid ads with organic efforts for maximum ROI and faster results.</p>
@@ -575,19 +661,10 @@
                 </div>
             </div>
 
-            <div class="col-center center-col" aria-hidden="true"><div class="dot"></div></div>
-
-            <div class="col-right">
-                <div class="timeline-item">
-                    <div class="thumb" aria-hidden="true">
-                        <img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="Paid ads image">
-                    </div>
-                </div>
-            </div>
-
         </div>
     </section>
-    <!-- END: Alternating Timeline — Flipped -->
+    <!-- END -->
+
 
 
 
