@@ -531,7 +531,7 @@
             .right-item { justify-content:flex-start; text-align:left; }
 
             /* -------------------------------------
-                MOBILE FIX (PERFECT LIKE YOUR DEMO)
+                MOBILE LAYOUT (IMAGES FIRST, FULL WIDTH)
             --------------------------------------*/
             @media(max-width:900px){
 
@@ -547,14 +547,13 @@
                     height:100%;
                 }
 
-                /* Remove desktop dots */
+                /* Remove desktop dots column */
                 .seo-timeline .col-center { display:none; }
 
-                /* NEW: Perfect mobile layout */
                 .timeline-item {
-                    flex-direction:row;
-                    padding:20px 0 34px 50px;    /* space for left line */
+                    flex-direction:column;          /* stack image + text */
                     align-items:flex-start;
+                    padding:20px 0 34px 50px;      /* space for line & dot */
                     position:relative;
                 }
 
@@ -563,7 +562,7 @@
                     content:"";
                     position:absolute;
                     left:14px;
-                    top:18px;
+                    top:22px;
                     width:12px;
                     height:12px;
                     border-radius:50%;
@@ -573,20 +572,27 @@
                     z-index:5;
                 }
 
-                /* Image smaller + always aligned right */
+                /* Always show image first, then text */
                 .timeline-item .thumb {
-                    width:95px;
-                    min-width:95px;
-                    height:95px;
-                    border-radius:8px;
-                    flex-shrink:0;
+                    order:0;
+                    width:100%;
+                    max-width:260px;
+                    min-width:0;
+                    height:auto;
+                    border-radius:10px;
+                    margin-bottom:12px;
+                }
+                .timeline-item .thumb img {
+                    width:100%;
+                    height:auto;
+                    object-fit:cover;
                 }
 
-                /* Text area takes remaining width */
+                /* Text takes full card width */
                 .timeline-item .content {
-                    padding-left:12px;
-                    text-align:left !important;
-                    max-width:calc(100% - 120px);
+                    order:1;
+                    padding-left:0;
+                    max-width:100%;
                 }
 
                 /* Smaller text for mobile */
@@ -603,7 +609,7 @@
                     font-size:14px;
                 }
 
-                /* Reset alignment */
+                /* Reset alignment hints */
                 .left-item,
                 .right-item {
                     justify-content:flex-start;
@@ -638,14 +644,14 @@
             <!-- ITEM 2 -->
             <div class="col-right">
                 <div class="timeline-item right-item">
-                    <div class="thumb"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg"></div>
+                    <div class="thumb"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt=""></div>
                 </div>
             </div>
 
             <!-- ITEM 3 -->
             <div class="col-left">
                 <div class="timeline-item left-item">
-                    <div class="thumb"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg"></div>
+                    <div class="thumb"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt=""></div>
                 </div>
             </div>
             <div class="col-center center-col"><div class="dot"></div></div>
@@ -664,6 +670,7 @@
         </div>
     </section>
     <!-- END -->
+
 
 
 
