@@ -102,10 +102,10 @@
 
                 <!-- LEFT SIDE -->
                 <div class="col-lg-6">
-                    <h1>SEO Services designed<br>for growth<span style="color:#09bfd3">.</span></h1>
+                    <h1>The Best SEO Company Delivering<br>Top SEO Services in South Africa<span style="color:#09bfd3">.</span></h1>
                     <p>
-                        We improve your Google visibility and bring targeted traffic that converts.
-                        Technical SEO, content that ranks, and optimisation tailored for your business.
+                        As the best SEO company for South Africa, we deliver the top SEO services you need to bring targeted traffic that converts across Mzansi.
+                        Our specialized approach includes essential Technical SEO and targeted local SEO services South Africa to ensure your business is visible exactly where it matters.
                     </p>
 
                     <div class="mt-4 d-flex align-items-center">
@@ -121,14 +121,14 @@
                         <!-- FLOATING BADGE (bottom-right) -->
                         <div class="feature-badge">
                             <img class="device"
-                                 src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg"
+                                 src="https://cybersparkglobal.com/images/slider/google%20seo.png"
                                  alt="SEO Mockup">
                         </div>
 
                         <!-- MAIN BIG MOCKUP IMAGE -->
                         <div class="mockup-card">
                             <img class="device"
-                                 src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg"
+                                 src="https://cybersparkglobal.com/images/slider/SEO%20services%20for%20South%20Africa%20.webp"
                                  alt="SEO Mockup">
                         </div>
 
