@@ -311,7 +311,9 @@
         </div>
     </section>
     <!-- end section -->
-    <!-- start section -->
+
+
+    <!-- start carousel section -->
     <section class="pt-0">
         <div class="container">
             <div class="row justify-content-center">

@@ -17,7 +17,7 @@
                 margin-top: 18px;
             }
             .seo-hero .btn-primary {
-                background:#06b3c9;
+                background:#4784da;
                 border:none;
                 padding:14px 28px;
                 border-radius:8px;
@@ -68,7 +68,7 @@
             .feature-badge .icon {
                 width: 80px;
                 height: 80px;
-                background:#07a9be;
+                background:#4784da;
                 color:#ffffff;
                 font-size:22px;
                 font-weight:700;
@@ -102,14 +102,14 @@
 
                 <!-- LEFT SIDE -->
                 <div class="col-lg-6">
-                    <h1>The Best SEO Company Delivering<br>Top SEO Services in South Africa<span style="color:#09bfd3">.</span></h1>
+                    <h1>The Best <span style="color:#6597ee">SEO</span> Company Delivering<br>Top SEO Services in <span style="color:#f7b70f">South Africa</span> <span style="color:#6597ee">.</span></h1>
                     <p>
                         As the best SEO company for South Africa, we deliver the top SEO services you need to bring targeted traffic that converts across Mzansi.
                         Our specialized approach includes essential Technical SEO and targeted local SEO services South Africa to ensure your business is visible exactly where it matters.
                     </p>
 
                     <div class="mt-4 d-flex align-items-center">
-                        <a href="https://www.facebook.com/jubair.khan.ariyan/" class="btn btn-primary me-4">Get a free SEO audit</a>
+                        <a href="https://www.facebook.com/jubair.khan.ariyan/" class="btn btn-primary me-4"> Get a free SEO audit </a>
                         <a href="https://cybersparkglobal.com/contact_us" style="color:#bfcbd1; text-decoration:underline;">Contact us</a>
                     </div>
                 </div>
@@ -122,14 +122,14 @@
                         <div class="feature-badge">
                             <img class="device"
                                  src="https://cybersparkglobal.com/images/slider/google%20seo.png"
-                                 alt="SEO Mockup">
+                                 alt="Seo services for south africa ">
                         </div>
 
                         <!-- MAIN BIG MOCKUP IMAGE -->
                         <div class="mockup-card">
                             <img class="device"
                                  src="https://cybersparkglobal.com/images/slider/SEO%20services%20for%20South%20Africa%20.webp"
-                                 alt="SEO Mockup">
+                                 alt="google Seo services for south africa">
                         </div>
 
                     </div>
@@ -237,7 +237,7 @@
                 <!-- left image -->
                 <div style="flex:0 0 360px; max-width:360px;">
                     <div class="left-img">
-                        <img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="SEO image">
+                        <img src="https://cybersparkglobal.com/images/slider/Helal%20ahmed%20in%20official%20vibe.webp" alt="helal ahmed official image">
                     </div>
                 </div>
 
@@ -245,8 +245,7 @@
                 <div style="flex:1 1 1px; min-width:260px;">
                     <h2>Search Engine Optimization.</h2>
                     <p class="lead">
-                        Search Engine Optimization is the process of improving your site's visibility in search results —
-                        getting the right visitors who convert. Our technical, on-page and off-page work helps sites rank and drive sales.
+                        Search Engine Optimization is how we boost your visibility across South African search results—ensuring you attract high-quality Mzansi visitors who actually convert. Our local technical, on-page, and off-page expertise drives higher rankings and sales.
                     </p>
 
                     <!-- search pill -->
@@ -262,13 +261,13 @@
                         <div class="result-card">
                             <h3>Analyze a web site</h3>
                             <span class="url">cybersparkglobal.com/seo/analyze-a-web-site</span>
-                            <p>We first analyze a web site, followed by a step-by-step plan to help the website communicate keywords more effectively to search engines.</p>
+                            <p>Our process starts with a deep dive analysis of your website, followed by a customised step-by-step plan. This strategy ensures your site effectively communicates its value and target keywords to search engines.</p>
                         </div>
 
                         <div class="result-card">
                             <h3>On-Page & Off-Page Optimization</h3>
                             <span class="url">cybersparkglobal.com/seo/on-page-off-page</span>
-                            <p>The goal of on-page and off-page optimisation is to make your site and its signals consistent with your target keywords so it ranks when customers search.</p>
+                            <p>The primary goal of our on-page and off-page optimisation is to make your website and its signals perfectly align with what your target audience is searching for. We ensure you rank high when customers look for your services.</p>
                         </div>
                     </div>
 
@@ -365,30 +364,30 @@
 
             <!-- card 1 -->
             <div class="how-card">
-                <div class="icon">🔍</div>
-                <h3>KEYWORD RESEARCH</h3>
-                <p>Keyword density tells you how often a search term appears in a text in relation to the total number of words it contains.</p>
+                <div class="icon">📍</div>
+                <h3>Local Entity SEO</h3>
+                <p>We ensure Google accurately maps your business as a trusted, official entity within its Knowledge Graph. This confirms local authority and boosts visibility for all your South African locations (Mzansi).</p>
             </div>
 
             <!-- card 2 -->
             <div class="how-card">
-                <div class="icon">🌐</div>
-                <h3>ONSITE OPTIMIZATION</h3>
-                <p>On-page optimization includes all measures taken directly within the website to improve its search engine ranking.</p>
+                <div class="icon">💡</div>
+                <h3>Information Gain Optimisation</h3>
+                <p>We upgrade your content to provide unique, meaningful value that goes beyond what competitors offer. This strategy helps your pages rank higher by demonstrating superior, in-depth knowledge.</p>
             </div>
 
             <!-- card 3 -->
             <div class="how-card">
-                <div class="icon">🔗</div>
-                <h3>LINK BUILDING</h3>
-                <p>Link building increases the number and quality of inbound links to improve website authority and rankings.</p>
+                <div class="icon">⚡</div>
+                <h3>Page Experience (Core Web Vitals)</h3>
+                <p>We optimize the technical performance of your site, guaranteeing rapid loading times, flawless mobile responsiveness, and stability. A superior user experience is non-negotiable for modern ranking success.</p>
             </div>
 
             <!-- card 4 -->
             <div class="how-card">
-                <div class="icon">💻</div>
-                <h3>REPORTING AND ANALYSIS</h3>
-                <p>We review your content, linking structure, social signals, and overall SEO health to guide improvements.</p>
+                <div class="icon">🌳</div>
+                <h3>Topical Authority & Clustering</h3>
+                <p>We build interconnected content clusters around your core services, establishing your website as the definitive expert (authority) in your industry for the South African market.</p>
             </div>
 
         </div>
@@ -396,282 +395,367 @@
     <!-- END: HOW WE DO SECTION -->
 
 
+    <!-- Start Section of team members -->
 
+    <style>
+        /* --- Team Section Base Styles --- */
+        .team-section {
+            padding: 60px 0;
+            background-color: #f5f7f8; /* Light background for contrast */
+            font-family: "Plus Jakarta Sans", sans-serif; /* Applied new font */
+        }
 
-    <!-- START: Alternating Timeline Section -->
-    <section class="seo-timeline" aria-label="SEO Services Timeline">
-        <style>
+        .container {
+            max-width: 1200px; /* Max width for central alignment */
+            margin: 0 auto;
+            padding: 0 15px;
+        }
 
-            /* -------------------------------
-               BASE LAYOUT (DESKTOP)
-            --------------------------------*/
-            .seo-timeline {
-                padding:70px 20px;
-                --accent:#07b6d5;
-                --title:#0f2435;
-                max-width:1200px;
-                margin:0 auto;
-                font-family:Arial, Helvetica, sans-serif;
+        .section-title {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2em;
+            color: #000000; /* Darker title color */
+        }
+
+        /* --- The Core Responsive Grid (Flexbox) --- */
+        .team-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: center;
+        }
+
+        /* --- Team Member Card Styling --- */
+        .team-member-card {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.3s ease;
+            flex: 1 1 calc(33.333% - 20px);
+            max-width: 350px;
+            position: relative; /* Needed for absolute positioning of the icon */
+        }
+
+        .team-member-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .member-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 15px;
+            border: 2px solid #0b2530; /* Changed border color to deep dark */
+        }
+
+        .member-name {
+            font-size: 1.5em;
+            color: #0b2530; /* Changed name color to deep dark */
+            margin-bottom: 5px;
+        }
+
+        .member-title {
+            font-size: 1em;
+            color: #0b1236;
+            margin-bottom: 15px;
+            font-style: italic;
+        }
+
+        .member-bio {
+            font-size: 0.7em;
+            color: #0E2231;
+            line-height: 1.5;
+            margin-bottom: 30px; /* Added space for the social icon */
+        }
+
+        /* --- Facebook Icon Styling --- */
+        .facebook-link {
+            display: block;
+            position: absolute;
+            bottom: 10px; /* Positioned near the bottom center */
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 24px;
+            color: #0b2530; /* Icon color (deep dark) */
+            transition: color 0.2s ease;
+        }
+
+        .facebook-link:hover {
+            color: #1877f2; /* Standard Facebook blue on hover */
+        }
+
+        /* --- Mobile Responsiveness (Media Query) --- */
+        @media (max-width: 768px) {
+            .team-member-card {
+                flex: 1 1 90%;
+                max-width: 90%;
             }
+        }
+    </style>
 
-            .seo-timeline .timeline-title {
-                text-align:center;
-                margin-bottom:40px;
-                color:var(--title);
-            }
-            .seo-timeline .timeline-title h2 {
-                margin:0;
-                font-size:30px;
-                font-weight:700;
-            }
+    <section class="team-section">
+        <div class="container">
+            <h2 class="section-title"><b>Meet Your Dedicated SEO Experts Team for South Africa</b></h2>
 
+            <div class="team-grid">
+
+                <div class="team-member-card">
+                    <img src="{{ asset('images/slider/Jubair Khan Ariyan@web developer and SEO Expert .jpg') }}" alt="Web developer and seo specialist" class="member-image">
+                    <h3 class="member-name">Ar jubair Khan</h3>
+                    <p class="member-title">SEO Specialist & Web Developer</p>
+                    <p class="member-bio">Web Developer and SEO Specialist, always dedicated and available to provide immediate support. He specializes in web development, Technical SEO, and expert SEO analysis, specifically examining competitor performance and customer behavior for the South African market.</p>
+                    <a href="https://www.facebook.com/jubair.khan.ariyan/" target="_blank" class="facebook-link" aria-label="Ar jubair Khan on Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                </div>
+
+                <div class="team-member-card">
+                    <img src="{{ asset('images/slider/Fahim islam.JPG') }}" alt="Fahim islam" class="member-image">
+                    <h3 class="member-name">Fahim Islam</h3>
+                    <p class="member-title">SEO Expert & Content Writer</p>
+                    <p class="member-bio">Dedicated SEO Expert and high-quality Content Writer, always available to provide prompt support. He specializes in content analysis, expertly examining competitor strategies and customer needs specifically for the South African market.</p>
+                    <a href="https://www.facebook.com/fahimislam.nipun" target="_blank" class="facebook-link" aria-label="Fahim Islam on Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                </div>
+
+                <div class="team-member-card">
+                    <img src="{{ asset('images/slider/Aktarozzaman Shohag.jpg') }}" alt="Aktarozzaman Shohag" class="member-image">
+                    <h3 class="member-name">Md Aktarozzaman</h3>
+                    <p class="member-title">Senior Web and Software Developer</p>
+                    <p class="member-bio">Senior Web and Software Developer who is always dedicated and available for prompt support. He specializes in web development, bug fixing, and building high-speed, healthy websites, alongside creating specialized support software for clients in South Africa.</p>
+                    <a href="https://www.facebook.com/ar.aktr" target="_blank" class="facebook-link" aria-label="Md Aktarozzaman on Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- End Section of team members -->
+
+
+
+<!-- start of 6 line content-->
+    <style>
+        /* -------------------------------
+           BASE LAYOUT (DESKTOP)
+        --------------------------------*/
+        .seo-timeline {
+            padding: 70px 20px;
+            --accent: #07b6d5;
+            --title: #0f2435;
+            max-width: 1000px; /* Reduced max-width for better text flow */
+            margin: 0 auto;
+            font-family: "Plus Jakarta Sans", sans-serif; /* Using the preferred font */
+        }
+
+        .seo-timeline .timeline-title {
+            text-align: center;
+            margin-bottom: 40px;
+            color: var(--title);
+        }
+        .seo-timeline .timeline-title h2 {
+            margin: 0;
+            font-size: 30px;
+            font-weight: 700;
+        }
+
+        .seo-timeline .timeline-grid {
+            position: relative;
+            display: grid;
+            /* Two columns for text content, removing the center column */
+            grid-template-columns: 1fr 1fr;
+            gap: 50px; /* Gap between the left and right columns */
+            align-items: start;
+        }
+
+        /* -- Vertical dashed line (desktop) -- */
+        .seo-timeline .timeline-grid::before {
+            content: "";
+            position: absolute;
+            left: 50%;
+            top: 0;
+            transform: translateX(-50%);
+            width: 4px;
+            height: 100%;
+            background-image: linear-gradient(
+                to bottom,
+                var(--accent) 0,
+                var(--accent) 8px,
+                transparent 8px,
+                transparent 16px
+            );
+            background-size: 100% 24px;
+            background-repeat: repeat-y;
+            z-index: 2;
+        }
+
+        /* -- Timeline Items Container -- */
+        .timeline-item-container {
+            padding: 20px 0; /* Vertical spacing between items in the column */
+        }
+        .timeline-item-container:not(:last-child) {
+            margin-bottom: 20px;
+        }
+
+        /* -- Content Box Styling -- */
+        .timeline-item .content-box {
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            border-left: 5px solid var(--accent); /* Accent border for emphasis */
+        }
+
+        .timeline-item h3 {
+            font-size: 20px;
+            margin: 0 0 8px;
+            color: var(--title);
+        }
+        .timeline-item p {
+            font-size: 15px;
+            line-height: 1.5;
+            margin: 0;
+            color: #555;
+        }
+
+        /* Desktop positioning */
+        .left-col { text-align: right; }
+        .left-col .timeline-item .content-box {
+            border-left: none;
+            border-right: 5px solid var(--accent);
+        }
+
+        /* -------------------------------------
+            MOBILE LAYOUT (STACKED FULL WIDTH)
+        --------------------------------------*/
+        @media(max-width: 768px){
+
+            /* Collapse to 1 column */
             .seo-timeline .timeline-grid {
-                position:relative;
-                display:grid;
-                grid-template-columns: 1fr 70px 1fr;
-                gap:30px;
-                align-items:start;
+                grid-template-columns: 1fr;
+                gap: 10px; /* Reduced gap for mobile */
             }
 
-            /* -- Vertical dashed line (desktop) -- */
+            /* Move dashed line to far left */
             .seo-timeline .timeline-grid::before {
-                content:"";
-                position:absolute;
-                left:50%;
-                top:0;
-                transform:translateX(-50%);
-                width:4px;
-                height:100%;
-                background-image:linear-gradient(
-                    to bottom,
-                    var(--accent) 0,
-                    var(--accent) 8px,
-                    transparent 8px,
-                    transparent 16px
-                );
-                background-size:100% 24px;
-                background-repeat:repeat-y;
-                z-index:2;
+                left: 20px;
+                transform: none;
             }
 
-            /* -- Dots (desktop only) -- */
-            .seo-timeline .center-col {
-                position:relative;
-                display:flex;
-                flex-direction:column;
-                align-items:center;
-                z-index:3;
-            }
-            .seo-timeline .dot {
-                width:18px;
-                height:18px;
-                border-radius:50%;
-                background:#fff;
-                border:6px solid var(--accent);
-                box-shadow:0 6px 18px rgba(11,24,30,0.1);
-                margin:24px 0;
+            /* Reset all item alignment to left */
+            .left-col,
+            .right-col {
+                text-align: left;
             }
 
-            /* -- Timeline Items -- */
-            .timeline-item {
-                display:flex;
-                gap:22px;
-                padding:18px;
-                align-items:center;
+            /* Re-introduce the dot for each item on mobile */
+            .timeline-item-container {
+                padding-left: 50px; /* Space for the line and dot */
+                position: relative;
             }
 
-            .timeline-item .thumb {
-                width:230px;
-                border-radius:10px;
-                overflow:hidden;
-                box-shadow:0 8px 26px rgba(0,0,0,0.08);
-            }
-            .timeline-item .thumb img {
-                width:100%;
-                height:100%;
-                object-fit:cover;
-            }
-
-            .timeline-item .content {
-                max-width:520px;
-            }
-            .timeline-item h3 {
-                font-size:22px;
-                margin:0 0 10px;
-                color:var(--title);
-            }
-            .timeline-item p {
-                font-size:15px;
-                line-height:1.55;
-                margin-bottom:12px;
-            }
-            .timeline-item .cta {
-                color:var(--accent);
-                font-size:15px;
-                font-weight:700;
-                text-decoration:none;
-                display:inline-flex;
-                gap:8px;
-                align-items:center;
-            }
-            .timeline-item .cta .arrow {
-                width:30px;
-                height:30px;
-                border-radius:50%;
-                background:var(--accent);
-                color:#fff;
-                display:flex;
-                align-items:center;
-                justify-content:center;
+            .timeline-item-container::before {
+                content: "";
+                position: absolute;
+                left: 14px;
+                top: 30px; /* Vertically align the dot */
+                width: 12px;
+                height: 12px;
+                border-radius: 50%;
+                background: var(--accent);
+                border: 4px solid #fff;
+                box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+                z-index: 5;
             }
 
-            /* Desktop positioning */
-            .left-item { justify-content:flex-end; text-align:right; }
-            .left-item .content { text-align:right; }
-            .right-item { justify-content:flex-start; text-align:left; }
-
-            /* -------------------------------------
-                MOBILE LAYOUT (IMAGES FIRST, FULL WIDTH)
-            --------------------------------------*/
-            @media(max-width:900px){
-
-                /* Collapse to 1 column */
-                .seo-timeline .timeline-grid {
-                    grid-template-columns:1fr;
-                }
-
-                /* Move dashed line to far left */
-                .seo-timeline .timeline-grid::before {
-                    left:20px;
-                    transform:none;
-                    height:100%;
-                }
-
-                /* Remove desktop dots column */
-                .seo-timeline .col-center { display:none; }
-
-                .timeline-item {
-                    flex-direction:column;          /* stack image + text */
-                    align-items:flex-start;
-                    padding:20px 0 34px 50px;      /* space for line & dot */
-                    position:relative;
-                }
-
-                /* Dot for each item */
-                .timeline-item::before {
-                    content:"";
-                    position:absolute;
-                    left:14px;
-                    top:22px;
-                    width:12px;
-                    height:12px;
-                    border-radius:50%;
-                    background:var(--accent);
-                    border:4px solid #fff;
-                    box-shadow:0 6px 14px rgba(0,0,0,0.1);
-                    z-index:5;
-                }
-
-                /* Always show image first, then text */
-                .timeline-item .thumb {
-                    order:0;
-                    width:100%;
-                    max-width:260px;
-                    min-width:0;
-                    height:auto;
-                    border-radius:10px;
-                    margin-bottom:12px;
-                }
-                .timeline-item .thumb img {
-                    width:100%;
-                    height:auto;
-                    object-fit:cover;
-                }
-
-                /* Text takes full card width */
-                .timeline-item .content {
-                    order:1;
-                    padding-left:0;
-                    max-width:100%;
-                }
-
-                /* Smaller text for mobile */
-                .timeline-item h3 {
-                    font-size:18px;
-                    margin-bottom:6px;
-                }
-                .timeline-item p {
-                    font-size:14px;
-                    line-height:1.45;
-                    margin-bottom:10px;
-                }
-                .timeline-item .cta {
-                    font-size:14px;
-                }
-
-                /* Reset alignment hints */
-                .left-item,
-                .right-item {
-                    justify-content:flex-start;
-                    text-align:left;
-                }
+            /* Ensure all content boxes are left-aligned and use the left border */
+            .left-col .timeline-item .content-box {
+                border-right: none;
+                border-left: 5px solid var(--accent);
             }
+        }
+    </style>
 
-        </style>
+    <section class="seo-timeline" aria-label="SEO Services Process">
 
-        <!-- TITLE -->
         <div class="timeline-title">
-            <h2>What we do for SEO</h2>
+            <h2>Our 6-Step SEO Domination Process</h2>
             <p style="margin:8px 0 0;color:#5f6e73;font-size:14px;">
-                Complete process — analysis, on-page, off-page and paid growth
+                A complete, transparent process for sustainable growth in South Africa
             </p>
         </div>
 
         <div class="timeline-grid">
 
-            <!-- ITEM 1 -->
-            <div class="col-left">
-                <div class="timeline-item left-item">
-                    <div class="content">
-                        <h3>Analyze a web site</h3>
-                        <p>We first analyze a website, then produce a step-by-step plan so the site communicates keywords more effectively to search engines and human visitors.</p>
-                        <a class="cta" href="#analyze">Read more <span class="arrow">→</span></a>
+            <div class="left-col">
+                <div class="timeline-item-container">
+                    <div class="timeline-item">
+                        <div class="content-box">
+                            <h3>1. In-Depth Website Analysis</h3>
+                            <p>We start with a thorough audit of your current online presence, identifying quick wins and long-term strategies tailored specifically to the South African search landscape.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item-container">
+                    <div class="timeline-item">
+                        <div class="content-box">
+                            <h3>3. Technical SEO & Speed Audit</h3>
+                            <p>Our experts optimize your site's structure and performance. We focus on fixing bugs and improving loading speeds to ensure a flawless experience for every Mzansi visitor.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline-item-container">
+                    <div class="timeline-item">
+                        <div class="content-box">
+                            <h3>5. Performance Reporting & Trust</h3>
+                            <p>Gain complete clarity with our transparent monthly reports. We detail the traffic, rankings, and sales generated, proving the Return on Investment (ROI) of your SEO partnership.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-center center-col"><div class="dot"></div></div>
 
-            <!-- ITEM 2 -->
-            <div class="col-right">
-                <div class="timeline-item right-item">
-                    <div class="thumb"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt=""></div>
+            <div class="right-col">
+                <div class="timeline-item-container">
+                    <div class="timeline-item">
+                        <div class="content-box">
+                            <h3>2. Content Strategy & Topical Authority</h3>
+                            <p>We go beyond keywords, crafting content that answers user intent deeply and uniquely. This establishes your business as the definitive expert (authority) in your specific field.</p>
+                        </div>
+                    </div>
                 </div>
-            </div>
 
-            <!-- ITEM 3 -->
-            <div class="col-left">
-                <div class="timeline-item left-item">
-                    <div class="thumb"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt=""></div>
+                <div class="timeline-item-container">
+                    <div class="timeline-item">
+                        <div class="content-box">
+                            <h3>4. Local & Entity Authority Building</h3>
+                            <p>We secure your presence in local listings and map your business to Google's Knowledge Graph, essential steps for local recognition and driving foot traffic across major SA cities.</p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="col-center center-col"><div class="dot"></div></div>
 
-            <!-- ITEM 4 -->
-            <div class="col-right">
-                <div class="timeline-item right-item">
-                    <div class="content">
-                        <h3>SEO Paid Advertisements</h3>
-                        <p>Paid search and social advertising accelerate visibility. We combine paid ads with organic efforts for maximum ROI and faster results.</p>
-                        <a class="cta" href="#paid">Start paid campaigns <span class="arrow">→</span></a>
+                <div class="timeline-item-container">
+                    <div class="timeline-item">
+                        <div class="content-box">
+                            <h3>6. Accelerated Paid Growth (Optional)</h3>
+                            <p>For immediate visibility, we combine organic SEO efforts with powerful paid campaigns (PPC). This approach accelerates traffic and ensures you capture leads while rankings mature.</p>
+                        </div>
                     </div>
                 </div>
             </div>
 
         </div>
     </section>
-    <!-- END -->
 
-
+    <!-- end of 6 line content-->
 
 
 
@@ -915,156 +999,74 @@
     <!-- END: Scoped section -->
 
 
-    <!-- START: Full-Width Infinite Logo Carousel (Right → Left, Full-bleed) -->
-    <section class="inf-carousel-fullwidth" aria-label="Full width partners carousel">
-        <style>
-            /* Scoped styles */
-            .inf-carousel-fullwidth { padding:18px 0; } /* vertical spacing only */
-            /* make section full-bleed regardless of parent */
-            .inf-carousel-fullwidth .inf-viewport {
-                width:100vw;
-                margin-left: calc(50% - 50vw);
-                overflow:hidden;
-                position:relative;
-                box-sizing:border-box;
-                background: transparent;
-                padding: 12px 0;
-            }
-
-            .inf-carousel-fullwidth .inf-track {
-                display:flex;
-                align-items:center;
-                gap:28px;
-                will-change:transform;
-                transform:translateX(0);
-                /* ensure track height doesn't collapse */
-                padding: 6px 16px;
-            }
-
-            .inf-carousel-fullwidth .inf-slide {
-                flex:0 0 auto;
-                width:140px;
-                height:48px;
-                display:flex;
-                align-items:center;
-                justify-content:center;
-                box-sizing:border-box;
-            }
-
-            .inf-carousel-fullwidth .inf-slide img {
-                max-width:100%;
-                max-height:100%;
-                object-fit:contain;
-                filter:grayscale(1) opacity(.85);
-                display:block;
-            }
-
-            /* responsive */
-            @media (max-width:900px){
-                .inf-carousel-fullwidth .inf-slide { width:120px; height:44px; }
-                .inf-carousel-fullwidth .inf-track { gap:20px; }
-            }
-            @media (max-width:640px){
-                .inf-carousel-fullwidth .inf-slide { width:96px; height:40px; }
-                .inf-carousel-fullwidth .inf-track { gap:16px; padding:6px 10px; }
-            }
-        </style>
-
-        <div class="inf-viewport" id="infViewportFW" role="region" aria-roledescription="carousel" aria-label="Partner logos">
-            <div class="inf-track" id="infTrackFW" role="list">
-                <!-- Add as many slides as you like -->
-                <div class="inf-slide" role="listitem"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="logo 1"></div>
-                <div class="inf-slide" role="listitem"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="logo 2"></div>
-                <div class="inf-slide" role="listitem"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="logo 3"></div>
-                <div class="inf-slide" role="listitem"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="logo 4"></div>
-                <div class="inf-slide" role="listitem"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="logo 5"></div>
-                <div class="inf-slide" role="listitem"><img src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="logo 6"></div>
-                <!-- end original set -->
+    <!-- start carousel section -->
+    <section class="pt-0">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-5 col-lg-6 text-center mb-1" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                    <span class="text-dark-gray fw-700 fs-15 text-uppercase border-1 pb-5px border-bottom border-color-extra-medium-gray text-dark-gray">Join 170+ users gain benefit from Semantic SEO</span>
+                </div>
+            </div>
+            <div class="row position-relative clients-style-08 mt-25px" data-anime='{ "translateX": [0, 0], "opacity": [0,1], "duration": 800, "delay":100, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                <div class="col swiper text-center feather-shadow" data-slider-options='{ "slidesPerView": 2, "spaceBetween":0, "speed": 3000, "loop": true, "pagination": { "el": ".slider-four-slide-pagination-2", "clickable": false }, "allowTouchMove": false, "autoplay": { "delay":0, "disableOnInteraction": false, "pauseOnMouseEnter": false}, "navigation": { "nextEl": ".slider-four-slide-next-2", "prevEl": ".slider-four-slide-prev-2" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 5 }, "768": { "slidesPerView": 3 }, "576": { "slidesPerView": 2 } }, "effect": "slide" }'>
+                    <div class="swiper-wrapper marquee-slide">
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-walmart-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-netflix-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-invision-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-yahoo-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-amazon-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-walmart-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-netflix-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-invision-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-yahoo-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                        <!-- start client item -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="images/logo-invision-dark-blue.svg" alt="" /></a>
+                        </div>
+                        <!-- end client item -->
+                    </div>
+                </div>
             </div>
         </div>
-
-        <script>
-            (function(){
-                const viewport = document.getElementById('infViewportFW');
-                const track = document.getElementById('infTrackFW');
-                if(!track) return;
-
-                const slides = Array.from(track.children);
-                if(slides.length === 0) return;
-
-                // duplicate the slide set to create a seamless loop
-                slides.forEach(s => track.appendChild(s.cloneNode(true)));
-
-                // compute original set width (including gap)
-                function computeOriginalWidth(){
-                    let w = 0;
-                    const gap = parseFloat(getComputedStyle(track).gap || 0) || 0;
-                    for(let i=0;i<slides.length;i++){
-                        const r = slides[i].getBoundingClientRect();
-                        w += Math.ceil(r.width) + gap;
-                    }
-                    return w;
-                }
-
-                let originalWidth = computeOriginalWidth();
-
-                // recalc on resize (debounced)
-                let resizeTimer;
-                window.addEventListener('resize', ()=>{
-                    clearTimeout(resizeTimer);
-                    resizeTimer = setTimeout(()=>{
-                        originalWidth = computeOriginalWidth();
-                    },120);
-                });
-
-                // animation state
-                let offset = 0;             // current translateX offset (px)
-                const pxPerSecond = 90;     // speed: pixels per second (increase to go faster)
-                let lastTimestamp = null;
-                let isPaused = false;
-
-                // Start with offset = 0 and scroll leftwards (logos move from right to left).
-                // If you want initial content to appear fully from the right edge, we could set offset = 0,
-                // and because track overflows viewport, it will appear filling the viewport with content from left->right order.
-                // The continuous scroll effect (leftwards) is achieved below.
-
-                function step(ts){
-                    if(!lastTimestamp) lastTimestamp = ts;
-                    const dt = (ts - lastTimestamp) / 2300;
-                    lastTimestamp = ts;
-
-                    if(!isPaused){
-                        // move leftwards (negative)
-                        offset -= pxPerSecond * dt;
-
-                        // reset offset to keep it within one originalWidth for seamless loop
-                        if(Math.abs(offset) >= originalWidth){
-                            offset += originalWidth;
-                        }
-
-                        track.style.transform = `translateX(${offset}px)`;
-                    }
-
-                    requestAnimationFrame(step);
-                }
-
-                // pause on hover/focus
-                viewport.addEventListener('mouseenter', ()=> isPaused = true);
-                viewport.addEventListener('mouseleave', ()=> isPaused = false);
-                viewport.addEventListener('focusin', ()=> isPaused = true);
-                viewport.addEventListener('focusout', ()=> isPaused = false);
-
-                // kick off
-                requestAnimationFrame(step);
-
-                // optional: ensure the track starts visually centered across the viewport width by adjusting
-                // the initial offset slightly if desired. Commented out by default.
-                // offset = 0; track.style.transform = `translateX(${offset}px)`;
-
-            })();
-        </script>
     </section>
-    <!-- END: Full-Width Infinite Logo Carousel -->
+    <!-- end carousel section -->
+
 
 
     <!-- START: Last section -->

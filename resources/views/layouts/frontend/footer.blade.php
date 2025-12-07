@@ -98,9 +98,9 @@
             <!-- start footer menu -->
             <div class="col-lg-7 pt-35px pb-35px md-pt-25px md-pb-5px order-1 order-lg-2 text-center text-lg-end">
                 <ul class="footer-navbar sm-lh-normal">
-                    <li><a href="#" class="nav-link">Privacy policy</a></li>
-                    <li><a href="#" class="nav-link">Terms and conditions</a></li>
-                    <li><a href="#" class="nav-link">Copyright</a></li>
+                    <li><a href="https://cybersparkglobal.com/" class="nav-link">Privacy policy</a></li>
+                    <li><a href="https://cybersparkglobal.com/" class="nav-link">Terms and conditions</a></li>
+                    <li><a href="https://cybersparkglobal.com/" class="nav-link">Copyright</a></li>
                 </ul>
             </div>
             <!-- end footer menu -->
