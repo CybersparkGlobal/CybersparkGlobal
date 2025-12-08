@@ -1,5 +1,20 @@
 @extends('layouts.frontend.app')
+
+    <title>The Best SEO & Web Design Services in South Africa</title>
+    <meta name="description" content="As the best SEO & Web Design company for South Africa, we deliver the top SEO services you need to bring targeted traffic that converts across Mzansi.">
+    <link rel="canonical" href="https://cybersparkglobal.com/seo">
+    <meta name="robots" content="index, follow">
 @section('content')
+
+
+
+
+    <!--jkk-->
+
+
+
+
+
 
     <section class="seo-hero" style="padding:80px 0; background:#0b2530;">
 
