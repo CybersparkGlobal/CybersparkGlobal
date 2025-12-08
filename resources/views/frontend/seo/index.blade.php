@@ -541,6 +541,7 @@
 
 
 
+
 <!-- start of 6 line content-->
     <style>
         /* -------------------------------
@@ -759,244 +760,357 @@
 
 
 
+    <!-- start of packages content-->
+
+    <style>
+        .seo-benefits-section {
+            --accent: #17c0d6;
+            --dark-bg: #0f2435;
+            --panel:#39464e;
+            --card:#ffffff;
+            --muted:#9aa7ad;
+            max-width:1300px;
+            margin:0 auto;
+            padding:60px 20px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+        }
+
+        .seo-benefits-section .row {
+            display:grid;
+            grid-template-columns: 1fr 480px;
+            gap:40px;
+            align-items:stretch;
+        }
+
+        /* LEFT BOX WITH DARK BACKGROUND */
+        .seo-benefits-section .left {
+            background:var(--dark-bg);
+            padding:50px 40px;
+            border-radius:6px;
+            display:flex;
+            align-items:center;
+            justify-content:flex-start;
+        }
+
+        .seo-benefits-section .left .inner {
+            max-width:100%;
+            width: 100%;
+            color:#ffffff;
+        }
+
+        .seo-benefits-section .eyebrow {
+            font-size:13px;
+            color:#a7b6c5;
+            margin-bottom:12px;
+            letter-spacing:1px;
+            text-transform:uppercase;
+        }
+
+        .seo-benefits-section .headline {
+            font-size:42px;
+            font-weight:800;
+            line-height:1.1;
+            margin-bottom:18px;
+            color:#ffffff;
+        }
+        .seo-benefits-section .headline .accent {
+            color:var(--accent);
+        }
+
+        .seo-benefits-section .cta {
+            display:inline-flex;
+            align-items:center;
+            gap:12px;
+            padding:12px 18px;
+            border-radius:50px;
+            text-decoration:none;
+            color:var(--accent);
+            border:2px solid rgba(23,192,214,0.3);
+            font-weight:700;
+            background:transparent;
+            margin-top:20px;
+        }
+
+        .seo-benefits-section .cta .dot {
+            width:34px;
+            height:34px;
+            background:var(--accent);
+            border-radius:50%;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            color:#fff;
+            font-weight:800;
+        }
+
+        /* RIGHT PANEL (UNCHANGED) */
+        .seo-benefits-section .right-panel {
+            background:var(--panel);
+            padding:36px;
+            border-radius:6px;
+            box-shadow:0 12px 40px rgba(0,0,0,0.28);
+        }
+
+        .seo-benefits-section .cards {
+            width:420px;
+            margin:0 auto;
+            display:flex;
+            flex-direction:column;
+            gap:18px;
+        }
+
+        .seo-benefits-section .card {
+            background:var(--card);
+            padding:14px 16px;
+            border-radius:6px;
+            display:grid;
+            grid-template-columns:56px 1fr;
+            gap:14px;
+            align-items:center;
+            box-shadow:0 6px 18px rgba(3,18,22,0.12);
+        }
+
+        .seo-benefits-section .card .icon {
+            width:56px;
+            height:56px;
+            border-radius:50%;
+            background:#eef7fb;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            font-size:20px;
+        }
+
+        .seo-benefits-section .card h4 {
+            font-size:14px;
+            margin-bottom:6px;
+            color:#0f2b33;
+            font-weight:700;
+        }
+
+        .seo-benefits-section .card p {
+            margin:0;
+            font-size:13px;
+            color:#566a75;
+            line-height:1.45;
+        }
 
 
+        /* ------------------------------------------------
+           NEW STYLES FOR RESPONSIVE PACKAGES TABLE
+        ------------------------------------------------ */
+        .packages-table-container {
+            width:100%;
+            margin-bottom:15px;
+        }
+        .packages-table {
+            width:100%;
+            border-collapse:collapse;
+            font-size:14px;
+            color:#fff;
+        }
+        .packages-table th,
+        .packages-table td {
+            padding:10px 12px;
+            text-align:left;
+            border-bottom:1px solid rgba(255,255,255,0.1);
+            vertical-align:top;
+        }
+        .packages-table th {
+            background:rgba(0,0,0,0.2);
+            font-weight:700;
+            color:var(--accent);
+        }
+        .packages-table td {
+            background:rgba(0,0,0,0.1);
+        }
+        .packages-table .package-name {
+            font-weight:700;
+            color:var(--accent);
+        }
 
+        .price-note {
+            font-size:15px;
+            color:#a7b6c5;
+            margin-top:10px;
+            display:block;
+        }
 
-
-    <!-- START: Scoped "Why SEO is Beneficial" Section -->
-    <section class="seo-benefits-section">
-        <style>
-            .seo-benefits-section {
-                --accent: #17c0d6;
-                --dark-bg: #0f2435;       /* deep background for LEFT BOX */
-                --panel:#39464e;
-                --card:#ffffff;
-                --muted:#9aa7ad;
-                max-width:1300px;
-                margin:0 auto;
-                padding:60px 20px;
-            }
-
+        /* RESPONSIVE */
+        @media(max-width:900px){
             .seo-benefits-section .row {
-                display:grid;
-                grid-template-columns: 1fr 540px;
-                gap:40px;
-                align-items:stretch;
+                grid-template-columns:1fr;
             }
-
-            /* LEFT BOX WITH DARK BACKGROUND */
-            .seo-benefits-section .left {
-                background:var(--dark-bg);
-                padding:50px 40px;
-                border-radius:6px;
-                display:flex;
-                align-items:center;         /* vertical centering */
-                justify-content:flex-start;
-            }
-
-            .seo-benefits-section .left .inner {
-                max-width:420px;
-                color:#ffffff;
-            }
-
-            .seo-benefits-section .eyebrow {
-                font-size:13px;
-                color:#a7b6c5;
-                margin-bottom:12px;
-                letter-spacing:1px;
-                text-transform:uppercase;
-            }
-
-            .seo-benefits-section .headline {
-                font-size:42px;
-                font-weight:800;
-                line-height:1.1;
-                margin-bottom:18px;
-                color:#ffffff;
-            }
-            .seo-benefits-section .headline .accent {
-                color:var(--accent);
-            }
-
-            .seo-benefits-section .lead {
-                color:#c9d5dc;
-                line-height:1.6;
-                margin-bottom:22px;
-            }
-
-            .seo-benefits-section .cta {
-                display:inline-flex;
-                align-items:center;
-                gap:12px;
-                padding:12px 18px;
-                border-radius:50px;
-                text-decoration:none;
-                color:var(--accent);
-                border:2px solid rgba(23,192,214,0.3);
-                font-weight:700;
-                background:transparent;
-            }
-
-            .seo-benefits-section .cta .dot {
-                width:34px;
-                height:34px;
-                background:var(--accent);
-                border-radius:50%;
-                display:flex;
-                align-items:center;
-                justify-content:center;
-                color:#fff;
-                font-weight:800;
-            }
-
-            /* RIGHT PANEL */
-            .seo-benefits-section .right-panel {
-                background:var(--panel);
-                padding:36px;
-                border-radius:6px;
-                box-shadow:0 12px 40px rgba(0,0,0,0.28);
-            }
-
             .seo-benefits-section .cards {
-                width:420px;
-                margin:0 auto;
-                display:flex;
-                flex-direction:column;
-                gap:18px;
+                width:100%;
+            }
+        }
+
+        /* STACKED TABLE STYLES FOR MOBILE/TABLET */
+        @media (max-width: 650px) {
+            /* CTA Button Optimization */
+            .seo-benefits-section .cta {
+                font-size: 14px; /* Slightly smaller text */
+                padding: 10px 15px; /* Smaller padding */
+                display: block; /* Make button full width on small screen */
+                text-align: center;
+            }
+            .seo-benefits-section .cta .dot {
+                width: 28px;
+                height: 28px;
+                font-size: 18px;
+                display: none; /* Hide arrow on mobile for cleaner look */
             }
 
-            .seo-benefits-section .card {
-                background:var(--card);
-                padding:14px 16px;
-                border-radius:6px;
-                display:grid;
-                grid-template-columns:56px 1fr;
-                gap:14px;
-                align-items:center;
-                box-shadow:0 6px 18px rgba(3,18,22,0.12);
+            /* Table Stacking Logic */
+            .packages-table thead {
+                display: none;
             }
-
-            .seo-benefits-section .card .icon {
-                width:56px;
-                height:56px;
-                border-radius:50%;
-                background:#eef7fb;
-                display:flex;
-                align-items:center;
-                justify-content:center;
-                font-size:20px;
+            .packages-table, .packages-table tbody, .packages-table tr, .packages-table td {
+                display: block;
+                width: 100%;
             }
-
-            .seo-benefits-section .card h4 {
-                font-size:14px;
-                margin-bottom:6px;
-                color:#0f2b33;
-                font-weight:700;
+            .packages-table tr {
+                margin-bottom: 10px;
+                border: 1px solid rgba(255,255,255,0.2);
+                border-radius: 4px;
+                padding-bottom: 5px;
             }
-
-            .seo-benefits-section .card p {
-                margin:0;
-                font-size:13px;
-                color:#566a75;
-                line-height:1.45;
+            .packages-table td {
+                text-align: right;
+                padding-left: 50%;
+                position: relative;
+                border-bottom: 1px solid rgba(255,255,255,0.1);
             }
-
-            /* RESPONSIVE */
-            @media(max-width:900px){
-                .seo-benefits-section .row {
-                    grid-template-columns:1fr;
-                }
-                .seo-benefits-section .cards {
-                    width:100%;
-                }
+            .packages-table td:last-child {
+                border-bottom: 0;
             }
-        </style>
+            .packages-table td:before {
+                content: attr(data-label);
+                position: absolute;
+                left: 10px;
+                width: 45%;
+                padding-right: 10px;
+                white-space: nowrap;
+                text-align: left;
+                font-weight: 700;
+                color: var(--accent);
+            }
+        }
+    </style>
 
+    <section class="seo-benefits-section">
         <div class="row">
-            <!-- LEFT BOX -->
             <div class="left">
                 <div class="inner">
-                    <div class="eyebrow">WHY SEO IS</div>
+                    <div class="eyebrow">PACKAGES FOR SOUTH AFRICA</div>
 
                     <h2 class="headline">
-                        Why SEO is<br>
-                        Beneficial For<br>
-                        Your Business<span class="accent">?</span>
+                        Our Flexible<br> Website Design<br> and SEO Packages
+                        <span class="accent">.</span>
                     </h2>
 
-                    <p class="lead">
-                        As experts in the search engine optimization and marketing industries,
-                        the management and employees have a proven track record for crafting
-                        effective internet marketing strategies with measurable, long-term results.
-                    </p>
-
-                    <a class="cta" href="#">
+                    <div class="packages-table-container">
+                        <table class="packages-table">
+                            <thead>
+                            <tr>
+                                <th>Business Size</th>
+                                <th>Website & <br> SEO Scope</th>
+                                <th>Dev Cost (One-Time)</th>
+                                <th>Monthly SEO Cost</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td class="package-name" data-label="Business Size">Small Businesses</td>
+                                <td data-label="Website & SEO Scope">5 Page <br>WordPress Website + 3 Months SEO</td>
+                                <td data-label="Dev Cost (One-Time)">$100</td>
+                                <td data-label="Monthly SEO Cost">$100</td>
+                            </tr>
+                            <tr>
+                                <td class="package-name" data-label="Business Size">Medium Businesses</td>
+                                <td data-label="Website & SEO Scope">Full <br>WordPress Website (Required Pages) + 6 Months SEO</td>
+                                <td data-label="Dev Cost (One-Time)">$250</td>
+                                <td data-label="Monthly SEO Cost">$150</td>
+                            </tr>
+                            <tr>
+                                <td class="package-name" data-label="Business Size">E-commerce Startup</td>
+                                <td data-label="Website & SEO Scope">Standard WordPress E-commerce + 6 Months SEO</td>
+                                <td data-label="Dev Cost (One-Time)">$300</td>
+                                <td data-label="Monthly SEO Cost">$200</td>
+                            </tr>
+                            <tr>
+                                <td class="package-name" data-label="Business Size">Medium E-commerce</td>
+                                <td data-label="Website & SEO Scope">Laravel E-commerce Development + 6 Months SEO</td>
+                                <td data-label="Dev Cost (One-Time)">$500</td>
+                                <td data-label="Monthly SEO Cost">$300</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <span class="price-note">
+                Note: The actual price cost is dependent on your exact requirements and the final scope of work.
+            </span>
+                    <a class="cta" href="https://www.facebook.com/jubair.khan.ariyan/">
                         GET A WEB DESIGN QUOTE TODAY
                         <span class="dot">→</span>
                     </a>
                 </div>
             </div>
 
-            <!-- RIGHT CARDS -->
             <div class="right-panel">
+                <h3 class="headline headline-small"> Key SEO Benefits </h3>
                 <div class="cards">
-
                     <div class="card">
                         <div class="icon">🌐</div>
                         <div>
                             <h4>Ranking Importance</h4>
-                            <p>This year research shows that approximately 85% of all websites are found via search engines.</p>
+                            <p>Research confirms that over 85% of all website traffic originates from search engines. Ranking higher is the single biggest factor in being found online.</p>
                         </div>
                     </div>
-
                     <div class="card">
                         <div class="icon">🔍</div>
                         <div>
                             <h4>Effective strategy</h4>
-                            <p>SEO allows you the ability to choose keyword phrases for searches performed by potential customers.</p>
+                            <p>SEO is a strategic tool that allows you to directly target the exact keywords and phrases your potential customers use when searching for your products or services.</p>
                         </div>
                     </div>
-
                     <div class="card">
                         <div class="icon">👥</div>
                         <div>
                             <h4>Bring Visitors</h4>
-                            <p>Solid SEO and search-friendly web design will help bring visitors to your website.</p>
+                            <p>Implementing solid SEO practices alongside smart, search-friendly web design ensures you attract a steady stream of qualified visitors who are actively looking to buy or engage.</p>
                         </div>
                     </div>
-
                     <div class="card">
                         <div class="icon">G</div>
                         <div>
                             <h4>Major Search Engines</h4>
-                            <p>Most users begin their web search through a major search engine (Google, Bing, Yahoo, AOL).</p>
+                            <p>Almost all user journeys on the internet begin with major search engines like Google. Being visible here is mandatory for consistent growth.</p>
                         </div>
                     </div>
-
                     <div class="card">
                         <div class="icon">📈</div>
                         <div>
-                            <h4>342 billion Search Results</h4>
-                            <p>More than 17.5 billion searches were performed with 342 billion search results.</p>
+                            <h4>Massive Search Results</h4>
+                            <p>More than 8.5 billion searches are performed on Google every single day. This immense daily query volume ensures that every small ranking improvement offers a huge, continuous opportunity to capture new customers.</p>
                         </div>
                     </div>
-
                     <div class="card">
                         <div class="icon">🏆</div>
                         <div>
-                            <h4>Consumer Perception</h4>
-                            <p>The higher a site ranks, the more trustworthy it appears to users.</p>
+                            <h4 >Consumer Perception</h4>
+                            <p>The higher your website ranks organically, the more authoritative and trustworthy your brand appears to potential consumers. High rankings build consumer confidence.</p>
                         </div>
                     </div>
-
                 </div>
             </div>
 
         </div>
     </section>
+    <!-- end of packages content-->
 
-    <!-- END: Scoped section -->
+
 
 
     <!-- start carousel section -->
@@ -1178,24 +1292,73 @@
                 </h2>
 
                 <p class="desc">
-                    Our team of digital and business experts will guide you to the right direction.
+                    Our digital and business specialists are here to guide you. We'll help you find the right direction and get things sorted.
                 </p>
 
-                <a href="#" class="btn">
+                <a href="https://www.facebook.com/jubair.khan.ariyan/" class="btn">
                     LET’S HAVE A TALK ABOUT YOUR PROJECT
                     <span class="arrow">→</span>
                 </a>
             </div>
 
-            <!-- RIGHT IMAGE -->
+            <!-- RIGHT  IMAGE -->
             <div>
-                <img class="help-img" src="https://cybersparkglobal.com/images/slider/about%20us%20page%20%20set1.jpg" alt="Devices mockup">
+                <img class="help-img" src="https://cybersparkglobal.com/images/slider/south%20africa%203d%20seo%20map.webp" alt="Devices mockup">
             </div>
 
         </div>
     </section>
 
     <!-- END: Last section -->
+
+
+    <!-- start WhatsApp Button section -->
+
+    <style>
+        .whatsapp-float {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            background-color: #25d366; /* Standard WhatsApp Green */
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 30px;
+            box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            text-decoration: none;
+        }
+
+        .whatsapp-float:hover {
+            background-color: #25d366;
+            transform: scale(1.08);
+        }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 600px) {
+            .whatsapp-float {
+                width: 50px;
+                height: 50px;
+                bottom: 20px;
+                right: 20px;
+                font-size: 24px; /* Smaller icon size for mobile */
+            }
+        }
+    </style>
+
+    <a href="https://wa.me/8801332675586" target="_blank" class="whatsapp-float" aria-label="Chat with us on WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+    <!-- end WhatsApp Button section -->
+
+
+
 
 
 @endsection
