@@ -1318,7 +1318,7 @@
 
             <!-- RIGHT  IMAGE -->
             <div>
-                <img class="help-img" src="https://cybersparkglobal.com/images/slider/south%20africa%203d%20seo%20map.webp" alt="Devices mockup">
+                <img class="help-img" src="https://cybersparkglobal.com/images/slider/south%20africa%203d%20seo%20map.webp" alt="Best South African SEO map and Service areas">
             </div>
 
         </div>
