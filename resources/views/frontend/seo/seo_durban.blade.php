@@ -701,9 +701,9 @@
     <section class="seo-timeline" aria-label="SEO Services Process">
 
         <div class="timeline-title">
-            <h2>Our 6-Step SEO Domination Process</h2>
+            <h2>Our 6-Step Local SEO Services for Durban</h2>
             <p style="margin:8px 0 0;color:#5f6e73;font-size:14px;">
-                A complete, transparent process for sustainable growth in South Africa
+                A complete, transparent process for sustainable growth in Durban
             </p>
         </div>
 
@@ -713,8 +713,8 @@
                 <div class="timeline-item-container">
                     <div class="timeline-item">
                         <div class="content-box">
-                            <h3>1. In-Depth Website Analysis</h3>
-                            <p>We start with a thorough audit of your current online presence, identifying quick wins and long-term strategies tailored specifically to the South African search landscape.</p>
+                            <h3>1. Comprehensive Competitor Analysis</h3>
+                            <p>We dive deep into the Durban digital landscape to dissect exactly what your competitors are doing. By identifying gaps in the local market, we build a strategic roadmap designed to position your brand ahead of other players in KZN.</p>
                         </div>
                     </div>
                 </div>
@@ -722,8 +722,8 @@
                 <div class="timeline-item-container">
                     <div class="timeline-item">
                         <div class="content-box">
-                            <h3>3. Technical SEO & Speed Audit</h3>
-                            <p>Our experts optimize your site's structure and performance. We focus on fixing bugs and improving loading speeds to ensure a flawless experience for every Mzansi visitor.</p>
+                            <h3>3. Geo-Targeted Keyword Integration</h3>
+                            <p>We move beyond generic terms by targeting high-intent keywords specific to your area. Whether you are targeting clients in Umhlanga, Westville, or Durban North, our content strategy connects you directly with the people actively looking for you.</p>
                         </div>
                     </div>
                 </div>
@@ -731,8 +731,8 @@
                 <div class="timeline-item-container">
                     <div class="timeline-item">
                         <div class="content-box">
-                            <h3>5. Performance Reporting & Trust</h3>
-                            <p>Gain complete clarity with our transparent monthly reports. We detail the traffic, rankings, and sales generated, proving the Return on Investment (ROI) of your SEO partnership.</p>
+                            <h3>5. Trust-Building Review Strategy</h3>
+                            <p>In a close-knit community like Durban, reputation is everything. We help you implement systems to generate authentic 5-star reviews. This social proof not only boosts your local rankings but is the deciding factor for potential clients comparing you to others.</p>
                         </div>
                     </div>
                 </div>
@@ -742,8 +742,8 @@
                 <div class="timeline-item-container">
                     <div class="timeline-item">
                         <div class="content-box">
-                            <h3>2. Content Strategy & Topical Authority</h3>
-                            <p>We go beyond keywords, crafting content that answers user intent deeply and uniquely. This establishes your business as the definitive expert (authority) in your specific field.</p>
+                            <h3>2. Google Business Profile Enhancement</h3>
+                            <p>Your digital storefront matters. We fully optimize your Google profile with accurate details and geo-tagged updates, ensuring you appear prominently in the "Map Pack" when customers search for services in Durban and surrounding suburbs.</p>
                         </div>
                     </div>
                 </div>
@@ -751,8 +751,8 @@
                 <div class="timeline-item-container">
                     <div class="timeline-item">
                         <div class="content-box">
-                            <h3>4. Local & Entity Authority Building</h3>
-                            <p>We secure your presence in local listings and map your business to Google's Knowledge Graph, essential steps for local recognition and driving foot traffic across major SA cities.</p>
+                            <h3>4. Local Authority Link Building</h3>
+                            <p>Authority is built on trust. We secure citations on reputable South African directories and local portals. This signals to search engines that your business is a verified, trusted entity within the KwaZulu-Natal economy, boosting your domain power.</p>
                         </div>
                     </div>
                 </div>
@@ -760,8 +760,8 @@
                 <div class="timeline-item-container">
                     <div class="timeline-item">
                         <div class="content-box">
-                            <h3>6. Accelerated Paid Growth (Optional)</h3>
-                            <p>For immediate visibility, we combine organic SEO efforts with powerful paid campaigns (PPC). This approach accelerates traffic and ensures you capture leads while rankings mature.</p>
+                            <h3>6. Performance Analytics & Insights</h3>
+                            <p>Transparency is our priority. You receive detailed monthly reports tracking your local rankings, traffic, and leads. We show you clear data on how our strategy is driving real growth and ROI for your business in the Durban market.</p>
                         </div>
                     </div>
                 </div>
@@ -1017,10 +1017,10 @@
         <div class="row">
             <div class="left">
                 <div class="inner">
-                    <div class="eyebrow">PACKAGES FOR SOUTH AFRICA</div>
+                    <div class="eyebrow">PACKAGES FOR DURBAN</div>
 
                     <h2 class="headline">
-                        Our Flexible<br> Website Design<br> and SEO Packages
+                        Affordable<br> SEO Services Packages<br> in Durban
                         <span class="accent">.</span>
                     </h2>
 
@@ -1029,34 +1029,29 @@
                             <thead>
                             <tr>
                                 <th>Business Size</th>
-                                <th>Website & <br> SEO Scope</th>
-                                <th>Dev Cost (One-Time)</th>
-                                <th>Monthly SEO Cost</th>
+                                <th>SEO Packages</th>
+                                <th>Monthly SEO Payment</th>
                             </tr>
                             </thead>
                             <tbody>
                             <tr>
                                 <td class="package-name" data-label="Business Size">Small Businesses</td>
-                                <td data-label="Website & SEO Scope">5 Page <br>WordPress Website + 3 Months SEO</td>
-                                <td data-label="Dev Cost (One-Time)">$100</td>
+                                <td data-label="Website & SEO Scope">3 Months SEO</td>
                                 <td data-label="Monthly SEO Cost">$100</td>
                             </tr>
                             <tr>
                                 <td class="package-name" data-label="Business Size">Medium Businesses</td>
-                                <td data-label="Website & SEO Scope">Full <br>WordPress Website (Required Pages) + 6 Months SEO</td>
-                                <td data-label="Dev Cost (One-Time)">$250</td>
+                                <td data-label="Website & SEO Scope">6 Months SEO</td>
                                 <td data-label="Monthly SEO Cost">$150</td>
                             </tr>
                             <tr>
                                 <td class="package-name" data-label="Business Size">E-commerce Startup</td>
-                                <td data-label="Website & SEO Scope">Standard WordPress E-commerce + 6 Months SEO</td>
-                                <td data-label="Dev Cost (One-Time)">$300</td>
+                                <td data-label="Website & SEO Scope">6 Months SEO</td>
                                 <td data-label="Monthly SEO Cost">$200</td>
                             </tr>
                             <tr>
                                 <td class="package-name" data-label="Business Size">Medium E-commerce</td>
-                                <td data-label="Website & SEO Scope">Laravel E-commerce Development + 6 Months SEO</td>
-                                <td data-label="Dev Cost (One-Time)">$500</td>
+                                <td data-label="Website & SEO Scope">6 Months SEO</td>
                                 <td data-label="Monthly SEO Cost">$300</td>
                             </tr>
                             </tbody>
@@ -1073,48 +1068,48 @@
             </div>
 
             <div class="right-panel">
-                <h3 class="headline headline-small"> Key SEO Benefits </h3>
+                <h3 class="headline headline-small"> Durban SEO Benefits </h3>
                 <div class="cards">
                     <div class="card">
-                        <div class="icon">🌐</div>
+                        <div class="icon">🏆</div>
                         <div>
-                            <h4>Ranking Importance</h4>
-                            <p>Research confirms that over 85% of all website traffic originates from search engines. Ranking higher is the single biggest factor in being found online.</p>
+                            <h4>Dominate the KZN Rankings</h4>
+                            <p>Research confirms that over 85% of all local business traffic in South Africa originates from Google searches. Ranking higher is the single biggest factor in being found online by customers in Umhlanga, Westville, and greater Durban.</p>
                         </div>
                     </div>
                     <div class="card">
-                        <div class="icon">🔍</div>
+                        <div class="icon">🎯</div>
                         <div>
-                            <h4>Effective strategy</h4>
-                            <p>SEO is a strategic tool that allows you to directly target the exact keywords and phrases your potential customers use when searching for your products or services.</p>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="icon">👥</div>
-                        <div>
-                            <h4>Bring Visitors</h4>
-                            <p>Implementing solid SEO practices alongside smart, search-friendly web design ensures you attract a steady stream of qualified visitors who are actively looking to buy or engage.</p>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="icon">G</div>
-                        <div>
-                            <h4>Major Search Engines</h4>
-                            <p>Almost all user journeys on the internet begin with major search engines like Google. Being visible here is mandatory for consistent growth.</p>
+                            <h4>Targeted & Effective Strategy</h4>
+                            <p>SEO is the most strategic tool that allows you to directly target the exact keywords and location phrases your potential Durban customers use, whether they're searching for a service in the CBD or a product in Pinetown.</p>
                         </div>
                     </div>
                     <div class="card">
                         <div class="icon">📈</div>
                         <div>
-                            <h4>Massive Search Results</h4>
-                            <p>More than 8.5 billion searches are performed on Google every single day. This immense daily query volume ensures that every small ranking improvement offers a huge, continuous opportunity to capture new customers.</p>
+                            <h4>Attract Qualified Durban Visitors</h4>
+                            <p>Implementing smart, search-friendly web design and local SEO practices ensures you attract a steady stream of highly qualified visitors who are actively looking to buy or engage with a local provider right now in the eThekwini region.</p>
                         </div>
                     </div>
                     <div class="card">
-                        <div class="icon">🏆</div>
+                        <div class="icon">🗺️</div>
                         <div>
-                            <h4 >Consumer Perception</h4>
-                            <p>The higher your website ranks organically, the more authoritative and trustworthy your brand appears to potential consumers. High rankings build consumer confidence.</p>
+                            <h4>Conquer the Google Map Pack</h4>
+                            <p>Almost all user journeys for local services begin with a major search engine like Google. Being visible in the crucial "Map Pack" is mandatory for consistent growth and securing foot traffic or service calls in your local Durban service area.</p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="icon">🚀</div>
+                        <div>
+                            <h4>Consistent Massive Search Results</h4>
+                            <p>With billions of searches performed daily globally, even a small improvement in your local Durban ranking offers a huge, continuous opportunity to capture new customers and rapidly expand your market share across the region.</p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="icon">🥇</div>
+                        <div>
+                            <h4>Build Durban Consumer Trust</h4>
+                            <p>The higher your website ranks organically for local terms, the more authoritative and trustworthy your brand appears to potential Durban consumers. High, consistent rankings signal expertise, building essential consumer confidence in your business.</p>
                         </div>
                     </div>
                 </div>
@@ -1306,7 +1301,7 @@
                 </h2>
 
                 <p class="desc">
-                    Our digital and business specialists are here to guide you. We'll help you find the right direction and get things sorted.
+                    Our digital and Durban business specialists are here to guide you. We’ll help you find the right direction and get things sorted.
                 </p>
 
                 <a href="https://www.facebook.com/jubair.khan.ariyan/" class="btn">
