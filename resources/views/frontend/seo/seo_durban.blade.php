@@ -136,14 +136,14 @@
                         <div class="feature-badge">
                             <img class="device"
                                  src="https://cybersparkglobal.com/images/slider/google%20seo.png"
-                                 alt="Seo services for south africa ">
+                                 alt="google Seo services for south africa">
                         </div>
 
                         <!-- MAIN BIG MOCKUP IMAGE -->
                         <div class="mockup-card">
                             <img class="device"
                                  src="https://cybersparkglobal.com/images/slider/SEO%20services%20for%20South%20Africa%20.webp"
-                                 alt="google Seo services for south africa">
+                                 alt="Seo services for south africa, seo durban image ">
                         </div>
 
                     </div>
