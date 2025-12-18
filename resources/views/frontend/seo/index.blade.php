@@ -1376,4 +1376,200 @@
 
 
 
+    <!-- start seo area section -->
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <style>
+
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&display=swap');
+
+        .service-areas-slider h2.fw-bold {
+            font-family: 'Plus Jakarta Sans', sans-serif !important;
+            font-weight: 800; /* Makes it look thick and modern like the design */
+            letter-spacing: -0.03em; /* Tightens the letters for a premium feel */
+        }
+
+        .service-areas-slider {
+            /* Primary background color from your image */
+            background-color: #051926;
+            color: #fff;
+            height: 560px;
+            padding: 50px 0;
+            overflow: hidden;
+            margin-top: 3px;
+        }
+
+        .area-card {
+            /* Secondary box background color from your image */
+            background: #0a2533;
+            border-radius: 15px;
+            padding: 20px 15px; /* Reduced padding for smaller height */
+            text-align: center;
+            border: 1px solid #1a3a4a;
+            transition: all 0.3s ease;
+            height: 280px; /* Forced smaller height */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 40px;
+            margin-top: 40px;
+        }
+
+        .area-card:hover {
+            transform: translateY(-5px);
+            border-color: #00d4ff;
+            box-shadow: 0 5px 15px rgba(0, 212, 255, 0.15);
+        }
+
+        .icon-box img {
+            margin-bottom: 10px;
+            width: 45px; /* Smaller icons */
+            height: 45px;
+
+        }
+
+        .area-card h3 {
+            font-weight: 700;
+            font-size: 1.2rem; /* Smaller text */
+            margin-bottom: 10px;
+            color: #fff;
+        }
+
+        .area-card p {
+            font-size: 12px; /* Smaller text */
+            color: #8da2ae;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+
+        .btn-view {
+            /* Teal button color from your image */
+            background: #14b8c7;
+            color: #fff;
+            padding: 1px 18px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 13px;
+            transition: 0.3s;
+            border: none;
+        }
+
+        .btn-view:hover {
+            background: #fff;
+            color: #14b8c7;
+            text-decoration: none;
+        }
+
+        /* Navigation Arrows */
+        .swiper-button-next, .swiper-button-prev {
+            color: #14b8c7 !important;
+            transform: scale(0.6);
+        }
+
+        .swiper-pagination-bullet-active {
+            background: #14b8c7 !important;
+        }
+    </style>
+
+    <section class="service-areas-slider">
+        <div class="container text-center mb-4">
+            <h2 class="fw-bold">Special SEO Services For</h2>
+        </div>
+
+        <div class="container">
+            <div class="swiper areaSwiper">
+                <div class="swiper-wrapper">
+
+                    <div class="swiper-slide">
+                        <div class="area-card">
+                            <div class="icon-box">
+                                <img src="https://img.icons8.com/fluency/64/lighthouse.png" alt="Durban SEO">
+                            </div>
+                            <h3>Durban</h3>
+                            <p>Dominating search across the KZN.</p>
+                            <a href="https://cybersparkglobal.com/seo-durban" class="btn-view">View SEO</a>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="area-card">
+                            <div class="icon-box">
+                                <img src="https://img.icons8.com/fluency/64/city.png" alt="Johannesburg SEO">
+                            </div>
+                            <h3>Johannesburg</h3>
+                            <p>Top rankings in Africa's economic hub.</p>
+                            <a href="#" class="btn-view">View SEO</a>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="area-card">
+                            <div class="icon-box">
+                                <img src="https://img.icons8.com/fluency/64/mountain.png" alt="Cape Town SEO">
+                            </div>
+                            <h3>Cape Town</h3>
+                            <p>Data-driven Western Cape SEO strategies.</p>
+                            <a href="#" class="btn-view">View SEO</a>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="area-card">
+                            <div class="icon-box">
+                                <img src="https://img.icons8.com/fluency/64/court.png" alt="Pretoria SEO">
+                            </div>
+                            <h3>Pretoria</h3>
+                            <p>Strategic growth for the capital city.</p>
+                            <a href="#" class="btn-view">View SEO</a>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="area-card">
+                            <div class="icon-box">
+                                <img src="https://img.icons8.com/fluency/64/anchor.png" alt="Port Elizabeth SEO">
+                            </div>
+                            <h3>Port Elizabeth</h3>
+                            <p>Scaling brands in the Eastern Cape.</p>
+                            <a href="#" class="btn-view">View SEO</a>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var swiper = new Swiper(".areaSwiper", {
+                slidesPerView: 1, /* Mobile default */
+                spaceBetween: 20,
+                loop: true,
+                autoplay: {
+                    delay: 1700,
+                    pauseOnMouseEnter: true, // This stops the slider on hover
+                    disableOnInteraction: false // Keeps autoplay working after manual swipes
+                },
+                pagination: { el: ".swiper-pagination", clickable: true },
+                navigation: { nextEl: ".swiper-button-next", prevEl: ".swiper-button-prev" },
+                breakpoints: {
+                    640: { slidesPerView: 2 },
+                    992: { slidesPerView: 4 } /* Shows 4 boxes on desktop */
+                },
+            });
+        });
+    </script>
+    <!-- end seo area section -->
+
+
+
 @endsection

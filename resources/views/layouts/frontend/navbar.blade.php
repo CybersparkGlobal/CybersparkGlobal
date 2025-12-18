@@ -27,7 +27,7 @@
                                 <li><a href="{{ route('services.index') }}"><i class="line-icon-Medal-2"></i>Web Development</a></li>
                                 <li><a href="{{ route('services.index') }}"><i class="line-icon-Archery-2"></i>Software Development</a></li>
                                 <li><a href="{{ route('services.index') }}"><i class="line-icon-Financial"></i>UI/UX Designing</a></li>
-                                <li><a href="{{ route('services.index') }}"><i class="line-icon-Money-Bag"></i>SEO and Marketing</a></li>
+                                <li><a href="{{ route('seo.index') }}"><i class="line-icon-Money-Bag"></i>SEO and Marketing</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a href="{{ route('testimonial.index') }}" class="nav-link">Testimonials</a></li>
