@@ -1528,6 +1528,7 @@
                     </div>
 
                     <div class="swiper-slide">
+
                         <div class="area-card">
                             <div class="icon-box">
                                 <img src="https://img.icons8.com/fluency/64/anchor.png" alt="Port Elizabeth SEO">
