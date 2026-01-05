@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name_en": "Sharankhola Govt. Degree College",
+        "name_bn": "শরণখোলা সরকারি ডিগ্রি কলেজ",
+        "slug": "sharankhola_govt_degree_college",
+        "short_name": "SGDC",
+        "api_base_url": "http://college.test/api",
+        "logo": "http://sgdc.test/logo.png",
+        "status": 1
+    },
+    {
+        "id": 2,
+        "name": "xyz",
+        "slug": "xyz-college",
+        "short_name": "XYZ",
+        "api_base_url": "http://xyzcollege.test/api",
+        "logo": "http://xyzcollege.test/logo.png",
+        "status": 1
+    }
+]

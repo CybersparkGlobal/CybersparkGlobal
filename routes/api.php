@@ -17,3 +17,5 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+ Route::get('/institute-lists',[\App\Http\Controllers\Api\InstituteController::class,'lists'])->name('institute.lists');
+ Route::post('/teacher/login',[\App\Http\Controllers\Api\AuthController::class,'teacherLogin'])->name('institute.teacherLogin');
