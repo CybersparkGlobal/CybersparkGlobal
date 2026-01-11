@@ -6,6 +6,7 @@
         "slug": "sharankhola_govt_degree_college",
         "short_name": "SGDC",
         "api_base_url": "http://college.test/api",
+        "base_url": "http://college.test/",
         "logo": "http://sgdc.test/logo.png",
         "status": 1
     },
@@ -15,6 +16,7 @@
         "slug": "xyz-college",
         "short_name": "XYZ",
         "api_base_url": "http://xyzcollege.test/api",
+        "base_url": "http://xyzcollege.test",
         "logo": "http://xyzcollege.test/logo.png",
         "status": 1
     }
