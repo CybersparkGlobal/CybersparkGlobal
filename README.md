@@ -1,66 +1,46 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+CyberSpark Global
+<p align="center"> <img src="https://www.google.com/search?q=https://via.placeholder.com/400x120/FF2D20/FFFFFF%3Ftext%3DCyberSpark%2BGlobal" width="400" alt="CyberSpark Global Logo"> </p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<p align="center"> <a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status"></a> <a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Platform-Web-blue.svg" alt="Platform"></a> <a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-orange.svg" alt="License"></a> </p>
 
-## About Laravel
+আমাদের সম্পর্কে (About Us)
+CyberSpark Global একটি আধুনিক প্রযুক্তি সেবা প্রদানকারী প্রতিষ্ঠান। আমরা বিশ্বাস করি যে উদ্ভাবনী প্রযুক্তি এবং সৃজনশীল চিন্তা যেকোনো ব্যবসাকে দ্রুত এগিয়ে নিতে পারে। আমাদের লক্ষ্য হলো বিশ্বমানের সফটওয়্যার এবং ডিজিটাল সলিউশন প্রদানের মাধ্যমে গ্রাহকের সন্তুষ্টি নিশ্চিত করা।
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+আমরা মূলত যে কাজগুলো সহজ ও কার্যকরভাবে সম্পন্ন করি:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Web Development: লারাভেল এবং আধুনিক ফ্রেমওয়ার্কের মাধ্যমে ওয়েবসাইট তৈরি।
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+System Architecture: শক্তিশালী এবং স্কেলেবল ডাটাবেস ডিজাইন।
 
-## Learning Laravel
+User Experience: দৃষ্টিনন্দন এবং ইউজার-ফ্রেন্ডলি ইন্টারফেস (UI/UX)।
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Security: আপনার ডাটা এবং অ্যাপ্লিকেশনের সর্বোচ্চ নিরাপত্তা নিশ্চিত করা।
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+API Solutions: বিভিন্ন থার্ড-পার্টি অ্যাপের সাথে সহজ ইন্টিগ্রেশন।
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+আমাদের সেবাসমূহ (Our Services)
+আমরা আপনার ব্যবসার ধরন অনুযায়ী কাস্টমাইজড সেবা প্রদান করি:
 
-## Laravel Sponsors
+বিজনেস সলিউশন: ই-কমার্স, ERP এবং ইনভেন্টরি ম্যানেজমেন্ট সিস্টেম।
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+মোবাইল অ্যাপ: অ্যান্ড্রয়েড এবং আইওএস (iOS) অ্যাপ্লিকেশন ডেভেলপমেন্ট।
 
-### Premium Partners
+ডিজিটাল মার্কেটিং: আপনার ব্র্যান্ডকে বিশ্বের কাছে পৌঁছে দেওয়া।
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+কেন CyberSpark Global?
+আমরা শুধু কোডিং করি না, আমরা একটি পূর্ণাঙ্গ অভিজ্ঞতা তৈরি করি। আমাদের কাজের প্রধান বৈশিষ্ট্যগুলো হলো:
 
-## Contributing
+পরিচ্ছন্ন কোড (Clean Code): যা ভবিষ্যতে রক্ষণাবেক্ষণ করা সহজ।
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+দ্রুত পারফরম্যান্স: আমাদের তৈরি প্রতিটি সিস্টেম অত্যন্ত দ্রুত গতির।
 
-## Code of Conduct
+সার্বক্ষণিক সাপোর্ট: প্রোজেক্ট ডেলিভারির পরেও আমরা গ্রাহক সেবা প্রদান করি।
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+যোগাযোগ (Contact Us)
+আমাদের সাথে যেকোনো প্রয়োজনে যোগাযোগ করতে পারেন:
 
-## Security Vulnerabilities
+ওয়েবসাইট: cybersparkglobal.com
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+ইমেইল: info@cybersparkglobal.com
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+ঠিকানা: ঢাকা, বাংলাদেশ।
