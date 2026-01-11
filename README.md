@@ -1,8 +1,6 @@
 CyberSpark Global
 <p align="center"> <img src="https://cybersparkglobal.com/images/slider/cyber spark global official logo 10 .webp" width="400" alt="CyberSpark Global Logo"> </p>
 
-<p align="center"> <a href="https://cybersparkglobal.com/"><img src="https://cybersparkglobal.com/images/slider/cyber spark global official logo 10 .webp" alt="Status"></a> <a href="https://cybersparkglobal.com/"><img src="https://cybersparkglobal.com/images/slider/cyber spark global official logo 10 .webp" alt="Platform"></a> <a href="https://cybersparkglobal.com/"><img src="https://cybersparkglobal.com/images/slider/cyber spark global official logo 10 .webp" alt="License"></a> </p>
-
 আমাদের সম্পর্কে (About Us)
 CyberSpark Global একটি আধুনিক প্রযুক্তি সেবা প্রদানকারী প্রতিষ্ঠান। আমরা বিশ্বাস করি যে উদ্ভাবনী প্রযুক্তি এবং সৃজনশীল চিন্তা যেকোনো ব্যবসাকে দ্রুত এগিয়ে নিতে পারে। আমাদের লক্ষ্য হলো বিশ্বমানের সফটওয়্যার এবং ডিজিটাল সলিউশন প্রদানের মাধ্যমে গ্রাহকের সন্তুষ্টি নিশ্চিত করা।
 
