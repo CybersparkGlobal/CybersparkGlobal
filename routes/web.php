@@ -39,6 +39,7 @@ Route::get('/single_blog',[\App\Http\Controllers\Frontend\BlogController::class,
 Route::get('/contact_us',[\App\Http\Controllers\Frontend\ContactController::class,'index' ])->name('contact.index');
 Route::get('/seo', [\App\Http\Controllers\Frontend\SeoController::class, 'index'])->name('seo.index');
 Route::get('/seo-durban', [\App\Http\Controllers\Frontend\SeoController::class, 'durbanIndex'])->name('durban.index');
+Route::get('/college-management-software', [\App\Http\Controllers\Frontend\CollegeManagementController::class, 'index'])->name('college.management');
 
 
 Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['web', 'auth']], function (){
