@@ -1367,7 +1367,7 @@
         }
     </style>
 
-    <a href="https://wa.me/8801332675586" target="_blank" class="whatsapp-float" aria-label="Chat with us on WhatsApp">
+    <a href="https://wa.me/8801685375652" target="_blank" class="whatsapp-float" aria-label="Chat with us on WhatsApp">
         <i class="fab fa-whatsapp"></i>
     </a>
     <!-- end WhatsApp Button section -->
