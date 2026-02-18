@@ -71,7 +71,7 @@
             <span class="badge rounded-pill badge-sky mb-3 px-3 py-2">ALL-IN-ONE SOLUTION</span>
 
             <h1 class="display-4 fw-bold mb-4" style="font-family: 'Plus Jakarta Sans', sans-serif;">
-                Advanced College Management System
+                Advanced Institution Management System
             </h1>
 
             <p class="lead mb-5 opacity-75 mx-auto" style="max-width: 800px;">
@@ -80,7 +80,7 @@
 
             <div class="d-flex flex-column flex-md-row justify-content-center gap-3">
                 <a href="https://demo.cybersparkglobal.com/" class="btn btn-sky-blue btn-lg rounded-pill px-5 fw-bold">Request Demo</a>
-                <a href="https://www.youtube.com/watch?v=nYs-HgZTYMw" class="btn btn-outline-sky btn-lg rounded-pill px-5 fw-bold">Explore Features</a>
+                <a href="https://forms.gle/agf5KmUjSZtxNans9" class="btn btn-outline-sky btn-lg rounded-pill px-5 fw-bold">Get Started</a>
             </div>
         </div>
     </section>
@@ -312,7 +312,7 @@
         <div class="container text-center py-4">
             <h2 class="fw-bold mb-4">Ready to Transform Your College?</h2>
             <p class="mb-4">Join 500+ users already using our platform to scale their operations.</p>
-            <a href="{{ route('contact.index') }}" class="btn btn-dark btn-lg rounded-pill px-5">Get Started Now</a>
+            <a href="https://forms.gle/agf5KmUjSZtxNans9" class="btn btn-dark btn-lg rounded-pill px-5">Get Started Now</a>
         </div>
     </section>
 
@@ -348,7 +348,7 @@
 
         // Make it show a funny message if they actually manage to click it
         image.addEventListener('click', function() {
-            alert("You caught him! High five! 🖐️");
+            alert("Ready For Your College System 🥳?");
         });
     </script>
 
