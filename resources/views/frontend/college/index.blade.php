@@ -75,7 +75,7 @@
             </h1>
 
             <p class="lead mb-5 opacity-75 mx-auto" style="max-width: 800px;">
-                Automate Your Entire Campus with <strong>Bangladesh's</strong> Most Comprehensive Digital Platform. An advanced College Management System designed to streamline every academic and administrative process. From Student Admissions to Online Fee Collection, manage everything in one secure dashboard.
+                Automate Your Entire Campus with <strong>Bangladesh's</strong> Most Comprehensive Digital Platform. An advanced Institution Management System designed to streamline every academic and administrative process. From Student Admissions to Online Fee Collection, manage everything in one secure dashboard.
             </p>
 
             <div class="d-flex flex-column flex-md-row justify-content-center gap-3">

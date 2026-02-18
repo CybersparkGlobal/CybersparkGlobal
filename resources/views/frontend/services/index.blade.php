@@ -27,7 +27,7 @@
                     <div class="bg-solitude-blue border-radius-6px p-45px lg-p-30px mb-25px">
                         <span class="fs-19 alt-font text-dark-gray fw-700 mb-20px d-inline-block">Corporate services</span>
                         <ul class="p-0 m-0 list-style-02 fw-500">
-                            <li><a href="https://cybersparkglobal.com/institution-management-software">Institute Management System</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
+                            <li><a href="https://cybersparkglobal.com/institution-management-software">Institution Management System</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
                             <li class="pb-10px mb-10px border-bottom border-color-transparent-dark"><a href="https://cybersparkglobal.com/contact_us">Web Development</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
                             <li class="pb-10px mb-10px border-bottom border-color-transparent-dark text-dark-gray"><a href="https://cybersparkglobal.com/contact_us" class="text-dark-gray text-dark-gray-hover">Software Development</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
                             <li class="pb-10px mb-10px border-bottom border-color-transparent-dark"><a href="https://cybersparkglobal.com/contact_us">UI/UX Designing</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
