@@ -64,24 +64,7 @@
                 @foreach($chatHistory as $chat)
                     <div class="d-flex flex-row {{ $chat['role'] == 'user' ? 'justify-content-end' : 'justify-content-start' }} mb-3">
                         <div class="chat-bubble {{ $chat['role'] == 'user' ? 'chat-bubble-user shadow' : 'chat-bubble-bot shadow-sm' }} shadow-sm">
-{{--                            {!! nl2br(preg_replace(['/\*\*(.*?)\*\*/','/\[(.*?)\]\((.*?)\)/','/^\* (.*?)$/m',],['<strong>$1</strong>','<a href="$2" target="_blank" class="chat-link">$1</a>','• $1',],e($chat['content']))) !!}--}}
-                            {!!
-            nl2br(
-                preg_replace(
-                    [
-                        '/\*\*(.*?)\*\*/',               // বোল্ড (**) ঠিক করবে
-                        '/\[(.*?)\]\((.*?)\)/',         // লিঙ্ক [Text](URL) ঠিক করবে
-                        '/^\* (.*?)$/m',                // বুলেট পয়েন্ট ঠিক করবে
-                    ],
-                    [
-                        '<strong>$1</strong>',
-                        '<a href="$2" target="_blank" style="color: #ffca28; font-weight: bold; text-decoration: underline;">$1</a>',
-                        '• $1',
-                    ],
-                    e($chat['content'])
-                )
-            )
-        !!}
+                            {!! nl2br( preg_replace( [ '/\*\*(.*?)\*\*/', '/\[(.*?)\]\((.*?)\)/','/^\* (.*?)$/m',],[ '<strong>$1</strong>','<a href="$2" target="_blank" style="color: #ffca28; font-weight: bold; text-decoration: underline;">$1</a>','• $1',],e($chat['content'])))!!}
                         </div>
                     </div>
                 @endforeach
