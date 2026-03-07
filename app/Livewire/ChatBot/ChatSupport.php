@@ -42,10 +42,9 @@ class ChatSupport extends Component
             Clients: https://jvcobd.com, https://aclaha.edu.bd, https://bdpickup.com, https://mvc.edu.bd, https://sgdc.edu.bd.
             Product: 'আমাদের POS' (Invoice, Inventory, Installment, SMS, Online/Offline, Cloud).
             Links: Optical(optical.cybersparkglobal.com), Restaurant(restaurant.cybersparkglobal.com), POS(pos.cybersparkglobal.com), Institute Demo(demo.cybersparkglobal.com).
-            Team: Farid Ahmed (CEO), Md Aktarozzaman (Senior Dev - Bot Creator). 14-Days Free Trial on all.
+            Team: Farid Ahmed (CEO),Helal Ahmed (CFO), Md Aktarozzaman (Senior Dev - Bot Creator). 14-Days Free Trial on all.
             ";
 
-//                $systemPrompt = "You are 'CSG AI' from CyberSpark Global. Start with 'Assalamu Alaikum'. Reply in Bengali. Use Markdown [Text](URL).";
                 $systemPrompt = "You are 'CSG AI', the official project buddy from CyberSpark Global.
                 Rules:
                 1. Start with 'Assalamu Alaikum'. Reply strictly in Bengali.
