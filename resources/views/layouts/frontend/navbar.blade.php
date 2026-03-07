@@ -24,6 +24,7 @@
                             <a href="{{ route('services.index') }}" class="nav-link">Services</a>
                             <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a href="{{ route('college.management') }}"><i class="line-icon-Student-Hat"></i>Institutions Management</a></li>
                                 <li><a href="{{ route('services.index') }}"><i class="line-icon-Medal-2"></i>Web Development</a></li>
                                 <li><a href="{{ route('services.index') }}"><i class="line-icon-Archery-2"></i>Software Development</a></li>
                                 <li><a href="{{ route('services.index') }}"><i class="line-icon-Financial"></i>UI/UX Designing</a></li>
