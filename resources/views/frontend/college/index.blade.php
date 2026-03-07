@@ -1,8 +1,8 @@
 @extends('layouts.frontend.app')
 
-<title>Advanced College Management Software in BD</title>
-<meta name="description" content="Automate Your Entire Campus with Bangladesh's Most Comprehensive Digital Platform. An advanced College Management System designed to streamline every academic and administrative process.">
-<link rel="canonical" href="">
+<title>Best School & College Management Software in Bangladesh</title>
+<meta name="description" content="Automate Your Entire Campus with Bangladesh's Most Comprehensive Digital Platform. An advanced Institution Management System designed to streamline every academic and administrative process.">
+<link rel="canonical" href="https://cybersparkglobal.com/institution-management-software">
 <meta name="robots" content="index, follow">
 
 
