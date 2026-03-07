@@ -179,9 +179,7 @@
                                 <span class="team-member-name fw-500 text-white d-block">Farid Ahmed</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block">CEO</span>
                             </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/thefaridahmed" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
-                            </div>
+
                         </figcaption>
                     </figure>
                 </div>
@@ -193,9 +191,6 @@
                             <div class="w-100">
                                 <span class="team-member-name fw-500 text-white d-block">Helal Ahmed</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block"> Co-Founder </span>
-                            </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/Helalfb" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
                             </div>
                         </figcaption>
                     </figure>
@@ -211,9 +206,7 @@
                                 <span class="team-member-name fw-500 text-white d-block">Md Aktarozzaman</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block"> Senior Web and Software Developer</span>
                             </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/ar.aktr" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
-                            </div>
+
                         </figcaption>
                     </figure>
                 </div>
@@ -228,9 +221,7 @@
                                 <span class="team-member-name fw-500 text-white d-block">Prosen Mondal</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block">  Web and Software Developer</span>
                             </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/prosen.ray.242340" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
-                            </div>
+
                         </figcaption>
                     </figure>
                 </div>
@@ -243,9 +234,7 @@
                                 <span class="team-member-name fw-500 text-white d-block">Ar jubair Khan</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block"> SEO Specialist and Web Developer</span>
                             </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/jubair.khan.ariyan/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
-                            </div>
+
                         </figcaption>
                     </figure>
                 </div>
@@ -260,9 +249,7 @@
                                 <span class="team-member-name fw-500 text-white d-block">Fahim Islam</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block">Content Writer SEO Expert</span>
                             </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/fahimislam.nipun" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
-                            </div>
+
                         </figcaption>
                     </figure>
                 </div>
@@ -277,9 +264,7 @@
                                 <span class="team-member-name fw-500 text-white d-block">T Jubear Araf</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block">Social Media Manager and Marketing Specialist</span>
                             </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/tjubeararaf" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
-                            </div>
+
                         </figcaption>
                     </figure>
                 </div>
@@ -295,9 +280,7 @@
                                 <span class="team-member-name fw-500 text-white d-block">Rubayet Raja</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block">Senior UI/UX Designer</span>
                             </div>
-                            <div class="social-icon d-flex flex-column flex-shrink-1">
-                                <a href="https://www.facebook.com/rh.raja.35" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook icon-small"></i></a>
-                            </div>
+
                         </figcaption>
                     </figure>
                 </div>
