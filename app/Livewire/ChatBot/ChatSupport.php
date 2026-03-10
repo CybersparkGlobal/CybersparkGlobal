@@ -114,13 +114,13 @@ class ChatSupport extends Component
             - SGDC: https://sgdc.edu.bd
 
             Our Products:
-            - Smart Institute System Demo: https://demo.cybersparkglobal.com (User: superadmin, Pass: 417685)
+            - Smart Institute System Demo: https://demo.cybersparkglobal.com (User: superadmin, Pass: 12345678)
             - Optical POS: https://optical.cybersparkglobal.com
             - Restaurant POS: https://restaurant.cybersparkglobal.com
             - General POS: https://pos.cybersparkglobal.com
 
             Trial Offer: 14-Days Free Trial on all products after registration.
-            Team: Farid Ahmed (CEO), Helal Ahmed (CFO), Md Aktarozzaman (Senior Dev - Bot Creator).
+            Team: Farid Ahmed (CEO), Helal Ahmed (CFO), Md Aktarozzaman Senior Dev.
             ";
 
                 $systemPrompt = "You are 'CSG AI', the official project buddy from CyberSpark Global.
