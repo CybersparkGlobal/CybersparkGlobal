@@ -7,7 +7,7 @@
         "short_name": "csgcollege",
         "api_base_url": "http://college.test/api",
         "base_url": "http://college.test/",
-        "logo": "http://sgdc.test/logo.png",
+        "logo_url": "http://college.test/api/get/logo",
         "status": 1
     },
 
@@ -18,7 +18,7 @@
         "short_name": "XYZ",
         "api_base_url": "http://xyzcollege.test/api",
         "base_url": "http://xyzcollege.test",
-        "logo": "http://xyzcollege.test/logo.png",
+        "logo_url": "http://xyzcollege.test/api/get/logo",
         "status": 1
     }
 ]
