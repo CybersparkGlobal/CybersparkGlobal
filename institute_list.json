@@ -1,15 +1,16 @@
 [
     {
         "id": 1,
-        "name_en": "Sharankhola Govt. Degree College",
+        "name_en": "Demo College",
         "name_bn": "শরণখোলা সরকারি ডিগ্রি কলেজ",
-        "slug": "sharankhola_govt_degree_college",
-        "short_name": "SGDC",
+        "slug": "demo_college",
+        "short_name": "csgcollege",
         "api_base_url": "http://college.test/api",
         "base_url": "http://college.test/",
-        "logo": "http://sgdc.test/logo.png",
+        "logo_url": "http://college.test/api/get/logo",
         "status": 1
     },
+
     {
         "id": 2,
         "name": "xyz",
@@ -17,7 +18,7 @@
         "short_name": "XYZ",
         "api_base_url": "http://xyzcollege.test/api",
         "base_url": "http://xyzcollege.test",
-        "logo": "http://xyzcollege.test/logo.png",
+        "logo_url": "http://xyzcollege.test/api/get/logo",
         "status": 1
     }
 ]

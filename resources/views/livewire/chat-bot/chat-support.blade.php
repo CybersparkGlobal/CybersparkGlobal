@@ -64,7 +64,7 @@
                 @foreach($chatHistory as $chat)
                     <div class="d-flex flex-row {{ $chat['role'] == 'user' ? 'justify-content-end' : 'justify-content-start' }} mb-3">
                         <div class="chat-bubble {{ $chat['role'] == 'user' ? 'chat-bubble-user shadow' : 'chat-bubble-bot shadow-sm' }} shadow-sm">
-                            {!! nl2br(preg_replace(['/\*\*(.*?)\*\*/','/\[(.*?)\]\((.*?)\)/','/^\* (.*?)$/m',],['<strong>$1</strong>','<a href="$2" target="_blank" class="chat-link">$1</a>','• $1',],e($chat['content']))) !!}
+                            {!! nl2br( preg_replace( [ '/\*\*(.*?)\*\*/', '/\[(.*?)\]\((.*?)\)/','/^\* (.*?)$/m',],[ '<strong>$1</strong>','<a href="$2" target="_blank" style="color: #ffca28; font-weight: bold; text-decoration: underline;">$1</a>','• $1',],e($chat['content'])))!!}
                         </div>
                     </div>
                 @endforeach
@@ -230,6 +230,16 @@
             100% { transform: rotate( 0.0deg) }
         }
 
+        .chat-bubble-bot a {
+            color: #0d6efd !important;
+            text-decoration: underline !important;
+        }
+
+
+        .chat-bubble-user a {
+            color: #ffffff !important;
+            text-decoration: underline !important;
+        }
     </style>
 
     <script>
