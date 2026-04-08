@@ -230,10 +230,10 @@
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
                         <img src="{{ asset('/images/slider/Jubair Khan Ariyan@web developer and SEO Expert .jpg') }}" alt="Ar jubair khan image live in Khulna" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
-                            <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block">Ar jubair Khan</span>
+                            <a href="https://www.facebook.com/jubair.khan.ariyan/"> <div class="w-100">
+                                <span class="team-member-name fw-500 text-white d-block"> Ar jubair Khan</span>
                                 <span class="member-designation fs-15 lh-20 text-white d-block"> SEO Specialist and Web Developer</span>
-                            </div>
+                            </div></a>
 
                         </figcaption>
                     </figure>
