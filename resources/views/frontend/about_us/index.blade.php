@@ -225,15 +225,15 @@
                         </figcaption>
                     </figure>
                 </div>
-                  <!--test-->
+                <!--test-->
                 <div style="padding: 12px" class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
                         <img src="{{ asset('/images/slider/Jubair Khan Ariyan@web developer and SEO Expert .jpg') }}" alt="Ar jubair khan image live in Khulna" />
                         <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                             <a href="https://www.facebook.com/jubair.khan.ariyan/"> <div class="w-100">
-                                <span class="team-member-name fw-500 text-white d-block"> Ar jubair Khan</span>
-                                <span class="member-designation fs-15 lh-20 text-white d-block"> SEO Specialist and Web Developer</span>
-                            </div></a>
+                                    <span class="team-member-name fw-500 text-white d-block"> Ar jubair Khan</span>
+                                    <span class="member-designation fs-15 lh-20 text-white d-block"> SEO Specialist and Web Developer</span>
+                                </div></a>
 
                         </figcaption>
                     </figure>
