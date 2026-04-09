@@ -31,6 +31,7 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
+
 Route::get('/about_us',[\App\Http\Controllers\Frontend\AboutUsController::class,'index' ])->name('about_us');
 Route::get('/services',[\App\Http\Controllers\Frontend\ServicesController::class,'index' ])->name('services.index');
 Route::get('/testimonial',[\App\Http\Controllers\Frontend\TestimonialController::class,'index' ])->name('testimonial.index');
