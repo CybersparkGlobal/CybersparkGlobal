@@ -19,5 +19,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
  Route::get('/institute-lists',[\App\Http\Controllers\Api\InstituteController::class,'lists'])->name('institute.lists');
  Route::get('/institute-logo',[\App\Http\Controllers\Api\InstituteController::class,'getLogo'])->name('institute.getLogo');
- Route::post('/teacher-login',[\App\Http\Controllers\Api\AuthController::class,'teacherLogin'])->name('institute.teacherLogin');
- Route::post('/teacher/forgot-password-otp',[\App\Http\Controllers\Api\AuthController::class,'teacherForgotPassword'])->name('institute.teacherForgotPassword');
+ Route::post('/login',[\App\Http\Controllers\Api\AuthController::class,'login'])->name('institute.Login');
+ Route::post('/forgot-password-otp',[\App\Http\Controllers\Api\AuthController::class,'forgotPassword'])->name('institute.forgotPassword');

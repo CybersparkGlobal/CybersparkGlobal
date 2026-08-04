@@ -12,7 +12,7 @@ class AuthController extends Controller
     /**
      * Teacher Login with Remote Institute API & Detailed Error Logging
      */
-    public function teacherLogin(Request $request)
+    public function login(Request $request)
     {
         $request->validate([
             'phone_or_email' => 'required|string',
@@ -33,7 +33,7 @@ class AuthController extends Controller
         }
 
         try {
-            $apiUrl = rtrim($institute['api_base_url'], '/') . '/teacher/login';
+            $apiUrl = rtrim($institute['api_base_url'], '/') . '/login';
 
 
             $response = Http::withHeaders([
@@ -55,6 +55,7 @@ class AuthController extends Controller
                 return response()->json([
                     'status' => true,
                     'token' => $data['token'] ?? null,
+                    'role' => $data['role'] ?? null,
                     'user' => $data['user'] ?? null,
                     'institute' => $institute['name_en'],
                     'api_base_url' => $institute['api_base_url']
@@ -95,7 +96,7 @@ class AuthController extends Controller
         }
     }
 
-    public function teacherForgotPassword(Request $request)
+    public function forgotPassword(Request $request)
     {
         // Validate the input from the mobile app
         $request->validate([
@@ -136,10 +137,9 @@ class AuthController extends Controller
                 ])
                 ->timeout(120) // Increased from 60 to 120
                 ->connectTimeout(30) // Wait 30s to establish the initial connection
-                ->post(rtrim($institute['api_base_url'], '/') . '/teacher/forgot-password-otp', [
+                ->post(rtrim($institute['api_base_url'], '/') . '/forgot-password-otp', [
                     'login' => $request->phone_or_email,
                 ]);
-
             if ($response->successful()) {
                 $data = $response->json();
                 return response()->json([
