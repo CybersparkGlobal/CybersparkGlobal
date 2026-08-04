@@ -196,7 +196,17 @@
                     </figure>
                 </div>
                 <!--test end-->
-
+                <div class="col team-style-08 border-radius-6px md-mb-30px">
+                    <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
+                        <img src="{{ asset('/images/duke_cmo.jpeg') }}" alt="Syed Mashfiqur Rahman image" />
+                        <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
+                            <div class="w-100">
+                                <span class="team-member-name fw-500 text-white d-block">Syed Mashfiqur Rahman</span>
+                                <span class="member-designation fs-15 lh-20 text-white d-block"> Co Founder </span>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
                 <!-- test -->
                 <div  class="col team-style-08 border-radius-6px md-mb-30px">
                     <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
